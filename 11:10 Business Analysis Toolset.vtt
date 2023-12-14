@@ -1,0 +1,2266 @@
+WEBVTT
+
+1
+00:00:01.920 --> 00:00:03.679
+Danny Park: Alright. So
+
+2
+00:00:03.960 --> 00:00:29.269
+Danny Park: we talked about, you know, the business analytic life cycles right in in in life, cycle in one of the previous courses. Now we're gonna talk about the business analytic project phases. So in business analytics, right? And this is where for those who've taken me for management consulting the Capsule course, or those who heard me. You know we, you know, have worked taking my workshops where I talk through about consulting and the consulting industry, and some of the ways we operate.
+
+3
+00:00:29.990 --> 00:00:34.460
+Danny Park: Strategic consulting is actually business analytics, right?
+
+4
+00:00:34.870 --> 00:00:39.629
+Danny Park: We just market it as consulting, because that's what that that's how we sell the work.
+
+5
+00:00:39.920 --> 00:00:51.770
+Danny Park: But when we look at the rigors of of strategic consulting and what goes into strategic consulting, it's all business analytics. Okay? So within a business analytic project. There are 4 main phases.
+
+6
+00:00:52.360 --> 00:00:54.300
+Danny Park: These 4 main phases
+
+7
+00:00:54.720 --> 00:01:07.729
+Danny Park: are generally the best practice to follow when we want to run a business analytic project so, or your group projects should follow these 4 phases just to I, in my mind, should follow it exactly.
+
+8
+00:01:07.810 --> 00:01:09.670
+Danny Park: but feel free to modify it.
+
+9
+00:01:09.850 --> 00:01:15.210
+Danny Park: The the consulting case study competition groups are following this these phases.
+
+10
+00:01:15.650 --> 00:01:21.479
+Danny Park: or they should have the ones who didn't make it to the final 3 did not follow these 3 phases. I mean these 4 phases.
+
+11
+00:01:21.570 --> 00:01:34.890
+Danny Park: So the 4 phases are scoping and analysis solutioning prep and review and delivery. Alright. So we'll we'll talk about what each are as we go along. But at at high level scoping analysis is
+
+12
+00:01:35.120 --> 00:01:39.519
+Danny Park: doing the activities that you need to do to discover
+
+13
+00:01:40.600 --> 00:01:50.829
+Danny Park: facts that help. You understand the business problem of what? Of what you're trying to provide a recommendation for, or you're trying to find solutions for.
+
+14
+00:01:51.130 --> 00:02:05.129
+Danny Park: Okay? So the so and for your group projects most. Your scoping analysis is almost the facts that you need is in the actual case, study themselves. But there are things in the case. Study, where, when you think it through, it should be like, oh.
+
+15
+00:02:05.430 --> 00:02:08.039
+Danny Park: what are some assumptions that we need to make?
+
+16
+00:02:08.470 --> 00:02:16.089
+Danny Park: And how do we confirm our assumptions to a degree to where we could figure out what the actual root cause of the business problem is
+
+17
+00:02:16.230 --> 00:02:23.019
+Danny Park: right. And next one is going to be is going to be solutioning. So in the solutioning side, it's really it's talking about, hey.
+
+18
+00:02:23.030 --> 00:02:40.889
+Danny Park: which business analysis tools along with the relevant analytical techniques, do we need to come up with a set of recommendations that are reasonable for the client to execute. So in consulting or in business analytics, we call that solutioning phase okay.
+
+19
+00:02:40.900 --> 00:02:45.700
+Danny Park: And after you're working through the solutioning phase, you're gonna start prepping and reviewing
+
+20
+00:02:46.230 --> 00:03:02.489
+Danny Park: the final deliverable. So meaning you get, you gonna have to tell a story. You're gonna get all the business analysis and analytics figure out what makes sense, what make doesn't, what doesn't make sense. Then you have to figure out, how do you wanna present it? In what order? What logical order to make sure that the the receiving
+
+21
+00:03:02.900 --> 00:03:07.250
+Danny Park: party, meaning the consumers, understand what you're trying to tell them
+
+22
+00:03:07.820 --> 00:03:13.689
+Danny Park: right cause. All they know is they have a problem. So the the business analytic team
+
+23
+00:03:14.210 --> 00:03:18.749
+Danny Park: is a team responsible to help them understand what the business problem is.
+
+24
+00:03:18.800 --> 00:03:21.000
+And then what was done
+
+25
+00:03:21.320 --> 00:03:24.270
+Danny Park: to figure out these recommendations
+
+26
+00:03:24.330 --> 00:03:33.489
+Danny Park: right then, ultimately, you're delivering that story right, either through a a oral presentation or through a white paper or a slide deck.
+
+27
+00:03:34.650 --> 00:03:42.730
+Danny Park: So in this class we don't have presentations. So we're just going to use the slide deck that I provided as a template to deliver that story.
+
+28
+00:03:42.980 --> 00:04:08.409
+Danny Park: In reality, in in the real world. Most often you will be doing presentation just like how the case competition teams, or will be presenting to us next week. That's how you actually present in live in a corporation like that's like when I do when I'm there leading my teams, and we're ready for present presentations of findings like we. That's what we do. We get together. We have conference rooms, and the team goes up and literally goes through
+
+29
+00:04:08.600 --> 00:04:17.110
+Danny Park: the journey. And the story of of the recommendations, and based on that, you have a you have depending on how well the team did you have between 5 to about
+
+30
+00:04:17.540 --> 00:04:29.850
+Danny Park: 30 min of QA. The longer the QA. The worse the team did. So we have to make sure that we kinda do a good job up front to mitigate, you know the the the the questions later on, and then
+
+31
+00:04:30.220 --> 00:04:43.589
+Danny Park: then it's good to go. Then the teams figure out how they wanna execute, or if they wanna execute at all the other alternative that we see in industry for large consumer. Right? Meaning like for markets and industries, thought leaders.
+
+32
+00:04:43.970 --> 00:04:54.729
+Danny Park: It's it's in the form of white papers. So a white paper is is the end product of some team that applied business analytics to a industry level problem.
+
+33
+00:04:54.990 --> 00:05:13.359
+Danny Park: Okay? So for those who really want to get into strategic consulting and understand what and how to break it. This strategic consulting, and and how those things are created, or what they look like, like, what high quality outputs look like from a very good business. Analytic team reading industry, level white papers is A is a very, is a very good start.
+
+34
+00:05:13.900 --> 00:05:24.690
+Danny Park: And very good practice. So going into questioning real quick. Can we list more than one recommendation? Yes, yes, you could list more than one right you could, you could. But this should be
+
+35
+00:05:25.090 --> 00:05:36.539
+Danny Park: at least one recommendation that is the most reasonable and plausible. So the reason why we give more than one is because there's no business problem that is not going to be filled with some level of assumption.
+
+36
+00:05:36.710 --> 00:05:39.719
+Danny Park: It's really it's very, very rare
+
+37
+00:05:39.820 --> 00:05:49.709
+Danny Park: that a business analytic team will have the complete data set available to be able to validate at 100% level each of the recommendations that that they're providing.
+
+38
+00:05:49.880 --> 00:05:54.619
+Danny Park: So a really good business analytic team will say, Hey, based on the data that we have.
+
+39
+00:05:55.710 --> 00:05:57.620
+Danny Park: we are recommending this.
+
+40
+00:05:58.110 --> 00:06:07.059
+Danny Park: But please consider that if you have these assumptions that happen, you might have to modify and do our second recommendation.
+
+41
+00:06:07.160 --> 00:06:17.180
+Danny Park: So there is that art of of telling that story that really good business analytic teams understand that it's business analytics because of the problems and data sets.
+
+42
+00:06:17.600 --> 00:06:30.539
+Danny Park: It's the combination of the science which is the actual data analytics and the art which is the business analysis to provide the story. That's gonna resonate right? And I'll say one thing. Just add that
+
+43
+00:06:31.180 --> 00:06:35.189
+Danny Park: the purpose of a business analytic team is not to sell a solution.
+
+44
+00:06:35.780 --> 00:06:37.620
+Danny Park: Okay, we're not salesmen.
+
+45
+00:06:38.790 --> 00:06:40.030
+Danny Park: We're saleswomen.
+
+46
+00:06:40.110 --> 00:06:52.539
+Danny Park: We are providing objective recommendations based on the clarity of the data we have at that current time. And if and if it turns out, I've been on some projects where the data set was so bad
+
+47
+00:06:52.620 --> 00:06:57.319
+Danny Park: that we actually pull it out. You say, Hey, here are the gaps in your data set.
+
+48
+00:06:57.550 --> 00:07:00.640
+Danny Park: So because of these gaps are so profound
+
+49
+00:07:00.880 --> 00:07:12.730
+Danny Park: our recommendation. We're providing you treat that with a grain of salt, a really big one, maybe. But here are some considerations that we found that you should maybe wanna plug in at the at the data level.
+
+50
+00:07:13.060 --> 00:07:22.299
+Danny Park: right? And we will. And sometimes back. Then in the past, we've provided like repetition recommendations on, hey? Looks like a data acquisition strategy is off because we have data.
+
+51
+00:07:22.500 --> 00:07:46.610
+Danny Park: But there's a there's a a, a column of data or a a categories or factors of data that it just not being collected like we, we don't see it within the business problem that we have. We, you know, there are certain variables need to make correlations on. But there are these 2 big gaps that's not being collected. So, for example, let's say, adding hypothetical, now let's say you're do. You're a real estate company, and you want to analytics around
+
+52
+00:07:47.100 --> 00:07:55.460
+Danny Park: property costs right? And who's buying? So let's say you're getting. You get all the data. But then, like consumer demographics is not there.
+
+53
+00:07:55.610 --> 00:08:11.750
+Danny Park: right? But you know, naturally, with your natural business acumen like, Hey, if you want to sell, and you're trying to figure out like correlation between property location and and and and and you know, inventory movement and sell rate. You kind of have to also look like
+
+54
+00:08:11.780 --> 00:08:23.380
+Danny Park: consumer demographics. Very important, right? So it's missing. So if it's missing, possibly one consideration, I'll probably add at the end of that business case that business analytics project case would be.
+
+55
+00:08:23.510 --> 00:08:39.490
+Danny Park: It looks like you might have some deficiency in the data collection process. We don't see this data around client demographics. We recommend that you look into it because that is a huge consideration, a variable to help with the business analytic
+
+56
+00:08:39.940 --> 00:08:54.070
+Danny Park: solutioning. Right? So that's that's that type of of combination of analytics, analysis, and understanding, the gaps based on our understanding of business problem that in a nutshell is the group project
+
+57
+00:08:54.580 --> 00:09:06.240
+Danny Park: and the competition and actually, real life. right? Real life consultancies. You talk to any consultant, internal or external, any analytics team. They'll tell you. Yeah, that's exactly what we do.
+
+58
+00:09:06.940 --> 00:09:13.230
+Danny Park: Right? So it's and it's a very fun area, too. So that's that's the 4 phases.
+
+59
+00:09:13.630 --> 00:09:17.719
+Danny Park: Alright. So let's start with the wait before I go move on any questions.
+
+60
+00:09:22.030 --> 00:09:23.240
+Danny Park: Alright. So
+
+61
+00:09:23.620 --> 00:09:28.809
+Danny Park: obviously, the first thing starts with the problem statement. If you don't understand the problem statement, then
+
+62
+00:09:29.260 --> 00:09:35.810
+Danny Park: meaning, if you don't understand what the actual core problem is. then your analysis is going to be off.
+
+63
+00:09:35.870 --> 00:09:40.590
+Danny Park: And then, since your analysis is off, you're gonna be using the wrong analytics.
+
+64
+00:09:40.630 --> 00:09:50.950
+Danny Park: So since you use the wrong business analysis and the relevant analytics, then your solutioning is going to is not going to solve the actual problem that the client has.
+
+65
+00:09:51.020 --> 00:09:57.679
+Danny Park: Then what you deliver to the client? The client's gonna go. What the hell are they talking about? And then there you go, right. So
+
+66
+00:09:58.010 --> 00:10:02.549
+Danny Park: every phase of the of the business analytical
+
+67
+00:10:03.230 --> 00:10:16.709
+Danny Park: project, they, the quality matters right? So the the less the the less quality there is upfront, then ultimately at the end, you're gonna have less quality, right? So they they piggyback off of one another.
+
+68
+00:10:16.770 --> 00:10:22.689
+Danny Park: So that's why the business problem statement, understanding the business problem of the actual case is very important.
+
+69
+00:10:22.960 --> 00:10:43.669
+Danny Park: The 2 groups that met with me, that's what they were. That's what the the the main. The majority of officers are around. They're like, Hey, Danny? We read through like the business case. And we initially thought that this was the actual business problem. But when we started to look into and think through it as a team. We we were like, you know what? No, the core, the root cause of what they're trying to solve is actually this problem, are we on the right track? And I'm like, absolutely.
+
+70
+00:10:44.290 --> 00:10:50.410
+Danny Park: And then then they're like, then they immediately figured out which business analysis and analytics to to apply
+
+71
+00:10:50.620 --> 00:10:54.160
+Danny Park: right. So the arriving at the business problem
+
+72
+00:10:55.610 --> 00:11:06.680
+Danny Park: within the phases of a business analytical project right in my experience, the scoping analysis to get the business problem. It takes up maybe about 40 to 60% of the actual project time.
+
+73
+00:11:08.260 --> 00:11:13.500
+Danny Park: Because. as you're looking through right.
+
+74
+00:11:13.710 --> 00:11:19.310
+Danny Park: the problem at hand. You're gonna start to thinking through and discovering, hey? What else do we not have?
+
+75
+00:11:21.010 --> 00:11:35.350
+Danny Park: Right? And and having more discussions and more and more, and doing some outside research to think about or think through what we know about the industry helps us inform us on the the identification of the business problem Esseline. Go ahead.
+
+76
+00:11:36.520 --> 00:11:43.709
+Esaline Jarvis: Thank you, Professor, for taking my question. So I notice at the end of our case there are 4 questions.
+
+77
+00:11:43.950 --> 00:11:48.499
+Esaline Jarvis: Are we supposed to answer those questions, plus Do
+
+78
+00:11:48.860 --> 00:11:56.729
+Esaline Jarvis: use your guideline for the analysis when? Yeah? Yeah. So the answering of the questions at the end of the case study would help
+
+79
+00:11:57.400 --> 00:12:02.220
+Danny Park: would help the team through on the final deliverable.
+
+80
+00:12:02.340 --> 00:12:09.439
+Danny Park: Does that make sense? It's like their clues like, if you could answer one, then you answer other, and then you you have a good understanding of of of how to
+
+81
+00:12:09.480 --> 00:12:17.290
+Danny Park: push forward at the as the deliverable. I'm not grading the and I'm not grading the answer to those 4 questions. I'm grading the total.
+
+82
+00:12:17.350 --> 00:12:23.170
+Danny Park: the total project. Those 4 questions can work their way into the into your final, deliverable for sure.
+
+83
+00:12:23.840 --> 00:12:32.219
+Danny Park: but use them also as guides along the way. As to, if you understand something or not from related to the group project, or or the groups that the problem statement.
+
+84
+00:12:32.330 --> 00:12:34.920
+Esaline Jarvis: okay, thank you so much. Thank you so much.
+
+85
+00:12:36.470 --> 00:12:37.820
+Danny Park: Alright. So then.
+
+86
+00:12:38.090 --> 00:12:50.740
+so then, we had the business problem. So a business problem is a short, clear explanation of an issue, a challenge that sums up what you want to change. It helps you to help the team members and other stakeholders get the root cause of the problem. Why? It's important to who it impacts.
+
+87
+00:12:51.330 --> 00:12:53.460
+Danny Park: Okay. So here's where.
+
+88
+00:12:53.570 --> 00:12:59.860
+Danny Park: Here's how you know a a a good way to figure out, if you understand about prompting or not so
+
+89
+00:13:01.850 --> 00:13:04.640
+Danny Park: vague a problem. Statements, right
+
+90
+00:13:05.890 --> 00:13:13.730
+Danny Park: are not gonna help. So what's a vague problem statement? So you know, what's this to answer that? Let's go. Let's see, what's a clear problem statement. So a problem statement
+
+91
+00:13:13.830 --> 00:13:20.589
+Danny Park: needs to have the elements that we understand of who, what, when, where, and why?
+
+92
+00:13:21.070 --> 00:13:30.519
+Danny Park: Right? So it needs to somehow answer or not answer. It needs to have those factors involved. More of those factors involved to help
+
+93
+00:13:30.590 --> 00:13:40.270
+Danny Park: frame up. Hey? Is this a problem statement? That is that we that is, that is, that is the actual route one right? So, for example, if we see
+
+94
+00:13:40.420 --> 00:13:42.579
+Danny Park: the one here, right?
+
+95
+00:13:42.960 --> 00:13:45.980
+Danny Park: So the vague one is customer call hold. Times are too long.
+
+96
+00:13:46.330 --> 00:13:51.530
+Danny Park: Okay, alright fine. So what does that mean right? So
+
+97
+00:13:52.430 --> 00:14:00.740
+Danny Park: by whole times, what do we talk about like one customer's whole time? Is it average? Is it the the mode? What's too long?
+
+98
+00:14:00.920 --> 00:14:08.059
+Danny Park: Right? Is it 5 min? Is it too long? It's 10 min too long. What? So like? There's so many questions to ask about the problem statement that
+
+99
+00:14:09.260 --> 00:14:14.800
+Danny Park: clearly the prompt name is not not written correctly right, because no one understands it because there's so too many questions.
+
+100
+00:14:15.460 --> 00:14:40.050
+Danny Park: So what's example of a clear one? Right? Not one that's perfect, but a little bit better, right? So the the example of a clear one, right compared to the vague, would be the average customer. Service. Ho! On! Hold time for company. ABC. Exceeds 5 min during both. It's busy season and slow seasons. So you see here, this problem statement has a who, what? When?
+
+101
+00:14:40.870 --> 00:14:49.320
+Danny Park: Right and how, and not why, but some might have. Why, but this one doesn't. But it's giving us. It's clear it goes okay. Who we talk about
+
+102
+00:14:49.580 --> 00:14:50.680
+Danny Park: customers?
+
+103
+00:14:50.820 --> 00:14:56.300
+Danny Park: What do we talk about the average service whole time? For who for company A, BC.
+
+104
+00:14:57.040 --> 00:15:06.489
+Danny Park: What's a long hold time? 5 min when during busy season or slow season. So this is a specific and concise business problem statement.
+
+105
+00:15:06.860 --> 00:15:22.209
+Danny Park: So why is constructing problems very important? If your team can't come up with a clear palm statement. That means that the team doesn't understand the problem. So that means a team should be debating, going back and trying to do more discovery work, to figure out, to come to, to get enough information
+
+106
+00:15:22.700 --> 00:15:27.609
+Danny Park: to where it's the team will be able to write that clear problem statement.
+
+107
+00:15:29.850 --> 00:15:41.699
+Danny Park: In reality most consulting organizations or teams or projects or business. An analytics projects that fail is because they get to. They will overlook the importance of a problem statement.
+
+108
+00:15:42.690 --> 00:15:48.840
+Danny Park: Right? Because, for example, let's wait. Let's say, a team just happened to use this one as a problem statement.
+
+109
+00:15:49.190 --> 00:16:00.400
+Danny Park: Okay, so that means that when I'm when when we start delegating work, let's say I'm a a a team member, and let's say I'm gonna make up a name now of Chad is a different team member, right?
+
+110
+00:16:00.910 --> 00:16:02.440
+Danny Park: So we get delegated work.
+
+111
+00:16:03.270 --> 00:16:08.709
+Danny Park: If for me, my definition of a whole time that's too long is 2 min
+
+112
+00:16:09.550 --> 00:16:23.199
+Danny Park: versus Chad, who thinks the definition whole time that's too long is 5 min when he and I are doing our respective business analysis and analytics that we delegated. We're going to be using 2 different guardrails.
+
+113
+00:16:23.820 --> 00:16:29.279
+Danny Park: So maybe the data set that I have, I'm filtering out, or I'm only filtering in
+
+114
+00:16:29.570 --> 00:16:32.409
+Danny Park: calls that are longer than 2 min
+
+115
+00:16:33.500 --> 00:16:38.350
+Danny Park: where Chad is like 5 min, and he does that to do his analysis and analytics.
+
+116
+00:16:38.780 --> 00:16:43.510
+Danny Park: So when we bring it back together right to like, hey, what's the story?
+
+117
+00:16:43.630 --> 00:16:45.890
+Danny Park: He and I have 2 different stories.
+
+118
+00:16:47.600 --> 00:16:49.260
+Danny Park: So where do I tell the client?
+
+119
+00:16:49.700 --> 00:17:00.750
+Danny Park: And then, hey, literally, the team has to go back and they have to reshuffle, and then then then the team gets annoying all all these other bad things happen which then start putting the project like into the ground.
+
+120
+00:17:01.670 --> 00:17:04.440
+Danny Park: So everything that we, everything that we do
+
+121
+00:17:04.520 --> 00:17:08.940
+Danny Park: in business, from an analytical perspective, we have to. We have to
+
+122
+00:17:08.980 --> 00:17:13.020
+Danny Park: do their rigor and discipline to make sure that the entire team understands a business problem statement.
+
+123
+00:17:15.990 --> 00:17:16.710
+Danny Park: Okay?
+
+124
+00:17:17.069 --> 00:17:25.849
+Danny Park: Alright. So let's say, after. So what's the good way to do the business problem statement? It's called a technique called the 5. Y's, where you're gonna have to find the initial problem.
+
+125
+00:17:27.599 --> 00:17:37.850
+Danny Park: Right? So let's say, for example, initial one, it's too vague. Right. Let's say, let's say the team started with customer call, hold! Times are too long. Right? If you start asking the 5 y's.
+
+126
+00:17:37.950 --> 00:17:46.910
+Danny Park: it starts to kind of dig deeper and helps us get clarity into, hey? What's the actual business problem? So hey, customer? Call, hold on to line too long. Okay? Why is it. Why is it too long?
+
+127
+00:17:47.450 --> 00:17:50.980
+Danny Park: Right? Oh, it's it's too long. Because
+
+128
+00:17:51.170 --> 00:18:00.110
+Danny Park: but during business seasons there's not enough staff. And then why? So then you keep asking why? You're gonna naturally start finding the what's the what? Who, when, and how?
+
+129
+00:18:00.130 --> 00:18:11.089
+Danny Park: Right? So the y's help us take the top level symptom that we see to start digging deeper, to actually get to the root cause of the problem.
+
+130
+00:18:13.240 --> 00:18:17.809
+Danny Park: So the 5 Y is a very good technique to use. So in
+
+131
+00:18:18.140 --> 00:18:20.509
+Danny Park: in the presentation next week.
+
+132
+00:18:23.950 --> 00:18:24.850
+Danny Park: You know what
+
+133
+00:18:25.650 --> 00:18:35.200
+Danny Park: I can't. Never mind. I'm not using that example, because I know that people I know there's a couple of people here who are who are on the team, so I can't give it away. So I'm gonna go back.
+
+134
+00:18:36.450 --> 00:18:37.240
+Danny Park: So
+
+135
+00:18:37.490 --> 00:18:48.790
+Danny Park: using the example of, let's say, do I have an example here? No, I don't. So let me. Let's like let's say, a mechanic. Right? Let's say you take a cards and mechanic, and the car is not turning on
+
+136
+00:18:48.820 --> 00:18:50.129
+Danny Park: right? So that's a problem.
+
+137
+00:18:50.400 --> 00:19:06.240
+Danny Park: Right? Do you expect that mechanic to start there and start changing out the engine? The putting gas in the car changing out the bell like doing all these things. No, no, that's impossible. What you what you expect the the mechanic to do is start asking is like, Hey, when you try to turn it on?
+
+138
+00:19:06.270 --> 00:19:09.510
+Danny Park: What did you actually do? What sound was it making?
+
+139
+00:19:09.680 --> 00:19:16.300
+Danny Park: Right? So it's gonna start asking all these, why's like, so like, you know, okay, the engine's not working. Why isn't it working? Okay? Because it's it, it
+
+140
+00:19:17.010 --> 00:19:28.829
+Danny Park: it's not it. Th the ignition was in lighting the Y was initially was enlighting. So eventually you get down to a point where you find like, okay, maybe it's the it's actual spark plug. The spark plug was a thing that was wrong.
+
+141
+00:19:28.840 --> 00:19:33.929
+Danny Park: And because it was, it wasn't switched out, based on a service warranty or a service life.
+
+142
+00:19:33.970 --> 00:19:38.650
+Danny Park: That's what caused the engine not to run so to mitigate that problem in the future.
+
+143
+00:19:38.980 --> 00:19:50.219
+Danny Park: The the car owner has to make sure that when they go to get the car inspected to make sure that the the spark plugs are gonna be changed out when they're when they're when they're exhausted. A useful life
+
+144
+00:19:51.140 --> 00:20:08.520
+Danny Park: right. Another analogy will be a doctor when you go see a doctor, and you say the doctor has a headache, and you see, and you tell a doctor. You have a headache, and the doctor just goes in and prescribes your aspirin. Right? That's a terrible doctor, right? The doctor should at least are asking you the 5 right to figure out like what's really going on. Cause imagine, let's say it's Covid.
+
+145
+00:20:09.940 --> 00:20:26.789
+Danny Park: right? So there are ways there is diagnostics that is that can that should be used to figure out what the actual root cause is. So the medicine that you apply eliminates the root cause. If it's Covid and I take aspirin, and my headache goes away. But guess what
+
+146
+00:20:27.760 --> 00:20:39.660
+Danny Park: my headache going away doesn't stop the covid virus from eating away at my lungs and my other organs killing me. So the medicine has to eliminate the covid virus, because the virus is the root cause.
+
+147
+00:20:39.870 --> 00:20:52.110
+Danny Park: Everything else that we see. The runny nose, the headache, the red eyes, all those social symptoms, and we can't just go and be cured of Covid by putting eye drops in taking Tylenol and other things.
+
+148
+00:20:52.380 --> 00:20:53.940
+Danny Park: because that would actually kill us
+
+149
+00:20:54.040 --> 00:20:56.280
+Danny Park: because a root cause still exists.
+
+150
+00:20:57.980 --> 00:21:07.489
+Danny Park: Right? So the 5 Y is a very important technique in business analytics. So let's say. But before I move on any questions.
+
+151
+00:21:12.180 --> 00:21:13.939
+Danny Park: and so if I'm flying through it.
+
+152
+00:21:14.260 --> 00:21:24.219
+Danny Park: I'm glad that it's being recorded, because we have a lot to get. We have a lot to get through today. So I apologize. If I'm flying through, please visit the the recording when you have time.
+
+153
+00:21:24.240 --> 00:21:32.179
+Danny Park: in case you. You know. You missed something, or if I'm if I wasn't clear, please feel free to review the recording and then office hours.
+
+154
+00:21:32.840 --> 00:21:41.470
+Danny Park: So only after you arrive at the root cause. The root cause in our situation is the problem statement.
+
+155
+00:21:41.910 --> 00:21:46.410
+Danny Park: Anything outside of the root cause is not a problem statement. It's a symptom.
+
+156
+00:21:47.070 --> 00:22:07.709
+Danny Park: Okay? So we can't act on the symptom. We have to find the root cause. So once we find the root cause. Ak, the problem statement. That's when we start layering in our business analysis tools that we have. So I'll cover the main tools, the most most commonly used tools by many consultants and business analytic teams.
+
+157
+00:22:08.090 --> 00:22:12.090
+Danny Park: So the first one is a swot analysis. So what's swot
+
+158
+00:22:12.190 --> 00:22:16.499
+Danny Park: swad is stands for strength, weakness, opportunities and threats.
+
+159
+00:22:17.010 --> 00:22:22.929
+Danny Park: And it's a framework that's used to evaluate a company's competitive position
+
+160
+00:22:23.820 --> 00:22:33.949
+Danny Park: to figure out where, how, and how to develop a strategy that's going to work, or in other instances, really start giving us clues as to where their actual gaps are.
+
+161
+00:22:34.710 --> 00:22:40.649
+Danny Park: Okay. So when I look at when we go to the next one, right? Here's a chart. Of what of? What swat looks like?
+
+162
+00:22:40.940 --> 00:22:47.969
+Danny Park: Okay. So what a swat framework chart would look like is you have strength on the top
+
+163
+00:22:48.010 --> 00:22:49.569
+Danny Park: strength from the top left
+
+164
+00:22:50.580 --> 00:22:56.920
+Danny Park: OP. And weaknesses on the top, right, opportunities on the bottom, left, and threats on the on the bottom right.
+
+165
+00:22:56.940 --> 00:23:01.230
+Danny Park: so that strengths and weaknesses is assessment of the internal
+
+166
+00:23:02.250 --> 00:23:08.049
+Danny Park: operations of the company. So what makes the company strong, and what makes the company weak?
+
+167
+00:23:10.030 --> 00:23:15.180
+Danny Park: Right? And then the opportunities and threats are external
+
+168
+00:23:15.730 --> 00:23:22.580
+Danny Park: factors. So what opportunities exist in the market and what threats exist in the market?
+
+169
+00:23:23.860 --> 00:23:28.209
+Danny Park: Okay? And the reason why we do this analysis or this assessment is
+
+170
+00:23:28.620 --> 00:23:34.869
+Danny Park: when we see a particular strength. and then when we see a particular opportunity or threat
+
+171
+00:23:34.890 --> 00:23:42.519
+Danny Park: in the market, we'll know if, hey, it looks like we might be in a good position to either take advantage of the opportunity
+
+172
+00:23:42.600 --> 00:23:44.320
+or mitigate that threat
+
+173
+00:23:44.870 --> 00:23:46.449
+Danny Park: and the flip side.
+
+174
+00:23:46.730 --> 00:23:54.350
+Danny Park: Let's say there's an opportunity of threat that exists. But we don't have the strength to either capitalize on the opportunity
+
+175
+00:23:54.380 --> 00:24:03.659
+Danny Park: or mitigate that risk. So it's giving us clues as to hey? Where do we really need to go to assess deeper, to figure out what the solution needs to be
+
+176
+00:24:03.830 --> 00:24:09.609
+Danny Park: for strategic advantage? Right? Same thing with weaknesses? If we have a particular weakness.
+
+177
+00:24:09.960 --> 00:24:12.380
+Danny Park: and there's an emerging threat that's happening.
+
+178
+00:24:12.610 --> 00:24:18.849
+Danny Park: and that threat can expose our weakness and use it to its advantage. Then we need to
+
+179
+00:24:19.000 --> 00:24:34.080
+Danny Park: really eliminate or mitigate that weakness or somehow eliminate that threat. So what's the strategy that we need to do it? So maybe there's a maybe one of our internals, external opportunities. Right is to partner with company A,
+
+180
+00:24:34.990 --> 00:24:37.340
+Danny Park: right and company A
+
+181
+00:24:37.900 --> 00:24:45.940
+Danny Park: is looking for a partner who's got strength, and, let's say, strength. X. So we have strength. X, and there's Company A as an opportunity to partner with.
+
+182
+00:24:46.040 --> 00:24:51.479
+Danny Park: and turns out that a way to mitigate the threat is to partner with Company A,
+
+183
+00:24:52.210 --> 00:25:10.749
+Danny Park: because Company A is also in the same industry as this company. That's that's threatening to say, Cola company B, so maybe partnering with them using our strength, saying, Hey, here's our strength. You could use it. So let's partner. So if we partner, you're gonna in exchange for the strengths we provide you. You're gonna help us beat back this this threat by Company B,
+
+184
+00:25:11.590 --> 00:25:18.990
+Danny Park: so it's a high, level example of how a swat can give you at high level, a really good glimpse as to hey directionally, where do we want to go?
+
+185
+00:25:21.340 --> 00:25:31.630
+Danny Park: Okay, at the same time doing a swat will help you actually refine the business problem. Okay, all of the business analysis techniques or tools that we use
+
+186
+00:25:31.690 --> 00:25:33.770
+Danny Park: should help us inform
+
+187
+00:25:33.990 --> 00:25:58.359
+Danny Park: if we're if the business problem that we have been working on is, hey? Is, do we? Is it actually it right? I know, I said, you need to start the spot. You have to have a business problem statement, the root cause. Yes, that's true. But along the lines it doesn't. It doesn't hurt to use whatever analysis results that you have to kind of revisit the business prom statement to see if the business prom statement is still, if you are, if it's confirmed that this yet this is the actual root cause.
+
+188
+00:25:58.950 --> 00:25:59.650
+Danny Park: Okay.
+
+189
+00:25:59.910 --> 00:26:04.570
+Danny Park: so that's that's swat. So if you go into an example, right?
+
+190
+00:26:05.880 --> 00:26:13.840
+Danny Park: So this is what one would look like. You know, it's it's a little. It's so nice. It's a good looking, but not all look like this, and most are just in like some spreadsheet.
+
+191
+00:26:14.100 --> 00:26:21.149
+Danny Park: right? Or some tool that we use. So when we see this right when we look at the the Swat, can can someone tell me
+
+192
+00:26:21.280 --> 00:26:27.299
+Danny Park: so? Let's look at the Swat for Nike. and let's tell a story.
+
+193
+00:26:27.710 --> 00:26:39.739
+Danny Park: Do we see anything in the strength, weaknesses, options, or threats that can be correlated with one another to give us directionally where to go anyone. Wanna take a shot. I'll give everyone like 2 min. Just take a look.
+
+194
+00:26:56.640 --> 00:27:04.319
+Danny Park: It's really simple, it it swide, is not meant to be over overbearing. This is this is the business analysis. So our business acumen
+
+195
+00:27:04.590 --> 00:27:07.990
+Danny Park: is what we need to use to make sense of the swap.
+
+196
+00:27:11.240 --> 00:27:17.580
+Danny Park: Anyone. Wanna take a shot like tell, like like, talk about any correlation they see amongst the full categories.
+
+197
+00:27:18.220 --> 00:27:21.680
+Danny Park: Maybe. Okay. Vinaigrette. Yeah.
+
+198
+00:27:21.900 --> 00:27:27.799
+Leonard (Wess): Yeah. So II would say that Now we start from the threats.
+
+199
+00:27:28.840 --> 00:27:34.989
+Leonard (Wess): and I don't know if I could go backwards here. But alright! So they have
+
+200
+00:27:35.390 --> 00:27:42.070
+Leonard (Wess): competition right from other sports brands. so that competition
+
+201
+00:27:42.150 --> 00:28:01.269
+Leonard (Wess): allows them to attempt to going backwards opportunities to tap into the future into blue oceans that other sports brands haven't tapped or touched yet right, and going still going backwards into the weaknesses. And here's where they probably could branch out. They
+
+202
+00:28:01.670 --> 00:28:04.699
+Leonard (Wess): They work, I mean they they're
+
+203
+00:28:04.750 --> 00:28:20.770
+Leonard (Wess): revenue stream is over, dependent on the line of footwear. Not that one they rep they the brand is over in dependent on the Us. Market. So here's the opportunity, another opportunity to get away from the threats and create a blue stream right or blue.
+
+204
+00:28:20.900 --> 00:28:26.180
+Leonard (Wess): and back to the strengths their strength is that they have strong brand equity
+
+205
+00:28:26.930 --> 00:28:41.640
+Leonard (Wess): so they can utilize the brand equity to branch out into international markets and create blue oceans by taping new markets and new areas that that other threats or other
+
+206
+00:28:41.700 --> 00:28:59.050
+Danny Park: competitors haven't tapped into, and that will alleviate their threats. That is a very strong strategic way you use it, Leonard. and that's beautifully said. So that's that right there, Swat, and then let it just prove that that is the that can be initial story.
+
+207
+00:28:59.860 --> 00:29:07.490
+Danny Park: So then, what's the next step? Next step is like, Hey, this is a beautiful story. It looks like a good high level strategic plan. Let's
+
+208
+00:29:07.820 --> 00:29:26.799
+Danny Park: go into data. And let's confirm if we can execute on that story. So that's so. That right now is that's like an actual example of how business analytics actually works you tell the initial story of of Under of business problem statement. And as you're doing your business analysis.
+
+209
+00:29:26.980 --> 00:29:34.150
+Danny Park: you tell that story that Leonard just said that strategic story that Nike can take advantage of looking at Swat
+
+210
+00:29:34.190 --> 00:29:36.620
+Danny Park: and go. Hey, hey, team! One.
+
+211
+00:29:37.090 --> 00:29:53.929
+Danny Park: an analytic team, one. Here's a story that a a business analysis, strategic team said, go, go, confirm or validate that this path makes sense. So go look at the competitors from other brands. What are they doing? How's the revenue? What markets are they in? Find the data analytics provide me all that
+
+212
+00:29:54.050 --> 00:29:56.369
+Danny Park: which market are we supposed to tap into
+
+213
+00:29:56.770 --> 00:30:07.890
+Danny Park: right for the blue ocean. Go find using data. Figure out which markets that have the most opportunity for us to go and start digging in and doing sales right? And then, hey? Based on that
+
+214
+00:30:08.340 --> 00:30:10.890
+Danny Park: looking at? The
+
+215
+00:30:11.720 --> 00:30:19.210
+Danny Park: the brand over dependent. Hey? Let's do analysis as to hey, how do we get? Once we get out of the US. Market. If we expand the blue ocean, what does our revenue look like?
+
+216
+00:30:19.700 --> 00:30:44.709
+Danny Park: Right? So we have the weakness we're we're mitigating. We're eliminating that weakness to right now, understanding our threats and attacking our opportunities with data. So let's see how much of it be. Ca, that could solve. And hey, let's move in and use our brand equity. So what's the effect of that? What kind of what kind of add-on would that provide to this? To this? This plan that we have? Right? What's the analysis? The analytics behind that? So that's
+
+217
+00:30:44.910 --> 00:30:55.439
+Danny Park: awesome. So that's like your first round of hey analysis, analytics done partnering. Where do we go next? So you're it's like this, analytics is is incremental work.
+
+218
+00:30:56.290 --> 00:31:05.849
+Danny Park: You don't just look at a business problem and think, Oh, that's the problem. Boom. Oh, one data set boom analytics and boom. Here's a result that's not how analytics is done in the real world.
+
+219
+00:31:07.000 --> 00:31:09.640
+Danny Park: right? Maybe some undergraduate projects
+
+220
+00:31:09.850 --> 00:31:22.359
+Danny Park: are run like that. And maybe a lot of lot of students haven't misunderstanding how business analytics actually done. But in the real world it's done increments based on stories that Leonard just told. Awesome. Thank you, Leonard. A great, great strategic story.
+
+221
+00:31:22.850 --> 00:31:38.910
+Danny Park: Yeah. And then so then let's say, you know you do your squat. And let's say you wanted the next analysis that you want to do as a business analytic team is, you want to do a pestle. So what's the. And by the way, these analysis is not meant to do in every single business, every single project
+
+222
+00:31:39.240 --> 00:31:43.209
+Danny Park: you pick the right analysis based on the business problem statement.
+
+223
+00:31:44.420 --> 00:31:54.600
+Danny Park: Okay, so I want to make sure that that. And then the analytics that you choose should be based on the analysis that you have run and the discoveries that you made in the story that you're telling.
+
+224
+00:31:55.520 --> 00:31:57.319
+Danny Park: Okay? So Pesto
+
+225
+00:31:57.330 --> 00:32:10.759
+Danny Park: stands for political, economic, social, cultural, technological, legal, environmental. So pestiles actually run at a very high strategic level. Thinking, right? So what pestle is doing is
+
+226
+00:32:11.150 --> 00:32:14.390
+Danny Park: for a given company or companies.
+
+227
+00:32:14.720 --> 00:32:21.869
+Danny Park: It's assessing the political factor, the economic factor, the social factor, tech facts, illegal fact, the environment involved
+
+228
+00:32:22.130 --> 00:32:23.690
+Danny Park: environment factor
+
+229
+00:32:24.180 --> 00:32:42.519
+Danny Park: for a strategic problem. So I'll give an example. So they're they're a a class example for for multi national firms is their global presence. Right? It's hey, we have a global network of teams that we operate is multiple different countries and territories.
+
+230
+00:32:43.690 --> 00:32:48.620
+Danny Park: But each territory that we operate in is different than another. So
+
+231
+00:32:48.890 --> 00:32:56.699
+Danny Park: if they say the present problem is what bit strategic business problem statement is. you know, just. And the idea is like.
+
+232
+00:32:56.770 --> 00:33:01.560
+Danny Park: because we're losing market share in Eastern in Western Europe.
+
+233
+00:33:01.890 --> 00:33:05.499
+Danny Park: due to our high cost of operating
+
+234
+00:33:07.050 --> 00:33:10.359
+Danny Park: as a result of the costly labor market.
+
+235
+00:33:13.210 --> 00:33:17.980
+Danny Park: We need to discover new partnerships
+
+236
+00:33:18.500 --> 00:33:33.729
+Danny Park: in other Territories. They're more, they're more economically viable for us to operate in. So, in other words, long story short, it's too expensive to operate in Western Europe. We gotta figure out where we want to go to create a new, a new
+
+237
+00:33:33.860 --> 00:33:34.950
+Danny Park: a new
+
+238
+00:33:34.970 --> 00:33:42.119
+Danny Park: operation hub to mitigate our cost. So we could price our product more competitively to continue to generate revenue
+
+239
+00:33:42.230 --> 00:33:46.320
+Danny Park: right? But that's basically that's that that business problem rephrased.
+
+240
+00:33:46.490 --> 00:33:47.360
+Danny Park: So
+
+241
+00:33:47.760 --> 00:33:51.849
+Danny Park: the question then would be right. The analysis would be, hey?
+
+242
+00:33:52.950 --> 00:33:53.910
+Danny Park: Where
+
+243
+00:33:54.210 --> 00:33:57.700
+Danny Park: right is it? Poland? Is it Ukraine?
+
+244
+00:33:57.730 --> 00:33:58.910
+Danny Park: Is it
+
+245
+00:33:59.050 --> 00:34:05.370
+Danny Park:  Malaysia like? Where do we wanna set up this place. So pestil is used
+
+246
+00:34:05.730 --> 00:34:21.030
+Danny Park: would be used for that example, like, Hey, let's look at Poland. Let's look at Ukraine. Let's look at Malaysia. And let's assess them for the political factor. Let's assess it for its economic factor. Let's assess it for social factor. It's technology factor, legal factor, environmental factor.
+
+247
+00:34:21.340 --> 00:34:27.210
+Danny Park: So, for example, if a company said, Let's go open a shop in Ukraine.
+
+248
+00:34:28.150 --> 00:34:28.940
+Danny Park: right?
+
+249
+00:34:30.400 --> 00:34:40.129
+Danny Park: They will run into a big problem right now, right? And their political factor would have been misassed. Cause you know that that Russia took over Crimea in twenty-fourteenth.
+
+250
+00:34:40.409 --> 00:34:44.480
+Danny Park: and that places a powder kit right? Politically.
+
+251
+00:34:44.639 --> 00:34:49.949
+Danny Park: I mean, and politically using my pla politics up top.
+
+252
+00:34:50.040 --> 00:34:52.079
+Danny Park: If war breaks out, it's
+
+253
+00:34:52.500 --> 00:35:20.149
+Danny Park: affecting all the other factors, right? So going in and creating a operations hub in in Eastern Ukraine wouldn't make any sense, but would be very risky, because a political factor says, Hey, Russia, there is a lot of issue between NATO and Russia. Russia has already taken Crimea. Their stance is still very aggressive to mitigate the the stance of of NATO,
+
+254
+00:35:20.390 --> 00:35:30.740
+Danny Park: and the the political nature of what the Ukrainians are doing from a global perspective, they're aligning themselves more with NATO. There might be possible
+
+255
+00:35:30.970 --> 00:35:32.709
+Danny Park: that might be possible for breaking up.
+
+256
+00:35:33.050 --> 00:35:48.540
+Danny Park: So there are companies who actually assess that correct week we didn't go into Ukraine. The other companies were like, Oh, my God! Like we missed it. We have to down downsizing and and closing operations. So they lost a lot of money. So that's it. That's one example of how Pestle
+
+257
+00:35:48.670 --> 00:35:51.560
+Danny Park: is useful at a very strategic level.
+
+258
+00:35:51.740 --> 00:36:00.139
+Danny Park: It's like a swap. But you're using the macroeconomic factors to help assess where your weaknesses and strength and threats and opportunities are.
+
+259
+00:36:00.520 --> 00:36:03.580
+But I saw a hand up checky. Go ahead.
+
+260
+00:36:05.310 --> 00:36:22.249
+Chenge Tsapayi: Yes, Professor. I noticed that regarding the pestle analysis and the swat analysis, you have all of these analysis in the loreal example for the group project. I was just wondering, do you want us to have all of them as well in our? No, no, it's based on the business problem
+
+261
+00:36:22.490 --> 00:36:29.970
+Chenge Tsapayi: of the case. Yeah, yeah, yeah, choose what's relevant. IIII provided the the group
+
+262
+00:36:30.170 --> 00:36:30.960
+Danny Park: that
+
+263
+00:36:31.340 --> 00:36:43.989
+Danny Park: where they actually had all of them because because it wasn't a business problem statement. But I wanted to show everyone example where it looks like that was done by other students. But that's a great question you brought up, and I'll I'll emphasize this here
+
+264
+00:36:44.140 --> 00:36:50.999
+Danny Park: where the groups will lose points is if they're doing analysis and analytics that does not apply to the actual business problem.
+
+265
+00:36:52.220 --> 00:37:16.990
+Danny Park: Right? So II would definitely encourage that teams get together and really discuss and figure out that they have that they're on the right track for the actual business problem. Understanding. Right? Quad project tool, I go ahead. Yeah, professor. So I have also a relevant question regarding the project. So in in in the at the start, you mentioned that there are phases. So in the market issue, there is also the hypothesis
+
+266
+00:37:16.990 --> 00:37:23.100
+Qudratullah Yousufi: problem statement. Then they do the market research and start analysis. So in the project.
+
+267
+00:37:23.100 --> 00:37:30.999
+Qudratullah Yousufi: you want us also follow the same methodology or just identify the problem statement and go for analysis.
+
+268
+00:37:31.790 --> 00:37:40.779
+Danny Park: No, it's it's again. This is the best practice and common way of doing it. I leave it up to teams to do as they want to do it.
+
+269
+00:37:41.350 --> 00:37:49.730
+Danny Park: Ultimately, the thing I am looking for which is, is common in all business analytic projects is. do you understand the business problem.
+
+270
+00:37:50.080 --> 00:38:00.909
+Danny Park: And because you understood the business business problem, did you do the right analysis and the correct analytics? Were you also able to figure out what the gaps are because there is no data set that's complete.
+
+271
+00:38:01.230 --> 00:38:04.579
+Danny Park: There is going to be a level of assumptions that must be made.
+
+272
+00:38:04.840 --> 00:38:17.319
+Danny Park: Does the team understand what those assumptions are, and what considerations the client must account for, to turn those assumptions into actual facts or confirmations in the future.
+
+273
+00:38:17.560 --> 00:38:30.060
+Danny Park: Okay, so I already went over that in the beginning I would. I would encourage everyone to go ahead and go back and be listed that recording, because that's gonna be A a very important part of the group project.
+
+274
+00:38:30.900 --> 00:38:36.889
+Danny Park: Right? So I'll just give a clue. There's no data set on any of your group on any of your projects. That's complete.
+
+275
+00:38:39.360 --> 00:38:45.020
+Danny Park: So let's let's let's let's use that tip to help your your conversations.
+
+276
+00:38:45.170 --> 00:38:46.790
+Qudratullah Yousufi: Thank you.
+
+277
+00:38:46.960 --> 00:38:48.289
+Danny Park: Alright. So then
+
+278
+00:38:48.390 --> 00:38:49.720
+Danny Park: another tool
+
+279
+00:38:49.760 --> 00:39:00.510
+Danny Park: we have is risk analysis. So we do this, we do this all the time, like we do this in our minds that we don't realize what we're doing. Right? So risk analysis is basically, it's the the set of
+
+280
+00:39:02.670 --> 00:39:07.560
+Danny Park: thinking or actions or thoughts that we have to identify risks.
+
+281
+00:39:09.020 --> 00:39:22.019
+Danny Park: mitigate those risks and have a response to those risks to make sure they're either they they're either mitigated or several other like, there's several techniques. We won't get that deep into it. But ultimately the big is, hey? Have you identified the risk
+
+282
+00:39:22.140 --> 00:39:26.060
+Danny Park: and assess the severity. and you prioritize them accordingly?
+
+283
+00:39:26.190 --> 00:39:28.369
+Danny Park: Right? So in this example, right?
+
+284
+00:39:28.720 --> 00:39:37.689
+Danny Park: For next example, and this, and in this next slide is showing, hey. what are the type of risks that we should be alerted to?
+
+285
+00:39:37.890 --> 00:39:42.130
+Danny Park: We're learning our clients about when we're doing business analytics right?
+
+286
+00:39:42.180 --> 00:39:45.530
+Danny Park: Well, the obvious one is the the known unknowns.
+
+287
+00:39:46.300 --> 00:39:48.640
+Danny Park: right? Meaning that that.
+
+288
+00:39:49.300 --> 00:39:51.650
+Danny Park: hey? We know
+
+289
+00:39:52.350 --> 00:39:56.100
+Danny Park: that that there is an issue.
+
+290
+00:39:56.790 --> 00:39:58.870
+Danny Park: But we can't really predict
+
+291
+00:39:59.090 --> 00:40:05.520
+Danny Park: what the impact the probability would be. But we know it's there, right? That's one that's one obvious one, right?
+
+292
+00:40:05.680 --> 00:40:08.589
+Danny Park: The other obvious one is, hey, we know
+
+293
+00:40:08.890 --> 00:40:14.790
+Danny Park: it's gonna happen. And we know it's probability. Right? For example, if I walk into
+
+294
+00:40:15.530 --> 00:40:19.289
+Danny Park: traffic at Times Square. add a green light.
+
+295
+00:40:19.710 --> 00:40:25.339
+Danny Park: I know at probably a hundred percent certainty that I'm gonna get hit by a car.
+
+296
+00:40:25.810 --> 00:40:41.909
+Danny Park: cause that's a known known right? So don't do it. Wait till the light turns green. That will be a risk, avoidance, mitigation step right? So the known knowns and known unknowns are the things that are pretty obvious in any business analytic project.
+
+297
+00:40:42.540 --> 00:40:47.079
+Danny Park: What takes teams to next level is looking at
+
+298
+00:40:47.420 --> 00:41:02.000
+Danny Park: or or doing their analysis and looking at the data sets and hypothesizing. Hey, here's some. Here might be some unknowns and the unknown unknowns that the client should really be considering.
+
+299
+00:41:03.880 --> 00:41:08.250
+Danny Park: Right? So it's like, Hey, we have an idea that this is gonna happen.
+
+300
+00:41:08.490 --> 00:41:17.959
+Danny Park: So we should exp the client should experiment more moving forward, or have some time to experiment, to figure out or discover. Hey, is there anything we don't know? We don't know about.
+
+301
+00:41:20.250 --> 00:41:21.719
+Danny Park: Right? So
+
+302
+00:41:23.610 --> 00:41:31.229
+Danny Park: this, these 2 down here, it's highly sophisticated. And these, this, these 2 down here is this is when you will run
+
+303
+00:41:31.400 --> 00:41:35.359
+Danny Park: the advanced analytic tools or techniques.
+
+304
+00:41:36.870 --> 00:41:39.529
+Danny Park: Right? This is what AI is meant to do
+
+305
+00:41:40.600 --> 00:41:54.189
+Danny Park: is run through crunch numbers so fast that it's gonna be like, Hey, like here is all the possible things that might happen with their probability and events. And here's some of the things that that is being researched on, that we just don't know yet.
+
+306
+00:41:56.510 --> 00:41:58.670
+Danny Park: Right? So an example of a
+
+307
+00:41:58.700 --> 00:42:06.559
+Danny Park: of of a unknown unknown for some who didn't know who didn't do the right business. Analysis is the arrival of Chat gpt
+
+308
+00:42:08.250 --> 00:42:10.749
+Danny Park: right there. Multiple companies out there
+
+309
+00:42:11.550 --> 00:42:19.019
+Danny Park: they are running operations. And all of a sudden Chat Gp comes out out of nowhere and they go. Whoa! Whoa! Whoa! Whoa! What the hell is this
+
+310
+00:42:20.540 --> 00:42:24.740
+Danny Park: versus other companies who are doing the right analysis.
+
+311
+00:42:25.060 --> 00:42:27.350
+Danny Park: and where?
+
+312
+00:42:27.780 --> 00:42:31.350
+Danny Park: Where it discovered that, hey, there's this company out there
+
+313
+00:42:32.320 --> 00:42:40.530
+Danny Park: who's working on some Gpt that can actually mimic or help
+
+314
+00:42:40.640 --> 00:42:54.229
+Danny Park: humans be S very, very productive. Let's start carving out some time to build a Lnd or process for us to be able to adopt this technology faster than our competitors.
+
+315
+00:42:54.470 --> 00:42:59.279
+Danny Park: So a unknown unknown is is something that
+
+316
+00:43:01.540 --> 00:43:14.810
+Danny Park: that is, it's really defined by how well a organization thinks through their actual business and does the actual homework. So it doesn't mean the thing doesn't exist
+
+317
+00:43:15.200 --> 00:43:38.100
+Danny Park: right? That it it might be right. It might feel like something exists, but no one like say that meteors about to hit us, and no one knows about it right? I could, you know that's example of something that no one predicted, but unknown unknown is is defined by how well a organization have has gone through its research, and has done through the rigors of of discovering the industry to to take, or if discover
+
+318
+00:43:38.160 --> 00:43:43.160
+Danny Park: the things that they didn't know before, to turn it into a known unknown, and eventually into a known note.
+
+319
+00:43:43.970 --> 00:43:59.160
+Danny Park: So Chat Gbt, for most companies were ready to adopt. It was unknown, unknown. It was discovered. Then it became known, unknown meaning. They didn't really understand what the impact was going to be. They did additional research in in thinking. And they said, oh, you know what we know exactly what it's going to do and how it's going to impact us. Here's how to be ready for it.
+
+320
+00:44:00.300 --> 00:44:06.260
+Danny Park: so we could absorb it and integrate into our operations. So the companies we're able to do that very quickly are the ones with who had a leg up
+
+321
+00:44:06.420 --> 00:44:07.649
+Danny Park: on the competition.
+
+322
+00:44:09.160 --> 00:44:10.490
+Danny Park: Right? So.
+
+323
+00:44:11.410 --> 00:44:15.329
+Danny Park: And in a related note, that's why they have industry. Trade shows
+
+324
+00:44:16.670 --> 00:44:18.450
+Danny Park: right? Those are not just like.
+
+325
+00:44:18.660 --> 00:44:26.300
+Danny Park: you know, like places that just like people go and just drink. Have a good time. That's where companies go and tell you things that they're researching, working on
+
+326
+00:44:26.310 --> 00:44:29.339
+Danny Park: that stuff does now make it into the papers.
+
+327
+00:44:30.850 --> 00:44:31.620
+Danny Park: Right?
+
+328
+00:44:32.500 --> 00:44:39.309
+Danny Park: So that's that going to a trace shows is an example of applying business analysis. For example, right?
+
+329
+00:44:39.480 --> 00:44:47.699
+Danny Park: So that's that's risk analysis, the 4, the force, the the sectors, if you want to call it that we need to really figure out and work through.
+
+330
+00:44:47.790 --> 00:45:14.709
+Danny Park: And here are some of the techniques that we want to use. So I'll skip this slide. Because this is this is obvious. You guys could read what these are. So most of you will be doing brainstorming pretty much cause in your group projects. It's the cases right there. Most of it is doing brainstorming. There's there's no one really to talk to, maybe some documentation reviews and environment scanning for those cases that might need some extra research right to really kind of give an idea of what what the the client is is experiencing.
+
+331
+00:45:15.190 --> 00:45:24.740
+Danny Park: But here are the techniques. Please read it on your own time, and then ultimately, what you want to get to right is you have identified the risk
+
+332
+00:45:25.660 --> 00:45:34.189
+Danny Park: you can assess its likelihood impact and based on is likely to an impact. You could then prioritize the risk based on
+
+333
+00:45:35.360 --> 00:45:37.920
+Danny Park: the one that has gonna have the highest
+
+334
+00:45:38.850 --> 00:45:41.730
+Danny Park:  risk to the firm.
+
+335
+00:45:41.910 --> 00:45:49.100
+Danny Park: right? And one's gonna have the lowest risk to the firm. So you see here definition of very low to very high the likelihood
+
+336
+00:45:51.160 --> 00:45:52.819
+Danny Park: right? And the measured impact.
+
+337
+00:45:53.780 --> 00:46:06.219
+Danny Park: Okay, so for those who are who are into or who who are magic management accountants. Right? So what we do is
+
+338
+00:46:06.470 --> 00:46:21.829
+Danny Park: the likelihood is a percentage, or, in other words, probability from a 0 to 100. And the impact is an actual financial number. So using this as example, let's say, the likelihood of this risk is 50%.
+
+339
+00:46:21.980 --> 00:46:26.999
+Danny Park: So 50% chance that it might occur. And if it does occur.
+
+340
+00:46:27.100 --> 00:46:30.880
+Danny Park: the impact of a company, let's say, is 1 million dollars.
+
+341
+00:46:31.450 --> 00:46:33.460
+Danny Park: So the overall risk
+
+342
+00:46:33.660 --> 00:46:35.330
+Danny Park: right for that
+
+343
+00:46:35.590 --> 00:46:41.180
+Danny Park: for that item would be 50 times 1 million. So it's 500,000.
+
+344
+00:46:42.240 --> 00:46:47.109
+Danny Park: Right would be the the final impact amount.
+
+345
+00:46:47.380 --> 00:46:51.900
+Danny Park: So that number is what's used to prioritize the risks
+
+346
+00:46:53.170 --> 00:46:56.979
+Danny Park: right? The practice being the one that has the highest
+
+347
+00:46:57.450 --> 00:46:58.580
+Danny Park: value.
+
+348
+00:46:59.280 --> 00:47:01.400
+Danny Park: Right is gonna be at the top.
+
+349
+00:47:01.870 --> 00:47:08.270
+Danny Park: and the one has a lowest ending final value is going to be at the bottom. But that's just a priority listing
+
+350
+00:47:09.540 --> 00:47:14.749
+Danny Park: how you mitigate and when to mitigate depends on other analysis.
+
+351
+00:47:14.980 --> 00:47:21.340
+Danny Park: right? Just cause something's gonna cause you 1 million. It's 50% of occurring at 500,000 impact.
+
+352
+00:47:21.580 --> 00:47:26.880
+Danny Park: Right? Maybe when you go through and figure out, hey, how do we mitigate that risk?
+
+353
+00:47:27.040 --> 00:47:44.130
+Danny Park: If the cost to mitigate that risk? So meaning you get, you want to take the likelihood down to 0% or as close to 0 as possible from from 50. So you have a risk response. So a risk response is the set of activities that your company does to minimize the risk.
+
+354
+00:47:45.000 --> 00:47:56.640
+Danny Park: So if you do that response, it turns out that you're going to turn the likelihood of the 50% down to 10%. And it's gonna cost you $600,000.
+
+355
+00:47:57.690 --> 00:47:59.829
+Danny Park: Do you actually respond to that risk?
+
+356
+00:48:03.430 --> 00:48:06.719
+Danny Park: Anyone just looking at those facts? Would you respond to that risk
+
+357
+00:48:08.940 --> 00:48:13.589
+Danny Park: meaning. Spend $600,000 to reduce the likelihood from 50 to 10%,
+
+358
+00:48:16.120 --> 00:48:17.150
+Stephen Zheng: maybe
+
+359
+00:48:22.790 --> 00:48:26.980
+Danny Park: no? Well, maybe. And why like talk, share a little bit more?
+
+360
+00:48:29.300 --> 00:48:51.130
+Stephen Zheng: I don't know. The number seems quite steep, but for what it's offering, I'll say like if the cards are in the right place, go for it, but if it's not, then it's not well. So okay, okay, no, that's good. That's good response. But so so, looking at the fax itself, if I'm spending $600,000 to mitigate the likelihood of something that's 50 occurring down to 10
+
+361
+00:48:51.870 --> 00:48:57.179
+Danny Park: the. And if that thing were to actually happen, it's gonna cost you 500,000.
+
+362
+00:48:57.350 --> 00:48:58.440
+Danny Park: So I
+
+363
+00:48:58.700 --> 00:49:04.510
+Danny Park: I am. So if I implement that risk response, I'm already in the hole for a hundred 1,000, the variance between the 2.
+
+364
+00:49:05.010 --> 00:49:20.730
+Danny Park: Then I have to think through, hey? The probability went from 50 to 50 to 10. So there's still a 10% likelihood of that impact happening. So if that impact actually, if that risk happening. So if that risk actually happens, then the total cost would be 600,000 plus 500,000.
+
+365
+00:49:21.780 --> 00:49:35.710
+Danny Park: So it's over 1 million dollars. So to Steven's point. yeah, it's a maybe you have to think through more. So that's the whole point of doing risk analysis, right risk. Analysis is not as simple is not a simple exercise.
+
+366
+00:49:37.380 --> 00:49:38.890
+Danny Park: Right? So
+
+367
+00:49:38.940 --> 00:49:51.670
+Danny Park: on the flip side, let's say it does cost us $600,000. Let's say we take it another way. It costs us $600,000 right, and we're going to be in the hole. We might be in the hole. But what if that risk? If we mitigate it to that to that degree?
+
+368
+00:49:51.720 --> 00:50:02.859
+Danny Park: It's gonna open up opportunities for to enhance that brand somewhere else? So it might make us more money. right? So that's the other correlation of the business. So that's when Swat will come back in.
+
+369
+00:50:03.290 --> 00:50:09.900
+Danny Park: So the big takeaway here right now, what I'm getting to is that all the analysis tools that we use? They feed one another
+
+370
+00:50:10.170 --> 00:50:16.639
+Danny Park: in iteration. Remember, I said, that in business analytics you're iterating through the process. You're you're iterating through your thought.
+
+371
+00:50:17.180 --> 00:50:22.689
+Danny Park: the logic, right? So that's the part that that the project teams on Friday
+
+372
+00:50:22.900 --> 00:50:28.430
+Danny Park: right? That's one reason. That's one part of the reason that they're that they're being evaluated on is
+
+373
+00:50:28.930 --> 00:50:36.670
+Danny Park: as they're working through the business analysis and bringing in the relevant tools as they discover new things? Are they tying the dots.
+
+374
+00:50:38.180 --> 00:50:41.710
+Danny Park: cause a risk that's mitigated
+
+375
+00:50:42.630 --> 00:50:46.170
+Danny Park: should feed into the opportunity column
+
+376
+00:50:46.550 --> 00:50:52.749
+Danny Park: or a risk identified should definitely fee the threat column
+
+377
+00:50:53.470 --> 00:51:00.000
+Danny Park: or a weakness column. So are they doing that cause when you feed new data or new facts.
+
+378
+00:51:00.340 --> 00:51:03.640
+Danny Park: and 2 squat right
+
+379
+00:51:03.850 --> 00:51:11.030
+Danny Park: into their into the weakness, then you have to redo your swap to a degree to account for that new discovery.
+
+380
+00:51:12.560 --> 00:51:17.610
+Danny Park: So the art of business analysis is required for us to figure out what analytics are we applying?
+
+381
+00:51:18.410 --> 00:51:22.029
+Danny Park: This is why most business analytic projects fail
+
+382
+00:51:23.120 --> 00:51:29.650
+Danny Park: because they don't have Brook and Mbas running it like the future. Here in this room. Then I go ahead. Yeah.
+
+383
+00:51:29.810 --> 00:51:32.350
+Leonard (Wess): So I was just thinking about this.
+
+384
+00:51:32.410 --> 00:51:36.449
+Leonard (Wess): the question that you just asked back on that previous slide.
+
+385
+00:51:36.740 --> 00:51:38.550
+Leonard (Wess): I would say
+
+386
+00:51:39.120 --> 00:52:02.809
+Leonard (Wess): definitely definitely implement the change, because the likelihood is medium. And over here it says medium that this will happen as possible between one and 20 times a year. So even if it happens once, or if it happens twice for the year, I'm already down, or more than a million dollars. So I'll talk. When do we have our call about strategic, consulting
+
+387
+00:52:02.980 --> 00:52:06.709
+Leonard (Wess): exact take? Yes.
+
+388
+00:52:06.920 --> 00:52:10.740
+Danny Park: awesome. Exactly so. What Leonard did was
+
+389
+00:52:10.800 --> 00:52:12.760
+Danny Park: he defined. He's like, wait a minute.
+
+390
+00:52:12.940 --> 00:52:17.130
+Danny Park: Danny's saying all this stuff. But wait a minute. The the definition is right there.
+
+391
+00:52:17.580 --> 00:52:29.569
+Danny Park: Medium is Holy Moly One to 10 times a year. That's a lot. That's a lot I have to mitigate this. And the impact is very high, exactly
+
+392
+00:52:29.840 --> 00:52:36.269
+Leonard (Wess): awesome, awesome. Leonard. I gotta check my email for our meeting. Did you respond? I gotta check it.
+
+393
+00:52:36.710 --> 00:52:51.220
+Danny Park: Oh, I thought I sent you invite. But let's I'll I'll I'll I'll check if I didn't let me know E. Like, Send me your email. If I didn't respond. I thought I did. But I was like dealing with like a whole bunch of stuff this week. But definitely. Yeah. So we'll definitely connect. But no, that's exactly right. So
+
+394
+00:52:52.270 --> 00:52:57.860
+Danny Park: risk analysis is, I can't stress it enough.
+
+395
+00:52:58.510 --> 00:53:09.270
+Danny Park: Right? And I can't stress enough how this has be done also to feed in the other analysis tools. Okay? So then, so then, that now I know we're we're short on time.
+
+396
+00:53:09.820 --> 00:53:18.309
+Danny Park: Maybe we pick this up where we end next time. Cause this, this is such an important is such an important topic for Mba's.
+
+397
+00:53:19.160 --> 00:53:24.569
+Danny Park: So I'll just. I'll just start. I'll say this comment will move, will keep blowing. Th the
+
+398
+00:53:26.040 --> 00:53:33.440
+Danny Park: what your Mba degrees say what you, MB. Mba. Degrees are are branding you all as are is this.
+
+399
+00:53:34.340 --> 00:53:42.379
+Danny Park: can you lead this? What I'm just sharing? Can you look? Can you have a team? It doesn't have to be called a business analytic team. It doesn't have to call consulting team
+
+400
+00:53:42.410 --> 00:53:46.850
+Danny Park: any operations team, any project team. They're you're doing business analytics
+
+401
+00:53:47.940 --> 00:53:51.819
+Danny Park: right? Definitely. Business analysis at minimum.
+
+402
+00:53:52.160 --> 00:53:52.950
+Danny Park: So
+
+403
+00:53:53.050 --> 00:54:19.520
+Danny Park: do you. An Mba saying is, you have the discipline, and you understand these tools enough to where, when you're leading your teams, that you're helping them connect the dots to arrive at the business problem statement to inform leadership that, hey, we're either. That's the this is the prompt name it or it's not. And if it is. Here's the analysis that we did. And here's how we need to what analytics we need to solution this thing.
+
+404
+00:54:20.060 --> 00:54:27.440
+Danny Park: Then, after you do it, that's when you give it off to the functional groups to implement your recommendations.
+
+405
+00:54:28.140 --> 00:54:38.390
+Danny Park: So the consulting industry exists because companies are saying our Mbas are so bad. At this we have to buy it from some one else.
+
+406
+00:54:40.260 --> 00:54:48.569
+Danny Park: So everyone in this room is an Mba. Everyone in this room is going to be leading teams like this. So this is very important topic, the business analysis, right?
+
+407
+00:54:48.840 --> 00:54:51.219
+Danny Park: So, competitor analysis, what is it?
+
+408
+00:54:51.740 --> 00:54:57.349
+Danny Park: It's literally identifying your competitors. And you're figuring out what their squad is
+
+409
+00:54:58.710 --> 00:55:03.179
+Danny Park: compared to yours. Right? So when we look at this right.
+
+410
+00:55:04.820 --> 00:55:07.290
+Danny Park: we see here a competitive swat
+
+411
+00:55:08.400 --> 00:55:11.030
+Danny Park: alright. So what we're what we're seeing here is
+
+412
+00:55:11.100 --> 00:55:17.699
+Danny Park: we first figure out what our who our competitors are. So we go, hey, here, who are our direct competitors.
+
+413
+00:55:18.030 --> 00:55:20.890
+Danny Park: meaning a direct competitor, is
+
+414
+00:55:20.980 --> 00:55:33.100
+Danny Park: a organization. or if we bring it back to our careers. An individual who wants to solve the same problem for the same customer, with the same product.
+
+415
+00:55:33.720 --> 00:55:38.559
+Danny Park: so a direct competitor from a career perspective would be if there are 2 people in this room
+
+416
+00:55:39.090 --> 00:55:40.219
+Danny Park: who want to be.
+
+417
+00:55:40.290 --> 00:55:47.400
+Danny Park: who who wants to solve financial analyst type problems for Jp. Morgan Chase in their
+
+418
+00:55:47.890 --> 00:55:53.790
+Danny Park: alternative investments product line. Then you are a direct competitor of that person.
+
+419
+00:55:55.560 --> 00:56:03.859
+Danny Park: Okay? So if I'm organ organization, perspective would be. You have Samsung, and you have apple.
+
+420
+00:56:04.730 --> 00:56:05.570
+Danny Park: And
+
+421
+00:56:06.260 --> 00:56:10.449
+Danny Park: really, in regards to the mobile phone business.
+
+422
+00:56:11.430 --> 00:56:19.939
+Danny Park: Okay? So they are direct. So reason why I use the the student example. First, because it's easier to understand cause when we start bringing into global companies.
+
+423
+00:56:21.480 --> 00:56:28.180
+Danny Park: it really depends on the actual product line. So we have to really figure out what they're actually doing. Okay? So for example.
+
+424
+00:56:28.340 --> 00:56:36.630
+Danny Park: Amazon and Google are competitors in the cloud space. but not in the ecommerce space.
+
+425
+00:56:38.290 --> 00:56:42.930
+Danny Park: Right? So we can't say Google and Amazon are compared or direct competitors because
+
+426
+00:56:43.330 --> 00:56:57.710
+Danny Park: they're just too complex. So at the and Nba level, we're we're we're scoping it to the relevant apples to apples comparison. So it takes a little bit more time to do it to figure out who our direct competitors are. But we still have to do it. So that's a direct competitor.
+
+427
+00:56:58.260 --> 00:57:00.539
+Danny Park: I mean, they definitely should direct competitors.
+
+428
+00:57:01.950 --> 00:57:03.250
+Danny Park: Then you have
+
+429
+00:57:04.240 --> 00:57:09.700
+Danny Park: what we have is different solution. So it's like you have. You have 2 organizations
+
+430
+00:57:10.090 --> 00:57:13.359
+Danny Park: they want to have. They want to solve the same problem
+
+431
+00:57:14.050 --> 00:57:17.690
+Danny Park: for the same customer, but they want to do it in a different way.
+
+432
+00:57:18.070 --> 00:57:20.620
+Danny Park: Right? So example of this would be
+
+433
+00:57:20.760 --> 00:57:25.630
+Danny Park: that. So so Pwc wants to solve
+
+434
+00:57:25.850 --> 00:57:31.509
+Danny Park: the the the tax right? So we do tax work for clients. Right? That's one of our service lines.
+
+435
+00:57:31.800 --> 00:57:35.110
+Danny Park: So we are helping our tax.
+
+436
+00:57:35.250 --> 00:57:46.490
+Danny Park: our clients who engage us for tax work. We're helping them solve the problem of filing taxes by providing them tax consultation to make their tax compliance process efficient.
+
+437
+00:57:46.800 --> 00:57:48.280
+Danny Park: So that's how we're doing it.
+
+438
+00:57:50.420 --> 00:57:56.849
+Danny Park: Another company called Thompson Reuters. Right? They're a tech company.
+
+439
+00:57:57.100 --> 00:58:00.709
+Danny Park: So there, solving for our same clients
+
+440
+00:58:00.900 --> 00:58:08.320
+Danny Park: the same problem with filing taxes. But they're saying, Hey, use our technology, our technology will create that efficiency for you.
+
+441
+00:58:09.540 --> 00:58:12.480
+Danny Park: So we're competing with Thompson.
+
+442
+00:58:13.060 --> 00:58:15.230
+Danny Park: But our solutions are different.
+
+443
+00:58:16.890 --> 00:58:21.230
+Danny Park: So the value propositions of the stories that we tell looks different
+
+444
+00:58:22.750 --> 00:58:49.400
+Danny Park: right. So from from this example. The way Pwc. Tells the story to hook tax clients is around our quality of our tax professionals, or Cpas who understand tax, who for who could see in the future, or or predict to the future what the regulations would be to find other ways, to bring in other experts, to provide a 3 60 view of a tax liability of the organization. So they're filing. Only what they need.
+
+445
+00:58:51.830 --> 00:59:00.879
+Danny Park: Thompson's story would be, hey? We don't do all that we just our technology is so good that whatever you want to feed us, we're going to file it really quickly.
+
+446
+00:59:02.640 --> 00:59:11.029
+Danny Park: right? So that's their value proposition. So the clients like, oh, so which one do I really want to buy? So I have to file. That's my problem.
+
+447
+00:59:11.900 --> 00:59:15.400
+Danny Park: right? I have 2 ways. So so which one resonates with me more
+
+448
+00:59:16.390 --> 00:59:20.709
+Danny Park: right? What do I mean? What am I looking for? So so that's that would be
+
+449
+00:59:21.300 --> 00:59:33.319
+Danny Park: a really important reason of why, we we can't just say, Oh, that's our competitor, right? We'll have to think through in Number 2 as example. Hey? How like, how are they actually doing it
+
+450
+00:59:35.460 --> 00:59:52.759
+Danny Park: right? So that's a you're competing with someone who has a different solution. Whereas one is, you're competing with someone who's doing the same exact thing you're doing so. You can see how like, for example, like Pwc and E and Y, right, the 2 organizations do taxes. We have the same story.
+
+451
+00:59:53.000 --> 00:59:57.210
+Danny Park: So what's the differentiator there? Usually. Price.
+
+452
+00:59:59.110 --> 01:00:00.740
+Danny Park: right? So it's very important
+
+453
+01:00:00.850 --> 01:00:09.389
+Danny Park: to know the difference, to know who your competitors are, because your market story well, your your solutioning is going to be different or should be different.
+
+454
+01:00:11.350 --> 01:00:13.910
+Danny Park: Alright, then. The third is.
+
+455
+01:00:14.220 --> 01:00:18.999
+Danny Park: you're solving the same problem in the same way. But your customers are completely different
+
+456
+01:00:21.080 --> 01:00:22.870
+Danny Park: different industry, different vertical
+
+457
+01:00:23.880 --> 01:00:27.730
+Danny Park: right? So an example of this would be.
+
+458
+01:00:28.490 --> 01:00:34.109
+Danny Park: So let me go back to consulting, because this is probably II know this world at the best. So Pwc, does not do government contracting.
+
+459
+01:00:34.250 --> 01:00:46.339
+Danny Park: We're probably the only big. Yeah, we're not. Gonna we're not probably are the only big 4. That does not do government contracting. We sold that business off years ago back in 2,008. Deloitte still does government contract
+
+460
+01:00:46.950 --> 01:00:49.089
+Danny Park: right? It's called a GPS practice.
+
+461
+01:00:49.410 --> 01:00:50.870
+Danny Park: Okay, so
+
+462
+01:00:51.530 --> 01:00:53.339
+Danny Park: we are both consultencies.
+
+463
+01:00:53.940 --> 01:01:12.820
+Danny Park: So it's the same problem around, like, you know, identifying, you know, doing business analytics like they, they're looking for someone to do business analytics for their problems. Okay, it's the same problem, high level switches problem. We, we're we're solving the same problem. We're doing it in pretty much a set same way, although it's government versus non-government. It's like the business analytic
+
+464
+01:01:12.890 --> 01:01:23.259
+Danny Park: consulting phases. They look the same same skill sets same every you know it's really the same same milestone, same everything right? But they're in government. We're we're not.
+
+465
+01:01:23.780 --> 01:01:28.549
+Danny Park: So. Why is that important to know that you have a competitor out there
+
+466
+01:01:28.710 --> 01:01:51.059
+Danny Park: who's competing in other things. But even though they're not competing in your current industry, they're doing in the same way, and they're doing it. They're doing the same. They're tackling the same problem for other clients. But in the same way. So that is important. Because maybe Pwc one day goes, you know what we want to go back into the GPS practice, or or the or the or the business of of consulting
+
+467
+01:01:51.130 --> 01:01:52.210
+Danny Park: government.
+
+468
+01:01:53.390 --> 01:01:54.730
+Danny Park: So, Deloitte.
+
+469
+01:01:54.740 --> 01:01:59.419
+Danny Park: they actually they actually take their time to build barriers
+
+470
+01:01:59.750 --> 01:02:05.059
+Danny Park: for other consultancies, including Pwc. To go back into that business.
+
+471
+01:02:05.980 --> 01:02:08.360
+Danny Park: They dug, they pretty, they dug itself pretty deep.
+
+472
+01:02:09.280 --> 01:02:11.660
+Danny Park: So we go? Not not worth it.
+
+473
+01:02:13.330 --> 01:02:14.460
+Danny Park: right? So
+
+474
+01:02:15.670 --> 01:02:22.510
+Danny Park: we see how this the you know, doing enough custom analysis to figure out these 3 things is very important
+
+475
+01:02:22.710 --> 01:02:25.349
+Danny Park: it should inform again, it should inform
+
+476
+01:02:25.580 --> 01:02:31.270
+Danny Park: our risk analysis, our swot analysis, our pesto analysis. If we, if we have done that
+
+477
+01:02:31.490 --> 01:02:39.130
+Danny Park: meaning, if it's irrelevant for the business problem. So after you do the comparative analysis, then you could do a
+
+478
+01:02:39.500 --> 01:02:47.159
+Danny Park: competitor swat. So here, what you're doing is you're listing out the strengths, weaknesses, opportunities, and threats for your company.
+
+479
+01:02:47.350 --> 01:02:53.299
+Danny Park: and you're just mapping to see which competitor shares your strengths, your weaknesses, opportunities, and threats
+
+480
+01:02:55.240 --> 01:02:58.269
+Danny Park: right? So these should go hand in hand.
+
+481
+01:02:59.320 --> 01:03:03.669
+Danny Park: because if you have a competitor very strong in one area shares your strengths.
+
+482
+01:03:03.790 --> 01:03:12.640
+Danny Park: but they're serving different customers. It means that they, their opportunity is to get into your space. So to Deloitte they're like, Oh, BWC.
+
+483
+01:03:12.690 --> 01:03:14.700
+Danny Park: Had the same strengths that we do.
+
+484
+01:03:15.450 --> 01:03:22.810
+Danny Park: They're not in government yet. So their opportunities guide to government. Their opportunity is our threat. What do we have as a risk response?
+
+485
+01:03:26.250 --> 01:03:30.119
+Danny Park: So right now that what I'm describing that's executive level thinking.
+
+486
+01:03:32.690 --> 01:03:37.720
+Danny Park: That's what executives do. By the way, folks executives, they're not like Einstein's
+
+487
+01:03:39.030 --> 01:03:42.840
+Danny Park: right. They're the ones who figured out. Oh, all these things, connect
+
+488
+01:03:43.200 --> 01:03:49.809
+Danny Park: what's the full story. because without the full story I can't set strategy.
+
+489
+01:03:50.740 --> 01:03:57.300
+Danny Park: If I can't set strategy, I don't know who I need to run, what analytics and when and how and what we need to do
+
+490
+01:04:01.550 --> 01:04:08.460
+Danny Park: alright any questions. So far, I know we're coming up on time. I just want to make sure. II provide some questions for time for questions
+
+491
+01:04:08.630 --> 01:04:16.880
+Danny Park: I might pick. I'll probably pick this up next next session, because this is very important. Right? I mean, after the case competition.
+
+492
+01:04:17.650 --> 01:04:28.219
+Danny Park: Okay? Because I think this is probably more. This is definitely more important than whatever I have after the case competition. But any questions so far anyone wanna share anything. any stories, anything else?
+
+493
+01:04:34.190 --> 01:04:35.910
+Danny Park: Alright, let me keep going
+
+494
+01:04:39.910 --> 01:04:48.650
+Danny Park: alright. So after. So you. So that's compare Competitive Analysis, a competitor analysis. The next one is customer analysis.
+
+495
+01:04:49.190 --> 01:05:02.499
+Danny Park: So what's customer analysis? So customer analysis is, you figure out who are your actual customers? Are right, but not but wha what we mean about what your actual customers are is talk about like, hey? What is driving them to buy your product?
+
+496
+01:05:02.800 --> 01:05:08.530
+Danny Park: It's not good to say so. This is what I mean. Let's say you provide a service.
+
+497
+01:05:09.280 --> 01:05:14.519
+Danny Park: Right? Let's say you provide launch service. Say, you're you're my long guy, right?
+
+498
+01:05:16.250 --> 01:05:19.109
+Danny Park: Very lucrative business, by the way, especially if you're in Long Island.
+
+499
+01:05:19.760 --> 01:05:30.610
+Danny Park: So let's see your your, your lawn service right? Add I buy your service. but only buy it once right.
+
+500
+01:05:31.840 --> 01:05:33.190
+Danny Park: Am IA customer?
+
+501
+01:05:35.180 --> 01:05:37.820
+Danny Park: Can you? Can you claim me as your customer?
+
+502
+01:05:39.350 --> 01:05:43.519
+Leonard (Wess): Not a loyal customer, maybe a an outlier.
+
+503
+01:05:43.610 --> 01:05:45.589
+Danny Park: perfect, awesome it
+
+504
+01:05:46.120 --> 01:05:49.669
+Danny Park: exactly. It will. It will be a mistake
+
+505
+01:05:49.850 --> 01:05:52.730
+Danny Park: for my long guy
+
+506
+01:05:53.070 --> 01:06:00.050
+Danny Park: to treat me like a customer, because I only use them once. I am not his customer. He should be actively pursuing me.
+
+507
+01:06:00.610 --> 01:06:07.100
+Danny Park: If he defines me as a customer in his data set. He's not gonna have any actions to continue business with me.
+
+508
+01:06:08.460 --> 01:06:18.100
+Danny Park: By the way. This, like tracking that simple thing of repeat customers and not repeat customers, is, is, I think it's one of the main one of the 5 reasons why small businesses fail.
+
+509
+01:06:19.700 --> 01:06:24.700
+Danny Park: So what's an actual customer? When can you define a customer? You could define a customer.
+
+510
+01:06:24.790 --> 01:06:37.649
+Danny Park: You could define someone as your customer in Leonard's. In Leonard's example, a a loyal customer. So in business analytics or in customer analytics, we don't. We don't. We don't really use loyal versus a regular customer, because is a personal customer or not.
+
+511
+01:06:37.830 --> 01:06:50.409
+Danny Park: and the term customer means the person has is doing Vp business with you. So, and and on the analysis and analytics side a customer. We could claim someone to be a customer if we know
+
+512
+01:06:50.480 --> 01:06:56.660
+Danny Park: enough about them through repetition of providing them service, that we know what their basic needs are.
+
+513
+01:06:56.850 --> 01:07:09.190
+Danny Park: what their performance needs are and what they get excited about. If we don't have an understanding, at least to these 3 things, we can't necessarily call them our customer. Because
+
+514
+01:07:09.290 --> 01:07:11.350
+Danny Park: if we just mean the basic needs
+
+515
+01:07:11.460 --> 01:07:29.400
+Danny Park: and we don't know what the performance needs are and the excited needs are, we might lose them. So since we only know the basic needs in the data set, that means from a risk perspective, we should have a plan or activities to keep engaging them, to figure out more, to get them
+
+516
+01:07:29.560 --> 01:07:39.629
+Danny Park: to get the performance and excited needs satisfied. Because that's what causes repeat business. So what's a basic need? A basic need is you? You need to have it
+
+517
+01:07:40.120 --> 01:07:43.970
+Danny Park: if you don't have it. I'm never gonna use your service.
+
+518
+01:07:44.410 --> 01:07:51.249
+Danny Park: So it's either they're dissatisfied if it's not there. And if it's there, they're okay. They're not happy. They're like, okay.
+
+519
+01:07:51.570 --> 01:07:56.370
+Danny Park: right? You better. The interesting thing about basic need is
+
+520
+01:07:57.440 --> 01:08:01.430
+Danny Park: because its absence leads to dissatisfaction.
+
+521
+01:08:01.910 --> 01:08:06.630
+Danny Park: Any service beyond the basic need would not make up for the lack of that basic need.
+
+522
+01:08:08.520 --> 01:08:10.040
+Danny Park: For example, a blender.
+
+523
+01:08:10.260 --> 01:08:16.060
+Danny Park: My basic need for a blender is that the freaking blades don't bend when I put ice in it.
+
+524
+01:08:16.359 --> 01:08:18.940
+Danny Park: So in other words, it has to have high quality bleeds.
+
+525
+01:08:19.359 --> 01:08:30.379
+Danny Park: You could gold plate it, you could put diamonds on it. You give me 50 different settings. I'm not gonna buy that blender cause when I use it, and I cause I like to make smoothies with ice right?
+
+526
+01:08:30.680 --> 01:08:37.719
+Danny Park: The blades bend. and it's unusable. I don't like the way it crushes the ice. I like very fine-grained
+
+527
+01:08:37.830 --> 01:08:40.260
+Danny Park: crush. I don't like the chunky stuff.
+
+528
+01:08:41.060 --> 01:08:50.390
+Danny Park: so I don't care what performance. I don't care if the blades spend a hundred revolutions per micro minute. I don't care. Your freaking blades are not giving me the ice that I want.
+
+529
+01:08:51.810 --> 01:08:56.759
+Danny Park: Right? So that's example of a basic need of how you need to satisfy it.
+
+530
+01:08:58.120 --> 01:09:04.509
+Danny Park: or the person will never buy a punt, no matter what other extra stuff you put on it. A performance need is.
+
+531
+01:09:05.010 --> 01:09:20.360
+Danny Park: it's like, Oh, wow! I'm happy, right? Like, if you met my basic need. Now, the plates been faster. So my smoothies made faster. I don't necessarily really care about it. But yeah, you know what? It's good. It's convenient. It's worth the extra money that you want me to pay, cause you just jacked the price up. Okay.
+
+532
+01:09:21.170 --> 01:09:23.809
+Danny Park: boom. I got it so that's a performance.
+
+533
+01:09:24.560 --> 01:09:25.790
+and excited
+
+534
+01:09:26.359 --> 01:09:30.379
+Danny Park: right? So that the life like Oh, my God! You have it! It exceeded
+
+535
+01:09:31.710 --> 01:09:35.169
+Danny Park: like I didn't know I wanted it, but I love it so much.
+
+536
+01:09:35.270 --> 01:09:46.219
+Danny Park: Right. Example of that would be if the blender had a instant icy smoothie making setting. because right now I have to hit it on 3 different settings to make it exactly the the right consistency I want.
+
+537
+01:09:46.670 --> 01:09:50.589
+Danny Park: So let's say it has that one setting that does that those 3 things automated
+
+538
+01:09:50.870 --> 01:10:08.749
+Danny Park: alright. Awesome. I didn't really know I needed it. I just know I'm hitting buttons. I didn't really think about like Ha, you know, like wanting that button. But now you have it. Now I'm gonna pay you even more. So you, jack the price up more before it was $10. Now you're asking me 50. But you have all you have basic performance assignments. I'm gonna pay $50.
+
+539
+01:10:09.420 --> 01:10:14.840
+Danny Park: And in fact, I like it so much. And I tell other people to buy your product. So that's a customer
+
+540
+01:10:15.360 --> 01:10:19.470
+Danny Park: from an analytic sense, meaning analytics that feeds into risk
+
+541
+01:10:20.510 --> 01:10:23.170
+Danny Park: leads feet into swat. Because
+
+542
+01:10:23.470 --> 01:10:31.570
+Danny Park: if a customer, you don't know if they come to the repeat business with you, you have no idea that's an actual threat. I mean sorry. That's an actual weakness
+
+543
+01:10:33.170 --> 01:10:34.180
+Danny Park: and a risk.
+
+544
+01:10:35.860 --> 01:10:47.480
+Danny Park: So again, all all the courses that you will take in your Mba program, all these things have to tie together. All of you will be taking marketing will be taking finance. We'll be taking accounting. We'll be taking business policy
+
+545
+01:10:47.890 --> 01:10:54.260
+Danny Park: right. as at the end of your Mba experience, you need to tie all those things together. No one's gonna tie it for you.
+
+546
+01:10:55.820 --> 01:11:03.009
+Danny Park: So that's what an Mba is when you graduate from an Mba program you're like, Hey, employer, I have taken all these courses.
+
+547
+01:11:03.070 --> 01:11:11.960
+Danny Park: I know how business actually works. I know how business analysis done from all these domains. Hire me because I'm a strategist.
+
+548
+01:11:12.850 --> 01:11:22.439
+Danny Park: Okay? So that's so, anyway, that's that's customer analysis using canoe. So what we did basic performance excitement assigned it needs is it's called cano analysis.
+
+549
+01:11:22.910 --> 01:11:24.749
+Danny Park: It's also a lean 6 sigma tool
+
+550
+01:11:26.470 --> 01:11:32.969
+Danny Park: and then ultimately, in the advanced advanced. So these are for, like the marketing analytics, people
+
+551
+01:11:33.400 --> 01:11:43.209
+Danny Park: who wanna take marketing analytics to like the the nerd degree right? The nerd degree. They're super nerds. They will build out sophisticated stakeholder personas.
+
+552
+01:11:46.110 --> 01:11:48.669
+Danny Park: and they'll exactly know how to how to
+
+553
+01:11:48.740 --> 01:11:57.949
+Danny Park: how to segment them, how to do customized marketing. How do all these different activities to mitigate the risk of losing market share?
+
+554
+01:11:58.210 --> 01:12:03.060
+Danny Park: So yes, marketing is not a silly topic. Marketing is very important
+
+555
+01:12:06.570 --> 01:12:09.260
+Danny Park: for us to understand how to mitigate, risk
+
+556
+01:12:09.530 --> 01:12:14.090
+Danny Park: and feed into other business analysis that we're doing as an as an organization.
+
+557
+01:12:14.880 --> 01:12:29.610
+Danny Park: So we'll stop here. So II will continue this on starting from Slide 25 the week after next week we're gonna we'll be at the the competition. But before I close our session today, any questions, anyone, any questions.
+
+558
+01:12:30.460 --> 01:12:32.760
+Danny Park: Was this helpful? Oh, go ahead, Donald. Yeah.
+
+559
+01:12:34.120 --> 01:12:50.370
+Donald Rada: You said earlier that we can't share answers. But I was wondering if I could like we could collaborate together cause I actually messaged Leonard earlier. See if we could work together. Oh, yeah. So if if okay, if you alright, I'll I'll I'll I'll I'll allow that if you
+
+560
+01:12:51.180 --> 01:12:57.469
+Danny Park: yeah, it's fair. If you if the other person attended, I know, then it will attend. If the other person attended.
+
+561
+01:12:57.870 --> 01:13:06.060
+Danny Park: and you both want to collaborate to do that extra credit. of course for sure. Nope, I don't see any problem with that. Yeah.
+
+562
+01:13:06.900 --> 01:13:19.149
+Danny Park: awesome. Thank you. And thank you for your service. Oh, no, thank you. I mean you're welcome. I mean cool many pizza slices ago.
+
+563
+01:13:20.470 --> 01:13:37.690
+Danny Park: but yeah, really good memories grew up very well in my in my time, in in in in the Marine Corps, for sure. But any any other questions. I hope this was helpful if I know you guys probably seen some of this before, but II hope it was. It was. It was enlightening. I hope it helps the group projects.
+
+564
+01:13:37.830 --> 01:13:48.520
+Danny Park:  so if there were any more any other further questions, please start on your group project. If you haven't, please feel free to schedule office out me office. Out with me to talk about your group project
+
+565
+01:13:48.730 --> 01:13:51.989
+Danny Park: and see everybody next week.
+
+566
+01:13:52.060 --> 01:14:06.339
+Jie Yang: and the week after. Thanks. Everyone have a good night and good weekend. I have a question. Sorry II see you list. Our like the team members on on the Excel. Because I I'll attend this class like.
+

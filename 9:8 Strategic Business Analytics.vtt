@@ -1,0 +1,2434 @@
+WEBVTT
+
+1
+00:00:02.880 --> 00:00:06.530
+Danny Park: Alright welcome, everyone happy Friday.
+
+2
+00:00:06.620 --> 00:00:11.549
+Danny Park: if I seem a little down. I had a red red eye flight this morning, so
+
+3
+00:00:11.810 --> 00:00:14.780
+Danny Park: apologies in advance if I see him a little.
+
+4
+00:00:14.820 --> 00:00:21.139
+Danny Park: not as energetic as I usually am. Maybe maybe that might be better. I don't know right, anyway.
+
+5
+00:00:21.220 --> 00:00:22.560
+Danny Park: So
+
+6
+00:00:22.990 --> 00:00:25.990
+Danny Park: Just before we begin our
+
+7
+00:00:26.040 --> 00:00:34.300
+Danny Park: discussion today around business analytics and strategy. Just wanted to open up the full floor for anyone who has any questions
+
+8
+00:00:34.710 --> 00:00:37.740
+Danny Park: around the prerecorded lectures
+
+9
+00:00:44.470 --> 00:00:47.800
+Danny Park: or anything else we covered so far. no one.
+
+10
+00:00:53.510 --> 00:01:06.560
+Danny Park: Alright sweet, and let's get right into it as I. As we discuss our content today. I'll be referring to. We're referring back to some of the concepts in the pre-recorded lecture.
+
+11
+00:01:06.960 --> 00:01:13.609
+Danny Park: And if there's any questions, please feel free to raise your hand and stop me any time for me to kind of, you know, elaborate as needed.
+
+12
+00:01:13.720 --> 00:01:27.989
+Danny Park: Alright. So the slide deck II combined our slides from our first session together, just to keep the concept somewhat organized a little bit for our class. So that's not. Let's not worry about slides.
+
+13
+00:01:28.460 --> 00:01:30.450
+Danny Park: one through 8
+
+14
+00:01:30.640 --> 00:01:33.719
+Danny Park: for our session today. Oh, Libby, you have a question. Go ahead.
+
+15
+00:01:34.150 --> 00:01:55.950
+libby: It's not really a question. Hi, so when you were talking about consistency with regards to data. Quality just curious. You made mention of an example of a marine somebody that was
+
+16
+00:01:56.030 --> 00:02:04.339
+libby: stealing 5 cents. I was just curious how much the total amount of money, you know he was charged.
+
+17
+00:02:04.630 --> 00:02:05.640
+Danny Park: Oh.
+
+18
+00:02:06.220 --> 00:02:10.940
+Danny Park: I forgot, this is so long ago, but it was a lot.
+
+19
+00:02:11.310 --> 00:02:17.140
+Danny Park: Yeah, it was. It was less than a million.
+
+20
+00:02:17.240 --> 00:02:20.719
+libby: Oh, it was yeah, but it was. It was enough to where
+
+21
+00:02:22.000 --> 00:02:23.620
+Danny Park: he went to jail for very long.
+
+22
+00:02:23.700 --> 00:02:43.709
+Danny Park: and the bad jail. He went to living with military jail, which is not not not a good place for anyone who served before knows the difference between military justice and civilian justice. But yeah, that's something that you know as as future executives in this room we have to. You know.
+
+23
+00:02:43.930 --> 00:02:55.560
+Danny Park: we have to challenge and ask the right questions, even though how minuscule we think it is, you know, is that it was that Colonel who would just like. you know, who's that? He was that diligent
+
+24
+00:02:55.900 --> 00:03:07.769
+Danny Park: with looking at, you know his paycheck, and that led to. you know, a a criminal activity. I mean discovery of a criminal activity. Aidan. Go ahead.
+
+25
+00:03:08.940 --> 00:03:11.150
+Aidan(Hun Seok) Choi: Yeah. Well, I was
+
+26
+00:03:11.260 --> 00:03:17.130
+Aidan(Hun Seok) Choi: Taking your pre recorded lecture. We learned that there's a business model.
+
+27
+00:03:17.480 --> 00:03:18.490
+Aidan(Hun Seok) Choi: And
+
+28
+00:03:18.790 --> 00:03:26.550
+Aidan(Hun Seok) Choi: with 2 components process model data model, usually some companies, they do not.
+
+29
+00:03:27.100 --> 00:03:29.480
+Aidan(Hun Seok) Choi: They had a process model that
+
+30
+00:03:29.570 --> 00:03:35.859
+Aidan(Hun Seok) Choi: integrated data model. So the concept also are confused about.
+
+31
+00:03:36.360 --> 00:03:41.029
+Aidan(Hun Seok) Choi: And the employees are confused about these structures.
+
+32
+00:03:41.250 --> 00:03:47.189
+Aidan(Hun Seok) Choi: is, those companies considered the the amount of money that
+
+33
+00:03:47.200 --> 00:03:51.100
+Aidan(Hun Seok) Choi: they're investing or why they're structured like that.
+
+34
+00:03:51.740 --> 00:03:54.390
+Danny Park: No, it's a great question.
+
+35
+00:03:54.820 --> 00:04:03.590
+Danny Park: So in one thing that we have to be very aware of, especially around, you know the world of analytics, and and in the world of big data.
+
+36
+00:04:03.670 --> 00:04:07.839
+Danny Park: everything has a cost to it, right and to your point.
+
+37
+00:04:09.720 --> 00:04:27.180
+Danny Park: depending on the company, and where they are in the market, they have different priorities. So if you're a market leader. who? Who's has been around for a long time, who has, you know who has these methodologies and funding. Then you really take took care of all these things. But if you're a emerging
+
+38
+00:04:27.970 --> 00:04:49.250
+Danny Park: organization, especially a startup, right? Startups necessarily don't have the funding or capital to really do things the right way, because they have to go show some kind of progress to investors. So I'm not saying that no one's so. And I kinda wanna go into like a myth right in business. People don't purposefully cut costs or or
+
+39
+00:04:49.600 --> 00:04:51.909
+Danny Park: take shortcuts right.
+
+40
+00:04:52.970 --> 00:05:06.350
+Danny Park: It's they're forced to do it that way, because there's a laundry list of things that they have to deal with, but but because funding is limited, they have to prioritize what to tackle first, and sometimes some things do get dropped.
+
+41
+00:05:06.500 --> 00:05:11.259
+Danny Park: but or dropped or done halfway, because, you know, just run out of funding
+
+42
+00:05:11.360 --> 00:05:14.059
+Danny Park: so as as executives, you know.
+
+43
+00:05:15.000 --> 00:05:22.590
+Danny Park: we have to, as future executives or executives in the room right now in the room. We have to ensure that
+
+44
+00:05:22.980 --> 00:05:26.550
+Danny Park: there's enough education within our ranks
+
+45
+00:05:26.620 --> 00:05:42.249
+Danny Park: to where they know that even down to their own activity level, that there has to be some level of priority that takes place. So they make. So their activities or actions, they take generate the most value. So yeah, ultimately, long story short Aiden, it's it's a, it's a, it's a budget issue.
+
+46
+00:05:42.640 --> 00:05:58.720
+Danny Park: And most companies, you know, instead of building data models themselves or robust infrastructures, they just, you know, they they outsource it. Any third party that that that type of capability. But the flip side. What you lose, what you lose is, you know you don't own any of the.
+
+47
+00:05:59.170 --> 00:06:09.589
+Danny Park: you know, like you gotta you gotta. You use what you get kind of thing. So it doesn't really always meet the the requirements. But there's always that trade off the buyer. Sell is a consistent
+
+48
+00:06:09.680 --> 00:06:13.099
+Danny Park: question that that that we deal with every day.
+
+49
+00:06:13.820 --> 00:06:22.269
+Danny Park: Thank you so much for anyone else. Any other questions.
+
+50
+00:06:26.030 --> 00:06:30.070
+Danny Park: Awesome. Alright. So let's let's keep chugging along here.
+
+51
+00:06:30.180 --> 00:06:36.250
+Danny Park: Right? So you know, today, just wanna talk about what strategy is. And this is a very
+
+52
+00:06:36.460 --> 00:06:39.719
+Danny Park: important topic for us to
+
+53
+00:06:40.830 --> 00:06:43.120
+Danny Park: understand. because
+
+54
+00:06:43.290 --> 00:06:50.650
+Danny Park: if we don't understand strategy. then the analytics that we do
+
+55
+00:06:51.590 --> 00:07:16.080
+Danny Park: right, or any decision that we make within our information system, remember the information system. You know the components right? They're going to be misaligned right? So when I go back to the very first slide and you know how we talked about. There's a business strategy and a technology strategy and a talent strategy. And these things start like they diverge, and they sometimes come in conflict.
+
+56
+00:07:16.360 --> 00:07:26.710
+Danny Park: because ultimately, what what binds these 3 strategies together is the ultimate organizational strategy, meaning, what do they really want to achieve?
+
+57
+00:07:26.770 --> 00:07:34.319
+Danny Park: And market? Right? So when we go back to the stratage slide. Right? Let's kind of look through
+
+58
+00:07:34.540 --> 00:07:43.100
+Danny Park: some of the the the definitions and understandings from a book perspective. Right? So strategy refers to a comprehensive
+
+59
+00:07:43.250 --> 00:07:54.229
+Danny Park: right, comprehensive. That that means something. Okay, a comprehensive and purposeful right? Another word that means something not by accident
+
+60
+00:07:54.600 --> 00:08:01.010
+Danny Park: and not incomplete right? It's comprehensive and a purposeful plan of action
+
+61
+00:08:01.490 --> 00:08:04.460
+Danny Park: designed to achieve specific
+
+62
+00:08:05.450 --> 00:08:18.109
+Danny Park: goals and objectives. Right? Remember, as as business leaders, these words, we have to really understand the definition of of these things, we can dilute them or substitute them
+
+63
+00:08:19.110 --> 00:08:20.999
+Danny Park: for other words. Okay.
+
+64
+00:08:21.340 --> 00:08:38.990
+Danny Park: so then, the second line is involved, is making a series of interconnected decisions meaning. You have to understand your information system. You have to understand the the the components of data quality. You have to understand data model. You have to understand your infrastructure
+
+65
+00:08:40.750 --> 00:08:45.890
+Danny Park: right? Because if you don't understand it, how can you make interconnected decisions
+
+66
+00:08:47.630 --> 00:08:55.650
+Danny Park: that align in organization's resources, capabilities and activities with its environment to create a sustainable
+
+67
+00:08:57.010 --> 00:09:00.289
+Danny Park: right, not just a competitive advantage.
+
+68
+00:09:00.920 --> 00:09:13.379
+Danny Park: right? A sustainable, competitive advantage. Right? Example like, why is the word sustainable? Very important. And people leave this out often, but we should be including it. Because, for example, let's say I'm in a race with my brother
+
+69
+00:09:13.920 --> 00:09:17.039
+Danny Park: right? And II
+
+70
+00:09:17.070 --> 00:09:26.840
+Danny Park: happen to have a pair of sneakers that is going to help me run faster. But let's say those pair of sneakers will degrade after 100 yards
+
+71
+00:09:27.120 --> 00:09:33.069
+Danny Park: right? So I'm running, and then my sneak is degraded, and I no longer have the advantage, and my brother catches up.
+
+72
+00:09:33.220 --> 00:09:44.619
+Danny Park: So basically, the sneakers. The advantage I had was not sustainable didn't last long enough to keep me in a position of leading to where I could leapfrog again.
+
+73
+00:09:45.100 --> 00:09:58.170
+Danny Park: Right? So you can't claim you're gaining a competitive advantage if you're gonna eventually in the long term, end up where you were in the in the first place. So if you're Number 5, you got to Number one, but because that advantage you you
+
+74
+00:09:58.210 --> 00:10:02.890
+Danny Park: thought was sustainable was not brought you back back to Number 5. So.
+
+75
+00:10:05.360 --> 00:10:14.100
+Danny Park: understanding the definition of strategy and how interconnected decisions, impact resourcing capability and activities
+
+76
+00:10:14.490 --> 00:10:24.169
+Danny Park: will help us figure out the best possible answer, the best possible competitive advantage and kind of my point around the resources, capabilities and activities. Right?
+
+77
+00:10:25.200 --> 00:10:41.009
+Danny Park: If you don't understand or don't have regard or or consideration of the information system components and how they interact with one another, and you don't have appreciation of data quality, and you don't have appreciation for the infrastructure that captures that quality.
+
+78
+00:10:41.060 --> 00:10:51.220
+Danny Park: How do you know who to hire. How do you know what capabilities you need within your people that you hire, or the technologies you bring in? And how do you even know what activities you should be focused on in the first place.
+
+79
+00:10:52.120 --> 00:10:57.190
+Danny Park: So sometimes not all the time. Sometimes when we're at work.
+
+80
+00:10:57.450 --> 00:11:12.289
+Danny Park: we might feel a little lost, or we might feel. We don't understand why we're doing something right for those who work full time. I'm sure you were in a position, or you maybe were in a role where you're doing activities. But you're like, why, the heck, am I doing this stuff
+
+81
+00:11:12.850 --> 00:11:15.440
+Danny Park: right? That is actually a red flag.
+
+82
+00:11:16.550 --> 00:11:23.119
+Danny Park: So a good strategist a good way to do a pulse check on how
+
+83
+00:11:23.370 --> 00:11:40.409
+Danny Park: comprehensive and purposeful a strategy actually is. You actually go down to the people who are executing your strategy and ask them, Hey, what's the purpose of your activity today? And if they can't articulate it to you, then you have to really start understanding when you really start thinking about. Okay, why does this person not understand?
+
+84
+00:11:40.990 --> 00:11:44.720
+Danny Park: There has to be a connection and purpose
+
+85
+00:11:44.750 --> 00:11:52.540
+Danny Park: to everything, cause it? Because because top level strategy drives everything down right to the actual tactical level.
+
+86
+00:11:53.730 --> 00:12:00.310
+Danny Park: So let me stop you any questions. Anyone have any stories around your day to day, and not knowing what's going on.
+
+87
+00:12:02.700 --> 00:12:09.270
+Danny Park: or even not knowing what some other departments doing, or, which is worse, duplicating efforts in multiple departments.
+
+88
+00:12:10.180 --> 00:12:11.629
+Danny Park: These are all signs
+
+89
+00:12:11.960 --> 00:12:18.430
+Danny Park: that the strategy that a certain group of executives put into place was not comprehensive.
+
+90
+00:12:19.020 --> 00:12:20.889
+Danny Park: might not be purposeful.
+
+91
+00:12:21.120 --> 00:12:29.099
+Danny Park: Wasn't there to achieve something specific and didn't really consider the all like, there were no interconnected decisions. Right?
+
+92
+00:12:30.140 --> 00:12:32.239
+Danny Park: Any any examples anyone want to share
+
+93
+00:12:36.350 --> 00:12:39.159
+Danny Park: who everyone works for the best company in the world.
+
+94
+00:12:42.920 --> 00:12:47.879
+Danny Park: Can you hear me? Yeah, go ahead.
+
+95
+00:12:48.000 --> 00:12:49.520
+Leonard: Oh, so once
+
+96
+00:12:49.540 --> 00:12:52.859
+Leonard: I was I was working on this TV show
+
+97
+00:12:53.140 --> 00:12:55.990
+Leonard: as a production assistant when I first started.
+
+98
+00:12:56.080 --> 00:13:14.100
+Leonard: And each, you know, production assistant. We all have the same exact tasks to tackle, but it could be. It could have, like a number of subsections in the task to tackle, and I remember I was just going to get like water and crafty like snacks and things for the crew.
+
+99
+00:13:14.120 --> 00:13:16.010
+Leonard: and I came back with
+
+100
+00:13:16.130 --> 00:13:21.209
+Leonard: the water and the crafty, and someone just around at the same time.
+
+101
+00:13:21.240 --> 00:13:38.929
+Leonard: Well, more, what is it? More crafty? And they're like, oh, this is more way. More than enough like we didn't know both of you guys were doing the same thing with the communicated to us each that one person should go and do it, and because someone else was doing the same thing that you should go and do another task.
+
+102
+00:13:39.560 --> 00:13:43.350
+Danny Park: Yeah. No perfect example of just
+
+103
+00:13:43.870 --> 00:13:48.389
+Danny Park: not everyone not being on the same page as to what
+
+104
+00:13:48.480 --> 00:13:56.539
+Danny Park: the actual specific goal is right. No great example. And I see another example on on the chat room which I want to read.
+
+105
+00:13:56.680 --> 00:14:20.959
+Danny Park: By Donald. So I'm very thankful for this commentary. I work as a high school teacher in the South Bronx, and I find it weird how this organized and online teachers are very sensitive topic. But I would have to agree. I would have to agree right. It's because the leaders are not really trying to figure out or spending any time. The teachers understand a new strategy, or they're introducing exactly or
+
+106
+00:14:21.400 --> 00:14:26.479
+Danny Park: right, because perhaps the political nature of academics.
+
+107
+00:14:27.500 --> 00:14:32.000
+Danny Park: They're competing strategies. They're so
+
+108
+00:14:32.040 --> 00:14:48.500
+Danny Park: misalign that sometimes you gotta really take a huge step back and figure out what everyone's understanding is that what the actual goals are? Is it just passing kids to make sure they get to the next grade? Or is it actually assessing them for knowledge like, did they actually learn something?
+
+109
+00:14:48.500 --> 00:15:08.659
+Danny Park: Right? So you have a group that says, well, we don't wanna specifically measure them on how much they learned because the teachers might get a hit in their careers, so the teachers might get blamed that the kids don't know enough. Right? So what's that threshold is passing is 50, is it? 70? Is it 90? What is it versus? You know? What do we even teach them? So so that
+
+110
+00:15:09.080 --> 00:15:17.469
+Danny Park: that right there, that is a great example of how you, if you don't have one specific strategy, right? A specific goal or object objectives
+
+111
+00:15:17.690 --> 00:15:20.149
+Danny Park: to Donald's point, you don't know who to hire.
+
+112
+00:15:20.250 --> 00:15:42.870
+Danny Park: You don't know which who which schools should get the most funding or better funding, or should they be actually be funded? You're right. What capabilities do you need to actually get students to teach, to learn, or maybe pass right? And what activities should the teachers be focused on right? Is it teaching toward a state exam, or is it actually teaching with with day to day?
+
+113
+00:15:43.360 --> 00:15:55.400
+Danny Park:  True care around? What are we learning today? Right day by day, type of type of approach. So great example, the the, the, the academic world. Right?
+
+114
+00:15:55.760 --> 00:15:57.810
+Danny Park: Now, thank you for bringing that up.
+
+115
+00:15:57.960 --> 00:16:02.220
+Danny Park: And then, Barat, I recently started a full time tax social role I used to put in.
+
+116
+00:16:02.370 --> 00:16:13.089
+Danny Park: I used to input K, one's into tax form. And without actually knowing the pre, yeah, about what numbers mean, and I wasn't an intern I still don't fully know, but definitely have a better idea about K. One's out so.
+
+117
+00:16:13.380 --> 00:16:18.359
+Danny Park: But Varada has another great example. Right. So in the tax, in the tax industry.
+
+118
+00:16:20.720 --> 00:16:26.470
+Danny Park: you could go through the tax career. Your entire tax career had no idea
+
+119
+00:16:26.690 --> 00:16:32.960
+Danny Park: what tax law actually is, and just know that you need to file forms and deadlines.
+
+120
+00:16:34.030 --> 00:16:38.689
+Danny Park: What's sad is the purpose of tax filings
+
+121
+00:16:39.320 --> 00:16:47.170
+Danny Park: is to motivate companies to do the tax planning before you have to file out at the end of year.
+
+122
+00:16:47.300 --> 00:16:49.800
+Danny Park: So thoughtful tax planning.
+
+123
+00:16:50.710 --> 00:17:07.129
+Danny Park: which is a specific goal by you say, I want to be able to save $40,000 off of my net earnings next year. A specific goal leads into what types of forms you need to file, or even if you have to file at all, which saves you more money.
+
+124
+00:17:07.150 --> 00:17:14.589
+Danny Park: So the lack of a tax strategy would eventually lead lead into having staff
+
+125
+00:17:15.250 --> 00:17:26.700
+Danny Park: randomly almost feels like randomly filling out forms and filing forms to irs that ultimately should not be needed. because if the strategy was there, in the first place, you don't have to do that stuff
+
+126
+00:17:26.910 --> 00:17:31.170
+Danny Park: right? So that's a great example. If I brought thank you for that example.
+
+127
+00:17:32.100 --> 00:17:52.689
+Danny Park: and then Avril, last one and it will move on. I work in banking. I see efforts duplicate and operations several times, multiple reports being duplicated and reinvented, that tell the same story just using different fonts and covid. Yes, yes. So regurgitation of slide decks amongst multiple departments. Right? And
+
+128
+00:17:52.950 --> 00:17:55.860
+Danny Park: and let's think about that for a second, like you have
+
+129
+00:17:56.300 --> 00:18:04.809
+Danny Park: 3 separate operations. Who are giving you this? Who's giving leadership the same report. So what's going on there?
+
+130
+00:18:05.110 --> 00:18:14.560
+Danny Park: Right? Who's why is it? Why are people confused, or isn't is are the 2 or the other operating bodies, you know, off strategy. So they're doing tasks
+
+131
+00:18:14.630 --> 00:18:26.550
+Danny Park: that they should not be doing should be focused on other things right? So all great examples of how not having a thoughtful and comprehensive strategy is going to misalign like how much waste there is already
+
+132
+00:18:27.170 --> 00:18:29.119
+Danny Park: right. Now, let's think about
+
+133
+00:18:30.150 --> 00:18:32.369
+Danny Park: the analytics behind all that stuff.
+
+134
+00:18:34.870 --> 00:18:45.500
+Danny Park: right? The analytics that you're giving to a leadership with that is absent strategy. How useful is it really right? So
+
+135
+00:18:46.020 --> 00:18:52.330
+Danny Park: so we talked about some like the bad stuff, right? About what happens if you're not really thoughtful about your strategy, and you're dropping the ball.
+
+136
+00:18:53.190 --> 00:18:56.070
+Danny Park: So luckily there's some criteria
+
+137
+00:18:56.220 --> 00:18:59.880
+Danny Park: for an effective strategy, right? And the number one on the list
+
+138
+00:19:00.570 --> 00:19:03.900
+Danny Park: is going to be clear, objective.
+
+139
+00:19:04.980 --> 00:19:26.039
+Danny Park: right? Clear objectives. A well. A. So what's a clear objective? Right? A well-defined strategy should have specific, measurable, measurable objectives that guide the organization's efforts. So I'll give. I'll give an example of a poorly, a poor objective right. And this this ha! I actually seen some Mba programs
+
+140
+00:19:26.330 --> 00:19:28.250
+Danny Park: when they write mission statements.
+
+141
+00:19:28.700 --> 00:19:39.399
+Danny Park: And I'm reading. I go. Well, that's a really poorly written mission statement as a bad example. And I've seen it at Barook, too. Right? So here's a really bad mission statement or a bad objective or strategy.
+
+142
+00:19:40.430 --> 00:19:45.890
+Danny Park: Next year we're going to increase our market share in the finance industry.
+
+143
+00:19:49.300 --> 00:19:50.120
+Danny Park: Okay.
+
+144
+00:19:51.410 --> 00:19:53.430
+Danny Park: so can anyone tell me what's wrong with that.
+
+145
+00:19:55.380 --> 00:19:58.749
+Leonard: Yeah, there's no clear directive as to
+
+146
+00:19:59.010 --> 00:20:03.199
+Leonard: how when? Exactly. Yes.
+
+147
+00:20:03.310 --> 00:20:09.310
+Leonard: And yeah, basically how. And when. Exactly. So, you could hold people accountable.
+
+148
+00:20:09.340 --> 00:20:20.959
+Danny Park: awesome way to measure that Yup. So what happens? What happens to like? So let's say you give that to your say. You're a CEO, and you see that in some meeting.
+
+149
+00:20:21.030 --> 00:20:24.359
+Danny Park: and that's a takeaway. Oh, take away blah! Right
+
+150
+00:20:25.160 --> 00:20:29.930
+Danny Park: and then, and then the the senior Vice Presidents have to go plan around this thing.
+
+151
+00:20:31.430 --> 00:20:38.959
+Danny Park: Then that put your put yourself in the shoes of a senior vice President who's expected to plan around a plan for
+
+152
+00:20:39.330 --> 00:20:41.130
+Danny Park: that objective?
+
+153
+00:20:42.480 --> 00:20:46.359
+Danny Park: Wha wha think about? What will you do like? What resources do you need?
+
+154
+00:20:47.090 --> 00:20:50.929
+Danny Park: What team was? Specifics? Yeah, exactly. And then but what happens? Though?
+
+155
+00:20:51.600 --> 00:20:54.979
+Danny Park: Because things so move so fast, what do they do? They
+
+156
+00:20:55.130 --> 00:20:56.970
+Danny Park: duplicate efforts
+
+157
+00:20:58.300 --> 00:21:05.159
+Danny Park: right? They hire more than they need, they gain. They bring on capabilities that other departments already have.
+
+158
+00:21:05.910 --> 00:21:08.419
+Danny Park: and they're doing the same activities.
+
+159
+00:21:08.600 --> 00:21:32.159
+Danny Park: So you have this massive effort to charge or march towards something that they do have no idea what they're marching toward. That example of an objective, that high, level thing that I've seen examples of that too many times, both in, you know, in my client work and and everywhere else, right? And what's set? What's gonna set us us apart differently in our careers is when we hear vague, we challenge it with the right questions.
+
+160
+00:21:32.420 --> 00:21:51.430
+Danny Park: And why do we challenge it with the right questions, because we are and where we want to be really good, analytic people, right? So analytic people need to answer need to ask the right questions. So so challenging through questions is what highlights us for potential leadership, or, in fact, leadership in the future, and leadership is not
+
+161
+00:21:52.230 --> 00:22:00.119
+Danny Park: a very difficult thing to do is just having the courage to inspire people just by asking the right questions. Sometimes it's that easy.
+
+162
+00:22:01.100 --> 00:22:06.179
+Danny Park: So here's a a good. Can someone give an example of a good objective?
+
+163
+00:22:07.560 --> 00:22:10.319
+Danny Park: You can make one up. You don't have to use the example I just gave before.
+
+164
+00:22:12.750 --> 00:22:16.250
+Leonard: A good objective would probably be something like
+
+165
+00:22:16.540 --> 00:22:22.210
+Leonard: and the next 3 months I choose. I I'm going to
+
+166
+00:22:22.290 --> 00:22:25.650
+Leonard: produce produce the album right by making
+
+167
+00:22:26.130 --> 00:22:30.469
+Leonard: 3 songs every 2 weeks or every 3 weeks.
+
+168
+00:22:30.490 --> 00:22:39.869
+Leonard: And you know, I'm gonna make one song a week. Let's say I'm gonna make one song a week for the next 3 to 4 months to produce an album that has 11 to 12 cuts on it.
+
+169
+00:22:40.100 --> 00:22:40.790
+Oh.
+
+170
+00:22:41.170 --> 00:22:45.390
+Danny Park: nice like that. Yeah, which results in which results in
+
+171
+00:22:45.960 --> 00:23:15.230
+Leonard: how much money like, let's use like 10 million dollars or 5 million depends on who you are. Yeah, it could be like, Oh, in sales, you. We wanna say something like, Oh, in that album I'm gonna try to produce, maybe a hundred $1,000 in sales in the following 3 months. So over total of 6 months. I'm gonna produce the album of 1112 songs that's going to gone to me. At least 100,000 in sales.
+
+172
+00:23:15.330 --> 00:23:37.469
+Danny Park: perfect sort of total 6 months. Yeah, that's that's a really good example. So what Leonard is providing is so so to sum up, what a clear objective is supposed to do. What a clear objective does is. It tells everyone who's leading a the value chain of an organization. It shows them exactly what they need to do
+
+173
+00:23:37.590 --> 00:23:47.460
+Danny Park: to participate in achievement of the of the objective of the of the objective. So what I heard from Leonard is right. If I had executive from so, but from procurement.
+
+174
+00:23:47.640 --> 00:24:01.909
+Danny Park: a executive from marketing, an executive, from finance, and executive from Hr. Talent. When they hear that objective they're gonna, go. Oh, I know. II know what my role is. Now in that objective.
+
+175
+00:24:02.000 --> 00:24:12.009
+Danny Park: I'm gonna start thinking about what resources and capabilities and plans I need. And I know who to talk to, to collaborate, to make sure that we're not stepping on each other's toes.
+
+176
+00:24:12.190 --> 00:24:14.990
+Danny Park: So you see how powerful that is in business.
+
+177
+00:24:15.310 --> 00:24:25.359
+Danny Park: right? Business is not some magical, difficult thing to do where you need to be to the you need to be a wizard. It just takes some analytical thought, thinking like an analyst.
+
+178
+00:24:25.570 --> 00:24:37.990
+Danny Park: to to cover or be thorough or comprehensive, right and purposeful in the things that we want to achieve. Right. And that's what that's what separates a
+
+179
+00:24:38.610 --> 00:24:42.360
+Danny Park: an Mba from everyone else. Right?
+
+180
+00:24:45.540 --> 00:24:57.259
+Danny Park: So then, that we talked about to getting that alignment right? So the example about all the executives and the different value chain know exactly what they did. They're all aligned on what they're supposed to do right, and because they're aligned
+
+181
+00:24:57.970 --> 00:25:11.869
+Danny Park: and not stepping on each other's toes and not wasting time and costing more money. Because what happens when you're when you're over producing, or you're reproducing things that already produced, you're just wasting time and money.
+
+182
+00:25:12.400 --> 00:25:16.799
+Danny Park: If you waste time and money, you can't gain it like a competitive advantage.
+
+183
+00:25:17.070 --> 00:25:36.590
+Danny Park: So the alignment which creates efficiencies and achieving those objectives, objectives increases your probability of achieving the competitive advantage. So that's what, when you guys here in your classes like this high level term that professors throughout and gaining the competitive advantage. That's that's like we're pinned the layer back.
+
+184
+00:25:36.860 --> 00:26:02.399
+Danny Park: And now we're starting to learn. Okay, what? What do they mean by that like? Well, how do you get it like? What do they mean? Oh, it's simple. Have a have a comprehensive, purposeful strategy. So people can align their activities and resource and capabilities. So once they're line and working together and collaborating something great's gonna come out of it. And it's gonna be very efficient and least way, so they can go ahead and take the money they save of being efficient. And to further that project to continue to strive toward the same strategy.
+
+185
+00:26:02.850 --> 00:26:06.969
+Danny Park: How many people in this room who work for a company. How many times have you heard of strategy shifting?
+
+186
+00:26:08.470 --> 00:26:15.780
+Danny Park: You have to answer? But I would tell you in this room there probably plenty plenty of you who are told. Wait, stop doing that. We're doing something else
+
+187
+00:26:16.220 --> 00:26:17.710
+Danny Park: right? Lena. Go ahead. Yeah.
+
+188
+00:26:18.530 --> 00:26:27.119
+Leonard: no. I was just answering your question. I have. I've been a part of shifting strategy as well as having to pivot my own strategy.
+
+189
+00:26:27.560 --> 00:26:34.390
+Danny Park: Yes, and which is causes more ripple effects. So so that's what again, like, that's what
+
+190
+00:26:36.560 --> 00:26:44.110
+Danny Park: this this this gem of understanding strategy is. Gonna start. We're gonna start building into how it's gonna make the analytics
+
+191
+00:26:45.250 --> 00:26:48.959
+Danny Park: that much more purposeful and useful, right?
+
+192
+00:26:50.170 --> 00:26:57.250
+Danny Park: And I just wanna just kinda I'll and I'll keep hounding on this topic right? The soft skills
+
+193
+00:26:58.330 --> 00:27:01.400
+Danny Park: and the rigor and discipline around them.
+
+194
+00:27:02.270 --> 00:27:05.649
+Danny Park: It gives birth to strong analytics.
+
+195
+00:27:07.710 --> 00:27:09.190
+Danny Park: Analytics
+
+196
+00:27:09.450 --> 00:27:12.650
+Danny Park: does not birth strong strategy
+
+197
+00:27:13.920 --> 00:27:17.660
+Danny Park: right? And I see that misunderstanding
+
+198
+00:27:18.250 --> 00:27:25.189
+Danny Park: not often, but I see it. But people say, Oh, just have an analytics program. They'll solve your problems. I go. What? What?
+
+199
+00:27:27.680 --> 00:27:33.129
+Danny Park: So you're analyzing the fact that you don't have a strategy like, what? How is that? Gonna solve the fact that you don't have a strategy?
+
+200
+00:27:35.410 --> 00:27:43.090
+Danny Park: Alright. So we have to understand that that business analytics is, and we'll go back. You know that going back to the slide. But always we know we revisit the topic.
+
+201
+00:27:43.120 --> 00:27:49.059
+Danny Park: Business analytics is a combination of really good business analysis and really good data analytics
+
+202
+00:27:49.090 --> 00:28:10.049
+Danny Park: right and bit, the the discipline and business analysis helps us strive toward this comprehensive and purposeful strategy. So then, we have where we're going to march toward the competitive advantage because we have alignment, we have effective and efficient resource allocation. Then, because we have the proper resources, then we can be flexible.
+
+203
+00:28:10.990 --> 00:28:20.979
+Danny Park: Agility and flexibility cannot be gained without the proper, not the proper resources staffed with the right capabilities, doing the right activities
+
+204
+00:28:23.060 --> 00:28:27.409
+Danny Park: right. Agility means pivoting, finding a business problem very quickly and solving it.
+
+205
+00:28:27.990 --> 00:28:33.860
+Danny Park: That's flexibility and agility, right? It doesn't mean you pivot quickly and do a different strategy. That means you failed.
+
+206
+00:28:33.940 --> 00:28:44.870
+Danny Park: That means that strategy. One strategy failed. You're doing another one. So people confuse that, too. And I want to comment. Go back and kind of restell that myth. When you're shifting strategies, you're not being agile or flexible.
+
+207
+00:28:45.500 --> 00:28:48.729
+Danny Park: It means that there's something all for the strategy. In the first place.
+
+208
+00:28:49.240 --> 00:28:54.499
+Danny Park: What flexibility and agility means is you're marching toward a clear objective
+
+209
+00:28:55.570 --> 00:29:01.549
+Danny Park: right? And then a a, a unknown business problem. Surfaces.
+
+210
+00:29:01.990 --> 00:29:10.199
+Danny Park: Since you have the right resource and capabilities, capabilities already staffed, you have the ability to to work around.
+
+211
+00:29:10.210 --> 00:29:16.079
+Danny Park: circumvent or eliminate that business problem, to continue on the march toward the strategy you have in place.
+
+212
+00:29:16.640 --> 00:29:20.059
+Danny Park: right? The best products we have in this world.
+
+213
+00:29:21.090 --> 00:29:25.249
+Danny Park: That's why we have them right, like the iphone.
+
+214
+00:29:25.520 --> 00:29:27.139
+Danny Park: like
+
+215
+00:29:27.730 --> 00:29:35.870
+Danny Park: satellites. Right? All these big box great technologies because we they had a effective strategy going into it
+
+216
+00:29:36.830 --> 00:29:41.109
+Danny Park: right? And then there is always a long-term perspective.
+
+217
+00:29:43.410 --> 00:29:51.129
+Danny Park: Right? Short term successes keep you on the long-term path
+
+218
+00:29:52.950 --> 00:29:55.080
+Danny Park: for sustained success.
+
+219
+00:29:57.780 --> 00:30:08.780
+Danny Park: Alright! And going to Donald, I see you have another great comment there. So let me share this every single student who graduated from the ABC. School attend a full university graduate debt free with 4. Yes.
+
+220
+00:30:09.140 --> 00:30:11.350
+Danny Park: very good, exactly. So
+
+221
+00:30:11.640 --> 00:30:15.159
+Danny Park: that another example of a very good, clear objective.
+
+222
+00:30:15.920 --> 00:30:24.139
+Danny Park: So the principal, the teachers, the Deans. They know exactly what levers to pull and how to organize themselves, to achieve those specific goals.
+
+223
+00:30:25.980 --> 00:30:28.950
+Danny Park: awesome any questions around strategy.
+
+224
+00:30:31.150 --> 00:30:38.610
+Danny Park: A good, a good ex. A good practice of this is actually your Mba curriculums. Right? So
+
+225
+00:30:41.650 --> 00:30:46.719
+Danny Park: what is the purpose like? What is the strategy for the Mba.
+
+226
+00:30:46.740 --> 00:30:56.190
+Danny Park: Right? So everyone should have a strategy as to like a like, you know, their strategy is you want to work for? You want to work in the finance industry
+
+227
+00:30:56.340 --> 00:31:06.660
+Danny Park: within 3 months of graduation for these companies in this role. And I want to be paid this much or compensation range
+
+228
+00:31:07.090 --> 00:31:17.180
+Danny Park: right without those specific things defined. What ends up happening is you're gonna go through your curriculum picking courses that you don't know why you're picking them.
+
+229
+00:31:18.630 --> 00:31:25.379
+Danny Park: Well, you're guessing your thing is gonna help you. But maybe you won't right. And at the end, when you graduate from Mba programs.
+
+230
+00:31:25.520 --> 00:31:36.419
+Danny Park: instead of targeting and doing the actions to specifically get you set you set up for success to get the career that you want. You end up taking the first job that comes across.
+
+231
+00:31:38.770 --> 00:31:40.629
+Danny Park: I seen that happen a lot.
+
+232
+00:31:41.410 --> 00:31:53.179
+Danny Park: And it's because we have to bring these concepts into our daily lives. The more we practice these concepts in our daily lives, the more we can showcase them in our work life.
+
+233
+00:31:53.540 --> 00:32:01.920
+Danny Park: that is, work-life balance. or a a portion of what we define as work-life balance.
+
+234
+00:32:02.810 --> 00:32:05.560
+Danny Park: Okay, Tayla tailor
+
+235
+00:32:07.230 --> 00:32:22.370
+Taeeun: so I was kinda curious about something. So let's say, in real life situations, not all strategies can be perfect.
+
+236
+00:32:22.640 --> 00:32:23.770
+Taeeun: Therefore.
+
+237
+00:32:24.000 --> 00:32:42.290
+Taeeun: if let's say it's like a really long term strategy with like, 3 year span. When does like companies will realize actually make the changes would decide. Oh, you have to fix our strategy or our strategy isn't the best. Oh, sure, no great, great question. So
+
+238
+00:32:46.520 --> 00:32:55.719
+Danny Park: strategies. Good. Good St. The top companies build or or develop really comprehensive, purposeful strategies
+
+239
+00:32:56.940 --> 00:33:00.050
+Danny Park: where they will, will, they'll start pivoting is
+
+240
+00:33:00.600 --> 00:33:05.459
+Danny Park: if the erratic and uncontrollable nature of the economy
+
+241
+00:33:06.080 --> 00:33:08.950
+Danny Park: surfaces, thumb aspect
+
+242
+00:33:09.040 --> 00:33:18.250
+Danny Park: that they could not control, for which did not inform this strategy. In the first place. So it's a great question that Taylor brought up right is
+
+243
+00:33:19.490 --> 00:33:21.869
+Danny Park: when you, when you build a strategy.
+
+244
+00:33:22.240 --> 00:33:26.589
+Danny Park: you're you're using the best information you have to date
+
+245
+00:33:26.790 --> 00:33:35.720
+Danny Park: to build out a strategy that is achievable. But we have to understand as business leaders that we work in the capitalist market
+
+246
+00:33:35.730 --> 00:33:46.629
+Danny Park: where there's a lot of uncontrollable unpredict, unpredictable factors. So as we're marching toward our strategy, we have, you know, most companies have wings.
+
+247
+00:33:46.720 --> 00:33:56.560
+Danny Park: strategic wings in the in the organization called R&D, right research and development or business intelligence. Right? So these parts of the companies are always scouring
+
+248
+00:33:57.350 --> 00:33:59.870
+Danny Park: the the, the ecosystem
+
+249
+00:34:00.540 --> 00:34:06.350
+Danny Park: for lagging and leading indicators that might be contrary
+
+250
+00:34:06.370 --> 00:34:09.670
+Danny Park: to the strategy that they have created
+
+251
+00:34:09.960 --> 00:34:12.410
+Danny Park: right. So that function
+
+252
+00:34:12.480 --> 00:34:24.709
+Danny Park: is what informs the organization. As to hey, we need to shift this to strategy, in other words, develop a updated, comprehensive, purposeful strategy, because these new factors have emerged.
+
+253
+00:34:25.330 --> 00:34:26.159
+Danny Park: So
+
+254
+00:34:26.969 --> 00:34:31.390
+Danny Park: if we think about it right, let's this business intelligence function
+
+255
+00:34:31.449 --> 00:34:36.089
+Danny Park: and this R&D function. how do they know what to scour for
+
+256
+00:34:36.199 --> 00:34:49.620
+Danny Park: or scan, for in the environment meaning which lagging, which lagging, lead, meeting indicators to look for if the strategy is not comprehensive, purpose, comprehensive and purposeful, if it's, you know, like very loosely defined
+
+257
+00:34:49.639 --> 00:35:02.920
+Danny Park: and not connected right, they will not know what to look for. So even that function is just going to be spinning in circles, and is wasting money, thinking and saying, Hey, I think this is going to affect the strategy. No, that no, this no, that.
+
+258
+00:35:02.990 --> 00:35:08.320
+Danny Park: So to answer Taylor. Your question strategies will shift. but
+
+259
+00:35:08.540 --> 00:35:16.970
+Danny Park: the the size of it it needing to have to shift depends on how well the strategy was developed in the first place, and based on what data
+
+260
+00:35:17.450 --> 00:35:19.860
+Danny Park: right? And the more
+
+261
+00:35:20.810 --> 00:35:26.959
+Danny Park: the the the the more poor the quality the strategy is, the more
+
+262
+00:35:27.600 --> 00:35:30.820
+Danny Park: my monumentalist shift is going to be right.
+
+263
+00:35:31.130 --> 00:35:39.050
+Danny Park: So that's like that. That's how it out. Answer your question. Does does that help Taylor? Yes, that's only helps much more sense. Thank you. You're welcome.
+
+264
+00:35:39.340 --> 00:35:42.749
+Danny Park: So so. And and that business intelligence
+
+265
+00:35:43.030 --> 00:35:51.030
+Danny Park: function is actually an analytical function, right? But the point is. strategy defines purpose for everybody
+
+266
+00:35:52.730 --> 00:35:56.950
+Danny Park: in the organization. And if we don't understand why we exist
+
+267
+00:35:57.450 --> 00:36:03.099
+Danny Park: right. we're really, really, really wasting time and money like, that's the only way we can actually think about it.
+
+268
+00:36:04.310 --> 00:36:10.379
+Danny Park: Right? So great question. so kind of moving on doing a little time check is almost 6 30.
+
+269
+00:36:10.700 --> 00:36:16.900
+Danny Park: So kind of going back to, you know, I wanted to go back to this slide and talk about strat strategy. Right?
+
+270
+00:36:17.570 --> 00:36:18.520
+Danny Park: So
+
+271
+00:36:22.360 --> 00:36:30.200
+Danny Park: the strategy, if you want to think about it in one picture. It's aligning these things together. Right on the left-hand side
+
+272
+00:36:30.280 --> 00:36:32.770
+Danny Park: is the strategic portfolio.
+
+273
+00:36:33.880 --> 00:36:37.060
+Danny Park: right and the right hand side of the operations.
+
+274
+00:36:38.180 --> 00:36:44.079
+Danny Park: and very comprehensive and purposeful, purposeful strategies
+
+275
+00:36:44.640 --> 00:36:47.339
+Danny Park: are going to inform operations
+
+276
+00:36:47.380 --> 00:36:51.440
+Danny Park: on where to go and what to measure.
+
+277
+00:36:52.090 --> 00:37:03.820
+Danny Park: and as they're performing and doing the right activities when they see errors or opportunities. Those errors or opportunities are the the actually the ones that are going to add the most value
+
+278
+00:37:04.570 --> 00:37:12.959
+Danny Park: because they have purpose right? There's purpose behind them now. So then, since you have purpose behind them, the special projects that you create
+
+279
+00:37:13.960 --> 00:37:21.259
+Danny Park: are going to really add value and provide you a deliverable that you could really gain a competitive advantage on. So.
+
+280
+00:37:21.390 --> 00:37:31.009
+Danny Park: for example, using example, to explain this, how many projects have you guys been on those in this room where, at the end of the project, whatever is delivered was never used.
+
+281
+00:37:34.510 --> 00:37:36.630
+Danny Park: Anyone. Have anyone listen to that?
+
+282
+00:37:36.680 --> 00:37:40.289
+Danny Park: They went through like 3 to 4 or 5 month project.
+
+283
+00:37:40.560 --> 00:37:53.200
+Danny Park: working, working, working, confused entire time, had no idea what everyone else was doing, chugging through, trying to meet deadlines. Things were delayed coming back, and at the end you deliver something, and you deliver, and all of a sudden you never hear about it again.
+
+284
+00:37:53.850 --> 00:37:55.290
+Danny Park: Ariana.
+
+285
+00:37:56.980 --> 00:38:11.359
+Erania (EJ) Johnson: or or Rainy? Sorry. Yeah, I was just raising my hand so that I do that, my team and I. We're working on our organization, and I would write up a whole blueprint slides everything, and then we never go through with it.
+
+286
+00:38:11.670 --> 00:38:21.419
+Danny Park: Yeah. Yeah. And and that would that would be infuriating. Cause you. Yeah, you go through all that effort. You're putting all the intellect all the time behind it, and then and then the company's saying.
+
+287
+00:38:22.380 --> 00:38:34.529
+Danny Park: Nope, I don't know what the company like. They they come like a company is confused. Leadership's confused because they don't know what they want. That's a great example. Yeah. Yeah.
+
+288
+00:38:34.540 --> 00:38:41.520
+Danny Park: Great. Thank you for sharing. Ej, I'll call you. Ej, okay? So then, okay, great. Thank you. Okay. And then Libby, go ahead.
+
+289
+00:38:42.590 --> 00:39:10.249
+libby: Oh, yeah. So I work in healthcare. as a nurse and a lot of the time we come together to do things to make change. And it's it's it's annoying, especially because they want us to come together and do project. But then you find out that there's a conflict between leadership and the Union under which the nurses work on.
+
+290
+00:39:10.350 --> 00:39:17.089
+Danny Park: Hmm good example. So there was no strategic alignment within the third parties within the ecosystem.
+
+291
+00:39:17.290 --> 00:39:20.960
+Danny Park: So there's no true partnership, and let me bring up a good point.
+
+292
+00:39:21.140 --> 00:39:32.220
+Danny Park: Business partnerships the road, because each side we're confused as to what the actual strategy is right. If there is no one comprehensive and you know and thoughtful directive strategy.
+
+293
+00:39:32.320 --> 00:39:35.790
+Danny Park: How can different companies come together and work together?
+
+294
+00:39:35.930 --> 00:39:41.169
+Danny Park: Right? And that's a really great example, especially around third party contractors.
+
+295
+00:39:41.700 --> 00:39:51.360
+Danny Park: And that's why, if anyone who's got really good experience managing contractors is a huge, huge opportunity for many industries for those who actually have that skill set Aidan. Go ahead.
+
+296
+00:39:52.790 --> 00:40:00.069
+Aidan(Hun Seok) Choi:  I was working as a internal auditor a few years ago. I was in
+
+297
+00:40:00.390 --> 00:40:06.519
+Aidan(Hun Seok) Choi: project to build a automation system in excel by using Vpas
+
+298
+00:40:06.790 --> 00:40:15.209
+Aidan(Hun Seok) Choi: the project has to stop because the complexity of the code that we are using was unable to understand
+
+299
+00:40:15.560 --> 00:40:20.509
+Aidan(Hun Seok) Choi: the executives and our eyes. So we gotta stop the project.
+
+300
+00:40:20.700 --> 00:40:22.900
+Danny Park: Hmm, good one. So
+
+301
+00:40:23.510 --> 00:40:29.599
+Danny Park: because the technical experts who are supposed to be vetting the code for usefulness and feasibility.
+
+302
+00:40:29.790 --> 00:40:33.509
+Danny Park: we're not understanding the direction of
+
+303
+00:40:33.940 --> 00:40:40.770
+Danny Park: the strategy behind. Why, they're developing it just didn't care enough to ask to the due diligence which ended up you doing a lot of work
+
+304
+00:40:41.520 --> 00:40:50.040
+Danny Park: and getting to a point where it wasn't feasible because they weren't ready for it. The classic product development example that you just gave Eden awesome
+
+305
+00:40:51.880 --> 00:40:54.060
+Danny Park: and then Kudrat.
+
+306
+00:40:54.290 --> 00:41:11.320
+Qudrat_ullah Yousufi: Yep. Professor, I have a question about the map, the portfolio. I have noticed that there's some become project while there are something that first they became program, then become project. Oh, sorry, no, no! So great question. So what? The so up? So this is. This isn't saying
+
+307
+00:41:11.430 --> 00:41:25.110
+Danny Park: sorry I should explain this. So this figure on the left. It's not saying portfolio turns into something. What this is saying is. So the portfolio, a company's portfolio is made up of projects and programs.
+
+308
+00:41:25.840 --> 00:41:38.219
+Danny Park: So that's all this is saying so when you look at when you look at like when you look at the strategic portfolio. You're gonna have a collection of programs and projects that have to work together to achieve the strategic vision.
+
+309
+00:41:38.670 --> 00:42:03.529
+Danny Park: So like, for me, it's a confusion like the difference between the program and the project. Yeah, yeah, yeah, so I should. Yeah, my apolog. And then the program, the definition of a program is more than one related is more than one related project where all the projects have to work together, that each of the deliverables from that project has to be aggregated to result in program success.
+
+310
+00:42:03.920 --> 00:42:11.159
+Danny Park: So so it's not one leading to the other. It's just bucketing, showing the definition of each thing.
+
+311
+00:42:11.280 --> 00:42:12.140
+Danny Park: But
+
+312
+00:42:12.400 --> 00:42:25.659
+Danny Park: I just want to make a point about that. Right? So let's say you have a strategic portfolio, right? And we define that a portfolio is a collection of projects and programs that have to be related and work together
+
+313
+00:42:26.360 --> 00:42:29.400
+Danny Park: together to achieve their strategic vision.
+
+314
+00:42:29.410 --> 00:42:39.360
+Danny Park: So if we don't have a clear strategic vision. it runs a risk of having projects and programs that have no relation to one another.
+
+315
+00:42:40.740 --> 00:42:41.840
+Danny Park: which then
+
+316
+00:42:42.080 --> 00:42:49.420
+Danny Park: just has to our point. Before you do a project, you have a deliverable, and no one cares about it.
+
+317
+00:42:50.930 --> 00:42:54.229
+Danny Park: Right? So these, all these things right.
+
+318
+00:42:54.520 --> 00:42:55.450
+Danny Park: these.
+
+319
+00:42:56.060 --> 00:43:02.639
+Danny Park: what we discussed so far that Boston class have gone through these are older red flags.
+
+320
+00:43:02.880 --> 00:43:15.180
+Danny Park: That gives us an idea that the organization can get some improvement on this strategy. So a good way for us to make a good name for ourselves, right? Brand ourselves as a next leadership. Right is to just call it out
+
+321
+00:43:15.980 --> 00:43:17.539
+Danny Park: is just to be aware
+
+322
+00:43:18.600 --> 00:43:23.670
+Danny Park: that you see these red flags, and you ask the right questions. Essling, go ahead.
+
+323
+00:43:25.680 --> 00:43:29.990
+Danny Park: S. Line. Sorry if I push you that name.
+
+324
+00:43:30.140 --> 00:43:37.180
+Esaline Jarvis: Yes, so I just wanted to share about some experience. I also have myself and
+
+325
+00:43:37.190 --> 00:43:41.739
+Esaline Jarvis: 3 other colleagues or tabs who create innovation lab.
+
+326
+00:43:41.890 --> 00:43:52.840
+Esaline Jarvis: where we had other employees of our department participant to come up with equal ideas on how to do different processes, and and so on.
+
+327
+00:43:53.170 --> 00:43:58.599
+Esaline Jarvis: And it I mean, it took months for us to plan this, and to bring it off.
+
+328
+00:43:58.670 --> 00:44:00.000
+Esaline Jarvis: And then
+
+329
+00:44:00.600 --> 00:44:08.630
+Esaline Jarvis: it happened. Some great ideas came out of it, and the Vp. Was ready to implement these new ideas.
+
+330
+00:44:08.720 --> 00:44:11.890
+Esaline Jarvis: and then, unfortunately, covet happened.
+
+331
+00:44:12.600 --> 00:44:17.600
+Esaline Jarvis: And so that derailed everything.
+
+332
+00:44:17.870 --> 00:44:20.300
+Esaline Jarvis: Some of the ideas were never
+
+333
+00:44:20.820 --> 00:44:24.420
+Esaline Jarvis: you know. activated or put in place.
+
+334
+00:44:25.560 --> 00:44:27.330
+Danny Park: Wow! No great example.
+
+335
+00:44:27.820 --> 00:44:31.530
+Danny Park: I mean. It's another example of that misalignment. Right? It's
+
+336
+00:44:34.240 --> 00:44:45.899
+Danny Park: and I and I and I and and I ask for a class, the class members to speak up and share their experiences. Because I just want to show everyone how prevalent this is. So to an Mba
+
+337
+00:44:46.260 --> 00:44:48.339
+Danny Park: problems or opportunities.
+
+338
+00:44:48.710 --> 00:44:57.760
+Danny Park: Right? So keep keep that in mind. So every the problems that you feel at work, the opportunities for you to to, for you to help, solve
+
+339
+00:44:57.790 --> 00:45:01.580
+Danny Park: and don't shy away from it, cause no one else is doing it, as you can see.
+
+340
+00:45:02.140 --> 00:45:08.150
+Danny Park: so great great examples. Everyone I love the participation. It's it's really eye opening.
+
+341
+00:45:08.210 --> 00:45:14.099
+Danny Park: so kind of moving off for the sake of time. Because I don't. I think our first session I went like 15 min past.
+
+342
+00:45:14.990 --> 00:45:15.920
+Danny Park: So
+
+343
+00:45:18.030 --> 00:45:23.439
+Danny Park: we are now. We are now understanding why, strategy is very important. Okay? So then.
+
+344
+00:45:24.200 --> 00:45:35.379
+Danny Park: once we get a good comprehensive strategy, and then we have the resources and capabilities, and we have everything, all those lined up. We can't forget about the data.
+
+345
+00:45:36.120 --> 00:45:44.669
+Danny Park: right? And this is kind of piggybacking off of our data quality pre-recorded lecture. But I kind of revisit it from a different lens.
+
+346
+00:45:44.890 --> 00:45:47.679
+Danny Park: because, especially in this day and age.
+
+347
+00:45:48.110 --> 00:45:53.589
+Danny Park: if we don't have or we don't have, a understanding of how.
+
+348
+00:45:53.850 --> 00:45:54.690
+Danny Park: how.
+
+349
+00:45:56.480 --> 00:46:04.640
+Danny Park: how useful our organizational data is we really can't create a strategy.
+
+350
+00:46:05.090 --> 00:46:14.330
+Danny Park: Because data is like data is now gold, right? It's a new oil, right? So what we're going to go through is what we call the essential elements of data.
+
+351
+00:46:15.120 --> 00:46:19.500
+Danny Park: right or the 5 essential elements for succeeding with data.
+
+352
+00:46:20.040 --> 00:46:29.670
+Danny Park: So we see we have data quality as as the one. Right, we'll go through that really quickly, because we already went through it in a pre-recorded lecture. But there are 4 other elements
+
+353
+00:46:30.220 --> 00:46:37.229
+Danny Park: of of succeeding with data that organizations or most organizations are not really thinking about
+
+354
+00:46:38.590 --> 00:46:42.800
+Danny Park: right. And what this left hand chart is showing you is.
+
+355
+00:46:43.810 --> 00:46:51.010
+Danny Park: if you're if you're not considering one of these elements. it's gonna cause that
+
+356
+00:46:51.160 --> 00:46:58.950
+Danny Park: inefficiency on the right. So when one element is missing right here, when one element is missing. So the first I was saying is.
+
+357
+00:46:59.020 --> 00:47:01.469
+if you don't have good data quality.
+
+358
+00:47:02.340 --> 00:47:19.929
+Danny Park: but you have the means to monetize, we'll go over that shortly. What that means. And if you have the organizational capability to use data right? And you have the technologies to process the data, and you would have the policies and pace to defend or secure your data right?
+
+359
+00:47:20.640 --> 00:47:21.610
+Danny Park: Having
+
+360
+00:47:22.470 --> 00:47:30.780
+Danny Park: misalignment or a a a or poor data quality. It's gonna it's gonna result in high costs and difficulty
+
+361
+00:47:31.290 --> 00:47:38.329
+Danny Park: right? And you can read the rest right? So the second row saying that if you have everything except for means to monetize, then you have little business benefit
+
+362
+00:47:39.360 --> 00:47:48.659
+Danny Park: because data is gold. Everything that we have that every data point that we're generating in our organization is knowledge for us to use to run in our analytics.
+
+363
+00:47:49.370 --> 00:47:50.110
+Danny Park: right?
+
+364
+00:47:50.320 --> 00:48:01.580
+Danny Park: That that the the fact that we might be missing so organizational capability using data if we're missing the capability to use the data that we're generating.
+
+365
+00:48:01.860 --> 00:48:07.129
+Danny Park: Right? We're we're not gonna be able to scale. We're just gonna we're just gonna have bunch of silos
+
+366
+00:48:07.930 --> 00:48:17.549
+Danny Park: right? And if we don't have the technologies to process data, we actually result in the same type of problem. But just this was just more, more more prevalent
+
+367
+00:48:19.050 --> 00:48:26.889
+Danny Park: right? And then, if we can't secure our data meaning. We'll have methodologies and practices and procedures in place to secure our data.
+
+368
+00:48:27.140 --> 00:48:35.689
+Danny Park: Is it cost us time, money, and trouble? So we all know what happens. We get hacked right. Brand diminishes exponentially
+
+369
+00:48:37.250 --> 00:48:38.620
+Danny Park: and
+
+370
+00:48:39.030 --> 00:48:40.310
+Danny Park: to erect
+
+371
+00:48:40.780 --> 00:48:43.039
+Danny Park: right, or establish
+
+372
+00:48:43.990 --> 00:49:01.470
+Danny Park: these mechanisms to ensure that we have the 5 essential essential elements of succeeding with data. It requires a, a, a thoughtful data strategy that you see on the right hand side. So we'll we have a whole section, A, a session, dedicated data strategy. So I'll go over it here. But
+
+373
+00:49:01.670 --> 00:49:06.609
+Danny Park: similar to our definition of strategy in general.
+
+374
+00:49:08.650 --> 00:49:11.080
+Danny Park: these same definitions.
+
+375
+00:49:11.270 --> 00:49:22.590
+Danny Park: we're understandings of what good strategy is has to carry over to our data strategy. Just because it's data strategies. I mean that our definition of what good strategies is is suspended.
+
+376
+00:49:23.870 --> 00:49:26.539
+Danny Park: Okay, it still needs to be comprehensive.
+
+377
+00:49:26.660 --> 00:49:32.329
+Danny Park: robust. specific. measurable. All those things we talked about
+
+378
+00:49:32.730 --> 00:49:40.480
+Danny Park: right? And sometimes that's what ends up happening. Right? So I'll kind of go in a little tangent here. And we talk about these, these these strategies right?
+
+379
+00:49:42.110 --> 00:49:53.809
+Danny Park: Depending on the the wisdom of the executive or leadership running a particular strategy. Some might not be so good, and they might have a technology strategy as that's not really specific
+
+380
+00:49:54.910 --> 00:49:56.120
+Danny Park: and aligned
+
+381
+00:49:56.340 --> 00:50:07.089
+Danny Park: right? Whereas the business strategy might be so. That's another cause. That might be another cause of the misalignment that we talked about. So we have to understand that, you know there could be several ways or reasons why a strategy goes off rails.
+
+382
+00:50:07.410 --> 00:50:09.980
+Danny Park: Okay. so next slide here.
+
+383
+00:50:10.190 --> 00:50:27.240
+Danny Park: just quality data. I know we did the 6 V's in our pre-recorded session. This is a decomposed list of the essential, qual essential quality elements of data. Right? You'll see some that you recognize. But there's some that are a little bit expanded upon
+
+384
+00:50:27.540 --> 00:50:41.420
+Danny Park: right things like interoperability, metadata. contextual data validity. So when you guys have time definitely read over it, I'm not gonna go through each everyone for exam purposes. All we have to understand is that
+
+385
+00:50:42.500 --> 00:50:47.770
+Danny Park: we as business leaders. we have to challenge
+
+386
+00:50:48.520 --> 00:51:02.419
+Danny Park: the quality of the data we have in the firm we have to always be. We have to work with our data experts to find ways to test our data, to ensure that every element of data quality exists within our data sets
+
+387
+00:51:05.950 --> 00:51:10.020
+Danny Park: alright. And as examples, anyone wants to use it
+
+388
+00:51:10.180 --> 00:51:16.860
+Danny Park: at work for sure feel free to use slide 14 slide 14. So
+
+389
+00:51:17.170 --> 00:51:26.450
+Danny Park: when I talked about testing the quality of your data, right? So slide 14 is something that I've used in my career to challenge
+
+390
+00:51:28.740 --> 00:51:32.619
+Danny Park: my data experts when they tell me that our quality is good.
+
+391
+00:51:33.050 --> 00:51:33.910
+Danny Park: So
+
+392
+00:51:34.070 --> 00:51:37.200
+Danny Park: you know a a business way to actually
+
+393
+00:51:37.220 --> 00:51:54.239
+Danny Park: test it or challenge that notion is to run a diagnostic right? So what you see on the left hand side is my it's a high level. I didn't put my full project plan because that would just be slides upon slides. But I just put the high level project plan on the left hand side. So basically, the steps
+
+394
+00:51:54.490 --> 00:52:03.939
+Danny Park: in milestone format right? So you do these. This would be the milestones of your diagnostic data diagnostic program. Program
+
+395
+00:52:04.510 --> 00:52:10.710
+Danny Park: on the left hand side, the steps that you take right first milestone one. You want to define the data strategy and the objectives. Right?
+
+396
+00:52:10.860 --> 00:52:12.600
+Danny Park: Even though you're testing
+
+397
+00:52:13.790 --> 00:52:14.630
+Danny Park: right?
+
+398
+00:52:14.940 --> 00:52:23.969
+Danny Park: You still have to clarify the data strategy. Right? You have to kind of go back and say, Hey, let's do a goal. Revisit our data strategy. Was it actually good?
+
+399
+00:52:24.900 --> 00:52:26.440
+Danny Park: In the first place.
+
+400
+00:52:26.560 --> 00:52:39.570
+Danny Park: right? Cause they'll tell you. If you get a data strategy where it's like yo, it's not comprehensive. It's not purposeful. It's like I had no idea what's going on. Then you would know your th, the claim that you have quality data.
+
+401
+00:52:40.910 --> 00:52:43.009
+Danny Park: How can you have quality data.
+
+402
+00:52:44.560 --> 00:52:47.549
+Danny Park: right? Timeliness? For example.
+
+403
+00:52:48.140 --> 00:52:51.140
+Danny Park: if you don't have specifics? How do you know when you need the data?
+
+404
+00:52:52.150 --> 00:52:56.349
+Danny Park: So if you don't know when you need the data, how can you claim that you have timeliness in your data sets.
+
+405
+00:52:57.250 --> 00:53:11.860
+Danny Park: You can't right? So that's that's just one example. So that's where you start, is you? You you. You revisit data strategy. You test it to see if it meets the litmus test for it being a good comprehensive strategy. Right? Then you go into stakeholder engagement
+
+406
+00:53:12.950 --> 00:53:23.080
+Danny Park: right? You want to talk and interview every person who's involved the responsible data quality and see if they understand the data strategy. It's a Jeff objectives.
+
+407
+00:53:23.510 --> 00:53:28.219
+Danny Park: because if they don't understand or we're not told what the data strategy objectives are.
+
+408
+00:53:28.670 --> 00:53:31.909
+Danny Park: Most likely the activities that they're carrying out.
+
+409
+00:53:32.270 --> 00:53:34.400
+Danny Park: We're wasteful. And
+
+410
+00:53:34.440 --> 00:53:41.419
+Danny Park: we can't conclude that the data that they were in charge of is of good quality or aligned to the business of the data strategy.
+
+411
+00:53:43.390 --> 00:53:56.679
+Danny Park: Right? Then, you want to do a data inventory right? In other words, just collect and create a data dictionary and see if the data dictionary makes sense. Right? You built out a data dictionary and see if all the elements are there
+
+412
+00:53:57.690 --> 00:54:00.470
+Danny Park: especially metadata and contextual data?
+
+413
+00:54:06.220 --> 00:54:06.970
+Danny Park: Right?
+
+414
+00:54:08.200 --> 00:54:22.609
+Danny Park: Then, you go right into defining your data quality metrics and goals that like, basically, what does success look like? So when what are we going to use to say? Yes, all these data points and our our our data, our data is of good quality.
+
+415
+00:54:23.070 --> 00:54:28.059
+Danny Park: Then you go right into your data quality assessments. So milestone 5. So this is a project plan on the left.
+
+416
+00:54:29.280 --> 00:54:36.589
+Danny Park: during the milestone events. The right-hand side are some of the business analytical questions that we want to ask.
+
+417
+00:54:37.970 --> 00:54:40.199
+Danny Park: Oh, Audi, I already caught a little typo here
+
+418
+00:54:40.390 --> 00:54:41.710
+that should be
+
+419
+00:54:50.920 --> 00:54:57.900
+Danny Park: awesome, too. Alright! So these are the questions that you could ask, or you should ask, as you're going through each of these milestones
+
+420
+00:54:58.070 --> 00:55:12.750
+Danny Park: on here. So the diagnostic questions I only gave a a sample of it. There's there's a lot more, but I'm giving. I provided the most like I in my mind why, I would view as the most important questions that I definitely need to ask my stakeholders.
+
+421
+00:55:16.210 --> 00:55:18.380
+Danny Park: Right? Slide 14.
+
+422
+00:55:18.780 --> 00:55:23.410
+Danny Park: This this approach, and enable the success
+
+423
+00:55:23.650 --> 00:55:28.230
+Danny Park: of the automation set of excellence that that I helped stand up.
+
+424
+00:55:29.260 --> 00:55:31.470
+Danny Park: And in my current organization
+
+425
+00:55:31.990 --> 00:55:39.860
+Danny Park: cause to do automation and machine learning and analytics, you have to have quality data.
+
+426
+00:55:41.260 --> 00:55:50.889
+Danny Park: right? And this is a really good slide. Again. You guys are more than happy to use it and take it as your own. Modify it to your current business problem of projects, and just share it with
+
+427
+00:55:51.320 --> 00:56:01.299
+Danny Park: whoever you report to your boss, your manager, whoever. and I would think I would just assume that most of them are not thinking this way
+
+428
+00:56:05.050 --> 00:56:19.310
+Danny Park: because they're not in a world class. Mba. Program. Alright, alright. Kind of going on more more. It's so. It actually, there's a couple of slides indicate I won't go to each one right? So the full. The full diagnostic plan
+
+429
+00:56:19.400 --> 00:56:22.190
+Danny Park: is slides 1415, and 16.
+
+430
+00:56:24.660 --> 00:56:28.410
+Danny Park: So I'll stop here for a second any questions or any comments
+
+431
+00:56:28.710 --> 00:56:30.680
+Danny Park: any stories people want to share.
+
+432
+00:56:38.490 --> 00:56:41.400
+Danny Park: Alright. If not, I'll move, keep going
+
+433
+00:56:43.160 --> 00:56:50.579
+Danny Park: alright. So means to monus monetize right? One of the essential elements of working with data. We're at a point in our
+
+434
+00:56:52.020 --> 00:56:59.460
+Danny Park:  revolution, right? Industry 4.0
+
+435
+00:57:00.430 --> 00:57:04.110
+Danny Park: where for many companies
+
+436
+00:57:05.390 --> 00:57:06.410
+Danny Park: to
+
+437
+00:57:06.970 --> 00:57:13.789
+Danny Park: continue to establish a competitive advantage. We have to find ways to monetize our data.
+
+438
+00:57:15.160 --> 00:57:15.980
+Danny Park: okay.
+
+439
+00:57:16.130 --> 00:57:16.920
+and
+
+440
+00:57:18.520 --> 00:57:24.299
+Danny Park: to monetize our data. We need a couple of elements to it.
+
+441
+00:57:24.330 --> 00:57:29.709
+Danny Park: Right. And what I'm listing here are the elements that we should see within the organization.
+
+442
+00:57:29.910 --> 00:57:37.339
+Danny Park: You could call in capabilities, too. It could be it to change. But we should see most of these within the organization
+
+443
+00:57:37.940 --> 00:57:41.040
+Danny Park: that signals that they're ready to monetize their data
+
+444
+00:57:41.490 --> 00:57:49.960
+Danny Park: if we're missing these like, say, you guys who are working in on your organizations. And if you ask around the data, the data groups and you go, hey.
+
+445
+00:57:50.030 --> 00:58:00.329
+Danny Park: do you have a data monetization data, monetization model, and they look at you like, what the hell is that, then? Most likely your company or organization is not ready to monetize any of its data.
+
+446
+00:58:00.340 --> 00:58:05.879
+Danny Park: So these are good flags for us as executives to use
+
+447
+00:58:06.170 --> 00:58:16.740
+Danny Park: or use them to ask questions, to see, hey? Are we ready yet to? To to make money off our data? If not, where is the gap? So what are we missing? And then what do we need
+
+448
+00:58:17.710 --> 00:58:19.720
+Danny Park: to fill that gap
+
+449
+00:58:20.430 --> 00:58:25.300
+Danny Park: right? And there's some really big ones. Right? For example, one data strategy.
+
+450
+00:58:27.500 --> 00:58:44.339
+Danny Park: So I. So in my career thus far again, it's just one career. I would ask everyone in this room to ask others. that you that you know, who have, you know, consulting or data, or or technology, or whatever careers, right in my career.
+
+451
+00:58:44.750 --> 00:58:48.780
+Danny Park: I have seen organizations.
+
+452
+00:58:51.180 --> 00:58:55.569
+Danny Park: I'm trying to say it in a like a political way. Okay? More often than not.
+
+453
+00:58:56.240 --> 00:58:59.139
+Danny Park: I did not see a data strategy.
+
+454
+00:58:59.780 --> 00:59:02.250
+Danny Park: I saw a technology strategy.
+
+455
+00:59:02.770 --> 00:59:09.420
+Danny Park: But I did not see a specific data one. right? And that's that's surprising.
+
+456
+00:59:09.650 --> 00:59:30.259
+Danny Park: Right? I it did surprise me. Right. So if if that is, if that is the truth, or if that's similar in your organization. And again. problems for and Mbas are opportunities, there's a great opportunity to go ahead and start helping out or questioning like, Hey, can I help? Can I help you with building out a data strategy?
+
+457
+00:59:32.730 --> 00:59:34.909
+Danny Park: Okay, another one.
+
+458
+00:59:35.210 --> 00:59:38.839
+Danny Park: I don't see often our monetization models
+
+459
+00:59:41.860 --> 00:59:48.119
+Danny Park: right? Meaning like, Wa, like, how you? How are you going to market to sell it? Right? Are you gonna sell it just raw.
+
+460
+00:59:48.150 --> 00:59:56.090
+Danny Park: Right? It just comes out of your system and you sell it right? Or are you gonna offer data insights?
+
+461
+00:59:56.420 --> 01:00:02.029
+Danny Park: So you have data or a tool that has world class data insights. And you're going to sell that
+
+462
+01:00:02.130 --> 01:00:03.679
+Danny Park: that capability
+
+463
+01:00:04.480 --> 01:00:13.209
+Danny Park: right? Or you're going to create data products. So let's say you, you figured, your company has a really great way of capturing data. So data acquisition.
+
+464
+01:00:13.540 --> 01:00:21.849
+Danny Park: right? So you want to create a product around and sell and license that product. Great idea. right? And even licensing data.
+
+465
+01:00:22.190 --> 01:00:38.320
+Danny Park: Right? Like, for example, you know, those like like Bloomberg. right where they, you know, they aggregate market data, and they provide analytics around it. So what Bloomberg does is they sell their analytic capability. But they're buying their data
+
+466
+01:00:38.740 --> 01:00:52.639
+Danny Park: where they're licensing the data that they get from other source companies. So there's companies that generating financial data. And they say, and Bloomberg, Bloomberg says, Hey, I need to buy your data cause if I don't buy your data.
+
+467
+01:00:53.020 --> 01:01:05.189
+Danny Park: I can't sell the analytics because I don't have data. So let me buy your data. And the company says, Okay, I'll sell you my data. What form do you want it raw, or do you want it pre-processed? How do you want it? And
+
+468
+01:01:05.280 --> 01:01:07.890
+Danny Park: how you gonna pay me? You gonna license it.
+
+469
+01:01:08.090 --> 01:01:26.939
+Danny Park: or you're just gonna just buy bulk. And whatever what's the agreement there? And then? Then the company sells data to Bloomberg. Bloomberg takes the data that they purchased. They go and run the analytics, and they create their industry reports. And they sell that report out to market. And that's how they generate the revenue, so their cost of sales will be the data, purchase.
+
+470
+01:01:27.180 --> 01:01:40.120
+Danny Park: the cost of the data purchase and their revenue. The product is the analytical report right? So if we think about this, now, think about like, we could just start imagining. Wow, like how often data is sold
+
+471
+01:01:40.130 --> 01:01:43.029
+Danny Park: and and repackaged in a different way.
+
+472
+01:01:46.640 --> 01:01:47.490
+Danny Park: right?
+
+473
+01:01:47.620 --> 01:01:55.499
+Danny Park: And if you think about it, there may many companies. Can they have options? So they did their data. They just haven't really thought about doing it.
+
+474
+01:01:55.880 --> 01:01:56.970
+Danny Park: Okay.
+
+475
+01:01:58.320 --> 01:02:02.790
+Danny Park:  last thing I'll kind of pick on here a little bit.
+
+476
+01:02:02.990 --> 01:02:05.660
+Danny Park: right? Is a data pricing strategy.
+
+477
+01:02:07.370 --> 01:02:10.859
+Danny Park: right? And the reason why I pick on it a little bit is because.
+
+478
+01:02:13.620 --> 01:02:16.819
+Danny Park: like the better quality you have.
+
+479
+01:02:17.710 --> 01:02:19.659
+Danny Park: the more you can charge.
+
+480
+01:02:20.740 --> 01:02:28.099
+Danny Park: Right? So this one has a very intimate link to the quality of the data that you have in your organization.
+
+481
+01:02:28.880 --> 01:02:32.189
+Danny Park: So that's why I wanted to kind of call out the pricing strategy there.
+
+482
+01:02:33.480 --> 01:02:34.200
+Danny Park: Okay.
+
+483
+01:02:34.510 --> 01:02:44.440
+Danny Park: alright. Any questions so far on on the essential elements of my, the elements needed to monetize data.
+
+484
+01:02:51.270 --> 01:02:53.160
+Danny Park: Alright next one.
+
+485
+01:02:53.410 --> 01:02:54.300
+Danny Park: So
+
+486
+01:02:54.480 --> 01:02:57.959
+Danny Park: there are 3 general approaches
+
+487
+01:02:58.060 --> 01:03:00.039
+Danny Park: to monetizing data.
+
+488
+01:03:01.130 --> 01:03:03.680
+Danny Park: Okay? So the first one is.
+
+489
+01:03:04.980 --> 01:03:09.699
+Danny Park: you're improving. Right? So monetize. So I kind of wanna take a step back
+
+490
+01:03:10.270 --> 01:03:13.060
+Danny Park: the definition of monetizing data. Yes.
+
+491
+01:03:13.450 --> 01:03:20.469
+Danny Park: you sell data. But also, if you use your own data to save money.
+
+492
+01:03:20.760 --> 01:03:33.299
+Danny Park: we also consider that monetizing your data. Okay, so let's let's open up the definition monetizing data to mean you could sell it, or you could use it to make your own internal profits
+
+493
+01:03:33.380 --> 01:03:46.710
+Danny Park: by creating some operational efficiency, so that that using data to improve or create some efficiency. Right is called improving data, approve the approach of approving.
+
+494
+01:03:46.900 --> 01:03:48.160
+Danny Park: improving.
+
+495
+01:03:48.250 --> 01:03:56.229
+Danny Park: and that is, use data to create efficiencies in order in in order to work cheaper or fast or or faster operations.
+
+496
+01:03:56.510 --> 01:04:05.960
+Danny Park: Okay. and the value creation process for improving is data creates efficiencies by making operational processes attached, better, faster, and cheaper
+
+497
+01:04:06.790 --> 01:04:13.199
+Danny Park: right, and you realize that value by eliminating or redirecting slack, which is waste
+
+498
+01:04:13.450 --> 01:04:24.539
+Danny Park: work. I sorry, which is capacity. So you have more capacity, do more work, more productivity. And here are some examples of companies that have used improving approach to monetize their data.
+
+499
+01:04:24.660 --> 01:04:29.939
+Danny Park: Right ups is one of them where they use their route data to optimize delivery routes.
+
+500
+01:04:30.860 --> 01:04:35.590
+Danny Park: I think this is a rumor. I don't know if it's true. I heard that up has only made left turns in the city.
+
+501
+01:04:35.610 --> 01:04:46.509
+Danny Park: but they found that the way the the New York City blocks are, or organized that they can get to the same spot quicker if they just kept making left turns due to the traffic in the city.
+
+502
+01:04:46.590 --> 01:04:56.099
+Danny Park: I don't know if that's true, but it would be great if if someone can work, if someone can look it out for me. But ups stay 400 million annually.
+
+503
+01:04:56.750 --> 01:05:00.470
+Danny Park: Columbia sportswear. use package tracking data
+
+504
+01:05:00.560 --> 01:05:05.449
+Danny Park: to eliminate root cause issues in the supply chain, saving them 27 million dollars
+
+505
+01:05:05.750 --> 01:05:14.050
+Danny Park: and then a healthcare company use it. Data from smart hospital beds to speed up nurse response. Po, response lines at 57. So they're saving a lot
+
+506
+01:05:14.810 --> 01:05:17.500
+Danny Park: which is immeasurable. That's why you don't see a number
+
+507
+01:05:17.700 --> 01:05:20.380
+Danny Park: attached to that. That 57% metric.
+
+508
+01:05:22.980 --> 01:05:33.409
+Danny Park: Another approach is wrapping. Wrapping is when you create data, fueled product features and experiences to increase customer value so that customers want to buy more payment
+
+509
+01:05:34.030 --> 01:05:37.740
+Danny Park: right? In other words, you're you have a product
+
+510
+01:05:38.020 --> 01:05:44.529
+Danny Park: that's in market. and you're infusing it with some kind of data capability that is so useful
+
+511
+01:05:44.900 --> 01:05:53.579
+Danny Park: that the client or customer is going to want to buy more of your product or actually pay more for it, so you could increase the price on them
+
+512
+01:05:54.960 --> 01:05:57.930
+Danny Park: right as examples of wrapping
+
+513
+01:05:58.330 --> 01:06:08.420
+Danny Park: your data into a product to increase the product value by Schindler. Is it elevated company? Right? They. They provide
+
+514
+01:06:08.910 --> 01:06:13.200
+Danny Park: performance dashboards for the building main, the elevated maintenance people
+
+515
+01:06:14.110 --> 01:06:16.319
+Danny Park: to monitor elevated performance
+
+516
+01:06:17.150 --> 01:06:29.250
+Danny Park: right in a very busy building. Well, pre covid right pre covid the logistics around the engineering around elevators and how efficient they are was a really big time and money saving
+
+517
+01:06:29.560 --> 01:06:33.920
+Danny Park: endeavor right? Not much so now, because
+
+518
+01:06:34.230 --> 01:06:37.150
+Danny Park: I don't think anyone goes to office all right.
+
+519
+01:06:37.350 --> 01:06:49.300
+Danny Park: Another example. World bank, World Bank provides contributing governments with portals to monitor how their donations are achieving their desired philanthropic goals. So this actually benefits World Bank in both in 2 ways. One.
+
+520
+01:06:51.090 --> 01:06:55.340
+Danny Park: it's it's helping their. The governments
+
+521
+01:06:55.470 --> 01:07:00.209
+Danny Park: keep track of where the donations are being spent for compliance purposes.
+
+522
+01:07:00.350 --> 01:07:05.040
+Danny Park: and also because of the transparency and trust, the World Bank gets more donations.
+
+523
+01:07:05.890 --> 01:07:30.459
+Danny Park: right? So they actually gained a competitive advantage against some other charities or Ngos, because if you're a government, and and you know, like voters are gonna want to know where your the money is going? Who do you want to give your money to, or their money to actually the voters, money or citizens money. We're gonna give the citizens money to the Ngo or not profit or charity that is fully transparent, and showing you where they're spending your money
+
+524
+01:07:30.500 --> 01:07:43.390
+Danny Park: for the right reasons or the charity. That's just gonna take your money and not tell you where to go, where it's going. right? So no brainer there and then pampers developed sensors to attach diapers that send mobile alerts via app
+
+525
+01:07:43.420 --> 01:07:48.380
+Danny Park: to parents when the diaper is wet. I wish I had that when my children were younger.
+
+526
+01:07:49.910 --> 01:07:56.269
+Danny Park: right? But another example of wrapping a data capability into a product to achieve
+
+527
+01:07:56.540 --> 01:07:58.200
+Danny Park: increase sales
+
+528
+01:07:58.310 --> 01:08:05.930
+Danny Park: and or higher profits. And the last one we talked about earlier. Right? Last approach to monetize data is selling
+
+529
+01:08:06.450 --> 01:08:21.709
+Danny Park: exchange of information solution of a sum form of money. So when we talk about selling, you get selling raw data or selling the analytics, right? So I use Bloomberg as an example, Bloomberg sells news data and trading tools through a subscription service. So basically, they're selling their analytical
+
+530
+01:08:21.950 --> 01:08:23.430
+Danny Park: capabilities
+
+531
+01:08:24.770 --> 01:08:27.890
+Danny Park: from the data that they buy or collect
+
+532
+01:08:27.930 --> 01:08:31.250
+Danny Park: 2 subscribers. Right? That's best of us here.
+
+533
+01:08:31.920 --> 01:08:43.300
+Danny Park: right? Erie purchased point of sales data from retailers and in turn sold aggregated data and analytics back to the retailer. So what in this business model? What they did was
+
+534
+01:08:43.649 --> 01:08:49.439
+Danny Park: Erie says, Hey, I'm gonna buy your data. Okay, cool, perfect. Here his data right? Boom. I bought it.
+
+535
+01:08:49.710 --> 01:08:53.090
+Danny Park: Then they were like, wait a minute. What if I aggregate
+
+536
+01:08:53.779 --> 01:09:06.190
+Danny Park: data from all the retailers? I just bought aggregate the data, the analytics behind it. I'm going to be able to tell the same retailer that bought the data from where they are at market, meaning how competitive they are.
+
+537
+01:09:07.149 --> 01:09:10.429
+Danny Park: right. So they are able to not only recoup
+
+538
+01:09:10.680 --> 01:09:21.500
+Danny Park: the money that they bought, I mean the money they spent on the data they purchased from retailers. They actually sold it back to the retailers by doing analytics which increased the value of the data
+
+539
+01:09:25.880 --> 01:09:30.930
+Danny Park: like as a good, as a really great example, and then credit card monitoring services, right.
+
+540
+01:09:31.210 --> 01:09:32.819
+Danny Park: really common.
+
+541
+01:09:35.189 --> 01:09:38.720
+Danny Park: Alright. So together these 3
+
+542
+01:09:39.000 --> 01:09:43.889
+Danny Park: approaches together are known as the improve wrap cell framework.
+
+543
+01:09:45.080 --> 01:09:55.940
+Danny Park: So regardless of industry, business, model size, a geographic location, or strategic intent. Your organization can monetize data using some combination of these 3.
+
+544
+01:09:57.360 --> 01:09:58.410
+Danny Park: It can
+
+545
+01:10:00.790 --> 01:10:03.230
+Danny Park: right? But it kind of goes back to
+
+546
+01:10:03.520 --> 01:10:07.800
+Danny Park: data quality. You can't improve. If your quality sucks.
+
+547
+01:10:08.140 --> 01:10:14.490
+Danny Park: you can't rap if your quality sucks and you certainly can't sell if your quality sucks.
+
+548
+01:10:14.870 --> 01:10:20.840
+Danny Park: So again, data quality is front and center in everything we do in industry. 4
+
+549
+01:10:25.240 --> 01:10:42.630
+Danny Park: alright, and the last 2 slides not, you know, Ver. Pretty much common sense, like, you know, the organizational capabilities that we need or the capabilities that we need in our organization to to collect data, to use data to transform data to transmit data, all those things right. Just listed here.
+
+550
+01:10:43.300 --> 01:10:48.209
+Danny Park: Not a big deal on the exam. Not gonna really cover it on the exam, just for us to read and take a look at
+
+551
+01:10:49.530 --> 01:10:53.580
+Danny Park: right. I did highlight 15 in red.
+
+552
+01:10:55.070 --> 01:10:56.240
+Danny Park: because
+
+553
+01:10:58.030 --> 01:11:07.540
+Danny Park: it's very important that when we think about capability or organizational capability. sometimes many companies forget
+
+554
+01:11:07.560 --> 01:11:15.870
+Danny Park: to assess the capability of third party vendors and partners. Right? Cause. I've seen enough instances where
+
+555
+01:11:16.060 --> 01:11:19.580
+Danny Park: a organization will collect a particular type of data
+
+556
+01:11:19.790 --> 01:11:33.159
+Danny Park: just to find out that the third party vendor or a partner doesn't have the capability to use that data to transform the data, to to provide analytics like literally like they just weren't ready for it.
+
+557
+01:11:33.390 --> 01:11:38.949
+Danny Park: So the cost of gaining or collecting that data in the first place, with some cost.
+
+558
+01:11:40.060 --> 01:11:48.110
+Danny Park: Okay, so 15 is a very important thing that we just have to remind ourselves that when we talk about capability it extends to who we are partnering with
+
+559
+01:11:50.510 --> 01:11:57.749
+Danny Park: alright. And then last slide. This is not a cyber security course. So we're not. We're not gonna talk about too much. But just
+
+560
+01:11:57.800 --> 01:11:58.850
+Danny Park: point is
+
+561
+01:11:59.880 --> 01:12:05.630
+Danny Park: you have to have the right data. I mean the right technologies in place.
+
+562
+01:12:06.400 --> 01:12:17.699
+Danny Park: right to be able to process your data and definitely have the right protocols, procedures, methodologies, frameworks and technologies in place to safeguard your data
+
+563
+01:12:18.460 --> 01:12:31.349
+Danny Park: right? It's no brainer. So just providing this out, there won't no specifics on of Slide 19 and 20 will be on the exam. But just showing just for those who want to, or just in kind of getting a little bit deeper into the details.
+
+564
+01:12:33.220 --> 01:12:34.290
+Danny Park: Alright
+
+565
+01:12:34.860 --> 01:12:39.840
+Danny Park: awesome. With that, said, I think that's all the content for today, any questions
+
+566
+01:12:39.960 --> 01:12:43.309
+Danny Park: from anyone on anything we covered so far.
+
+567
+01:12:48.710 --> 01:12:50.910
+Danny Park: Oh, Kai
+
+568
+01:12:51.560 --> 01:12:56.630
+Kai-Shih Wang: Kai, she sorry if I mess that up. Yeah, I go by Kai Kai. Okay? Perfect. Okay
+
+569
+01:12:56.820 --> 01:13:04.039
+Kai-Shih Wang: for so-called. The Bloomberg example was inspiring. And I was wondering, since Brundler
+
+570
+01:13:04.470 --> 01:13:12.660
+Kai-Shih Wang: purchase data pecks from other companies, how does ensure the conformity and accuracy
+
+571
+01:13:12.850 --> 01:13:20.319
+Danny Park: of the data acquired. Yeah, great question. And guess what? They'll never let us know. Cause that's one of the competitive advantages.
+
+572
+01:13:21.970 --> 01:13:26.000
+Danny Park: So. And that's you. But you put up a great point right
+
+573
+01:13:26.650 --> 01:13:30.580
+Danny Park: when you're in the business. Now with selling data and selling analytics.
+
+574
+01:13:31.550 --> 01:13:43.490
+Danny Park: the methods and practices you have to ensure that your data is of top quality. That is not a competitive advantage, and you do not want to share that with anybody.
+
+575
+01:13:44.120 --> 01:13:46.530
+Danny Park: because data is so prevalent.
+
+576
+01:13:47.050 --> 01:13:50.889
+Danny Park: right that someone could just come in and replicate what you're doing.
+
+577
+01:13:51.510 --> 01:13:52.320
+Danny Park: So
+
+578
+01:13:52.890 --> 01:14:00.590
+Danny Park: the the actual business of selling and buying data. It causes data's quality to become a now
+
+579
+01:14:01.000 --> 01:14:11.260
+Danny Park: strategic business element that in itself is going to become a competitive edge. Now, now let's think about this. Now, in the world of AI right
+
+580
+01:14:11.460 --> 01:14:14.250
+Danny Park: to get useful. AI. It
+
+581
+01:14:14.460 --> 01:14:19.249
+Danny Park: clearly 100 depends on the quality of the data that that we are teaching it with.
+
+582
+01:14:19.850 --> 01:14:23.859
+Danny Park: So if if Elon is using
+
+583
+01:14:23.870 --> 01:14:25.539
+Danny Park: is building AI.
+
+584
+01:14:25.570 --> 01:14:37.019
+Danny Park: Why would he ever share how he's training his met his AI mechanisms? How is cleaning, transforming his data? How is quality checking his data with Microsoft or Google.
+
+585
+01:14:37.950 --> 01:14:39.050
+Danny Park: He won't
+
+586
+01:14:39.590 --> 01:14:45.580
+Danny Park: unless there's a strategic advantage with partnering with Microsoft, Google anywhere, or some of the other vendors.
+
+587
+01:14:47.960 --> 01:14:54.470
+Danny Park: And that's opportunity for everyone in this room who wants to get into the the business of data?
+
+588
+01:14:55.110 --> 01:15:01.830
+Danny Park: Right? It's it's a it's a. It's going to be a beautiful world out there for a rich of opportunities for many Mbas.
+
+589
+01:15:02.630 --> 01:15:08.850
+Danny Park: Oh, great question, Kai. I know I didn't answer your question directly, but I hope I did answer your question in a in a in a certain way.
+
+590
+01:15:09.710 --> 01:15:13.650
+Danny Park: Okay, you're welcome, alright, awesome.
+
+591
+01:15:13.750 --> 01:15:15.520
+Danny Park: alright. Any other questions
+
+592
+01:15:18.710 --> 01:15:28.499
+Paola Henriquez: I do have a question it's not direct to directly to the class. But it's mostly that I did notice that I'm not in any group.
+
+593
+01:15:28.540 --> 01:15:53.239
+Danny Park: Oh, I was registering late. Oh, yes, I will. I will add you after this call. So I'll just tell you on Group 2. So so group 2, please chat. Paula. Yeah. You know, like your Whatsapp, whatever you guys use to communicate. And then I'll update the
+
+594
+01:15:53.640 --> 01:15:56.649
+Danny Park: The team assignments are posting a blackboard later this week.
+
+595
+01:15:56.830 --> 01:15:59.800
+Danny Park: Okay, thank you. Awesome. No, thank you. Alright.
+
+596
+01:16:02.120 --> 01:16:15.049
+michael amuev: Alright awesome. If there are no other questions, only a minute. Oh, okay, go ahead, Michael. Yeah. Do we have any upcoming deadlines that we should be aware of in terms of case studies being due, or any project upcoming, or the midterm.
+
+597
+01:16:15.510 --> 01:16:22.310
+Danny Park: No, everything's on the schedule as as relates deadlines and things like that. You're welcome.
+
+598
+01:16:22.730 --> 01:16:27.709
+Jie Yang: Hi, Professor. Yeah, I just found out I I'm not in any group, either.
+
+599
+01:16:27.800 --> 01:16:36.370
+Danny Park: Oh, you're in Group 3. So anyone else, neither group. If you're not, you're in Group 4.
+
+600
+01:16:36.430 --> 01:16:47.660
+Danny Park: But I say, name, okay, so group group 3, please reach out. She's just Chat G right now, and just give share your
+
+601
+01:16:47.690 --> 01:17:14.070
+Danny Park: Whatsapp or whatever.
+
+602
+01:17:14.230 --> 01:17:20.700
+Avriel Kelly: No, that was me. That was abriele. Okay, so a Abrie, you're in Group 4
+
+603
+01:17:20.760 --> 01:17:26.140
+Danny Park: and Taylor, and you're on Group 5. Perfect. Thank you.
+
+604
+01:17:26.570 --> 01:17:38.520
+Danny Park: And yeah, yes, yes, yes, please. And and if if you're not in a like, I just signed groups. If I just assign you a group, please, just email, me, remind me. So I could update the the team assignments.
+
+605
+01:17:39.240 --> 01:17:42.640
+Sijie (amber) Hu: Okay? Awesome. All right. So I have a quick question.
+
+606
+01:17:43.170 --> 01:17:51.270
+Sijie (amber) Hu: I received so notification from Brooks as a next Friday. The call it will close. So
+
+607
+01:17:51.300 --> 01:17:58.250
+Sijie (amber) Hu: so next Friday the college is closed is September fifteenth.
+
+608
+01:18:01.050 --> 01:18:05.980
+Danny Park: Oh, thank you. Wait! Hold on. Let me start the recording, because I don't want you guys to relive this.
+

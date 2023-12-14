@@ -1,0 +1,2434 @@
+WEBVTT
+
+1
+00:00:01.940 --> 00:00:05.420
+Danny Park: Alright. So today's session is about
+
+2
+00:00:06.620 --> 00:00:20.279
+Danny Park: the digital mindset. Okay, it's kind of bringing us G bringing us back after our first exam, right? We're kind of getting getting an understanding of what business analytics is, what, what, why, we have to marry the business knowledge and experience with the data.
+
+3
+00:00:20.320 --> 00:00:31.640
+Danny Park: to be able to analyze it correctly, right? Because if you don't, if you don't understand your business, how do you know which data right? How do you know what data quality is. If you don't know what your business is.
+
+4
+00:00:31.820 --> 00:00:48.430
+Danny Park: and if you don't know what your data quality is, meaning is your data complete? How do you know which data analytical method to bring? Cause? There's several right? There's there's in in categories, there's predictive, there's descriptive, there's. And within those categories that all, there are multiple other techniques to bring.
+
+5
+00:00:48.470 --> 00:00:53.559
+Danny Park: So as a business analyst, that's what makes us
+
+6
+00:00:54.360 --> 00:00:56.160
+Danny Park: make a lot of money.
+
+7
+00:00:56.220 --> 00:01:03.750
+Danny Park: because we're so knowledgeable that when we see a business problem, we could decompose it down and understand how to actually solution it.
+
+8
+00:01:03.920 --> 00:01:04.790
+Danny Park: Okay.
+
+9
+00:01:05.810 --> 00:01:08.290
+Danny Park: alright. So let's take a step back. So
+
+10
+00:01:10.870 --> 00:01:13.300
+Danny Park: what is business analytics
+
+11
+00:01:13.460 --> 00:01:20.190
+Danny Park: trying to answer. And it's trying to answer 3 3 main questions. Right?
+
+12
+00:01:20.380 --> 00:01:26.190
+Danny Park: The first question is, as always, is, what's happening right now in our business
+
+13
+00:01:27.070 --> 00:01:27.830
+Danny Park: right
+
+14
+00:01:29.420 --> 00:01:38.889
+Danny Park: then, after we find out what's happening right now in our business. what we want to do is we wanna know what's gonna happen next.
+
+15
+00:01:40.780 --> 00:01:48.729
+Danny Park: right? And after we know what's gonna happen next, or we have some idea what's about gonna happen next. Then we have to find out
+
+16
+00:01:48.830 --> 00:01:51.560
+Danny Park: or figure out what should we do
+
+17
+00:01:51.920 --> 00:02:00.970
+Danny Park: right? So business analytics is the culmination of the current state, the transformative state.
+
+18
+00:02:01.350 --> 00:02:03.100
+and the future state.
+
+19
+00:02:04.600 --> 00:02:08.519
+Danny Park: So in each phase of the business Analytical life cycle.
+
+20
+00:02:08.870 --> 00:02:18.260
+Danny Park: right? Which includes the data of life cycle which includes business analysis such as stakeholder market research. All these things right.
+
+21
+00:02:18.440 --> 00:02:21.169
+Danny Park: we have to build toward
+
+22
+00:02:21.750 --> 00:02:28.039
+Danny Park: our actual action steps. Meaning, what should we do so initially when we're asking what we're going to do right now.
+
+23
+00:02:28.170 --> 00:02:37.490
+Danny Park: right at the business analysis layer. Remember, business analytics is made up of 2 components, business analysis and data analytics.
+
+24
+00:02:38.330 --> 00:02:42.969
+Danny Park: So when we try to answer what's happening right now, for example, right?
+
+25
+00:02:43.630 --> 00:02:46.109
+Danny Park: Usually, we look at the financial statements
+
+26
+00:02:46.760 --> 00:02:50.699
+Danny Park: right? We look at a company's 10 K or the operating results.
+
+27
+00:02:50.910 --> 00:02:53.959
+Danny Park: And then we apply business analysis
+
+28
+00:02:54.270 --> 00:02:59.050
+Danny Park: to understand, hey, why do we have these budget variances?
+
+29
+00:03:00.510 --> 00:03:05.079
+Danny Park: Right? We said, we're gonna make 40 million dollars this upcoming year.
+
+30
+00:03:05.140 --> 00:03:09.570
+Danny Park: But our actuals right now we're on pace to only make 10 million.
+
+31
+00:03:11.080 --> 00:03:11.810
+Danny Park: Right?
+
+32
+00:03:12.270 --> 00:03:24.909
+Danny Park: So you're analyzing the health of the business. No real data analytics. Yet you just just looking at the numbers. Right? You're not analyzing. Just you're doing analysis. You're saying, Okay, what's going on right now? There's some problem.
+
+33
+00:03:25.060 --> 00:03:26.809
+Danny Park: We don't look that healthy
+
+34
+00:03:26.930 --> 00:03:42.519
+Danny Park: right? And in this example, you're in looking at the Kpis. Right? Your Kpis are your financial state to key performance indicators. Then, after you figure out like, Hey, right now doesn't look so good. Then you start doing some data analytics to get specifically
+
+35
+00:03:42.640 --> 00:03:44.210
+Danny Park: into. Hey?
+
+36
+00:03:44.950 --> 00:03:53.250
+Danny Park: Let's do some descriptive analytics to tell the story to executives on, hey? This is where we are right now.
+
+37
+00:03:56.610 --> 00:03:59.479
+Danny Park: Right? So then, you're gonna have the answers
+
+38
+00:03:59.990 --> 00:04:04.410
+Danny Park: right? So you have the business analysis layer who looks at the Kpis.
+
+39
+00:04:04.730 --> 00:04:12.259
+Danny Park: Then you figure out which Kpis are the most variants. So you know, you have a target area. Right? You have, like, you know, you have clues as to where to look.
+
+40
+00:04:12.790 --> 00:04:22.149
+Danny Park: Then you apply data, analytics. And within the world of data analytics, you're applying descriptive analytics and that based on your the business
+
+41
+00:04:22.560 --> 00:04:27.830
+Danny Park: problem or the industry within descriptive analytics. You're you're using different techniques
+
+42
+00:04:28.780 --> 00:04:30.810
+Danny Park: to get answers
+
+43
+00:04:32.260 --> 00:04:37.780
+Danny Park: after you get those answers right? You, the executives will ask you
+
+44
+00:04:37.980 --> 00:04:52.860
+Danny Park: as lead BA's for those who are going to graduate with graduate with A. A. A. Mba and Mba. Track as a lead BA. For your group or your functioning department. The executive who runs, that department will say, Okay, what's going to happen next?
+
+45
+00:04:52.990 --> 00:04:57.479
+Danny Park: Based on our current state of what's happening right now? What are the
+
+46
+00:04:57.920 --> 00:05:00.740
+Danny Park: more? What are the probable things that may happen
+
+47
+00:05:01.200 --> 00:05:12.710
+Danny Park: right? So then, you take those answers you got from descriptive analytics. Then you apply the next level business analysis layer, which in this ex instance would be the market Kpis, right? And, for example, if your company
+
+48
+00:05:13.030 --> 00:05:14.000
+Danny Park: has.
+
+49
+00:05:14.110 --> 00:05:18.180
+Danny Park: you know, had financial results where it said they made 10 million dollars.
+
+50
+00:05:18.330 --> 00:05:36.310
+Danny Park: Right? So how do you know? Really, if you did, good or bad, right, you had a goal of 40 million. But what if the 40 million was too much of a long shot. Right? So you know, the common sense thing is to go look at the market and say, Okay, based on our competitors who are in our niche in our industry.
+
+51
+00:05:36.800 --> 00:05:38.200
+Danny Park: What were their results?
+
+52
+00:05:39.380 --> 00:05:52.529
+Danny Park: Right? Let's see right. Some made 20 million, some made less than us. So you you just do some market research and gather those Kpis. Then, looking based on all the the data points you you've identified that you need from the market
+
+53
+00:05:54.530 --> 00:06:02.470
+Danny Park: and then overlaying that with the data points of your own internal company. you would then start applying some predictive analytics
+
+54
+00:06:02.600 --> 00:06:12.950
+Danny Park: to answer the question, what's going to happen next. Next? Right? So you give the executive 3 or 4, 5 possible events
+
+55
+00:06:13.530 --> 00:06:25.610
+Danny Park: based on where you are today and other factors in industry, and what the comparison competitors are doing. Then from that predictive predictive analytics, you get the next set of answers.
+
+56
+00:06:26.940 --> 00:06:30.849
+Danny Park: Right? Then, with those answers, the Executive is going to ask you.
+
+57
+00:06:31.060 --> 00:06:36.319
+Danny Park: okay, we have 305, where? 6, you, you tell me these 4, 5, 6 things are gonna happen
+
+58
+00:06:37.370 --> 00:06:39.020
+Danny Park: you tell us
+
+59
+00:06:39.950 --> 00:06:43.270
+Danny Park: which one should we actually execute.
+
+60
+00:06:46.700 --> 00:06:58.890
+Danny Park: Right then, what what you do is you start looking in your organizational partners, capabilities. You go. Okay. We know what we know. These 5 or 6 things might happen in the in in the market.
+
+61
+00:07:00.710 --> 00:07:02.030
+Danny Park: so that so
+
+62
+00:07:02.090 --> 00:07:13.779
+Danny Park: to know which one to take advantage of, we have to know what our capabilities are as an organization and what our partners capabilities are, because we need to solution this thing. Then, after you gather those data points
+
+63
+00:07:13.800 --> 00:07:21.590
+Danny Park: you bring, or you overlay that on your predictive and descriptive analytics. And then you run prescriptive analytics.
+
+64
+00:07:22.680 --> 00:07:26.929
+Danny Park: meaning based on all of our analytics and analysis
+
+65
+00:07:27.080 --> 00:07:29.919
+Danny Park: out of all these oldies
+
+66
+00:07:29.960 --> 00:07:34.519
+Danny Park: possible events we should be doing these activities.
+
+67
+00:07:34.570 --> 00:07:42.630
+Danny Park: cause these activities, will mitigate these bad events and then help us take advantage of these good events.
+
+68
+00:07:44.330 --> 00:07:47.769
+Danny Park: and that is what we call a strategy and plan.
+
+69
+00:07:48.830 --> 00:07:55.639
+Danny Park: So that's why I was reason why I was stating early. I wanted to open up with those who want to be business analytics.
+
+70
+00:07:56.090 --> 00:07:59.570
+Danny Park: because usually real business analytics leads to strategy.
+
+71
+00:08:00.150 --> 00:08:02.899
+Danny Park: Now we know why or how.
+
+72
+00:08:04.880 --> 00:08:14.210
+Danny Park: Right. So if you look at the the life cycle of business analytics as we should know it, not the bordered down version, you see an industry, but from people who don't know what they're talking about
+
+73
+00:08:14.530 --> 00:08:31.260
+Danny Park: the real life cycle business analytics is this is this complex interchange between the business analysis layer and the data analytics, analytics layer. And you're going through it. But every time you go through it all the things we talked about so far we have to keep that in mind. For example.
+
+74
+00:08:31.790 --> 00:08:46.369
+Danny Park: you have every step step of the way your your answers are building. They're building blocks. So let's say. your data quality here. And what's happening now is bad.
+
+75
+00:08:47.150 --> 00:08:54.270
+Danny Park: For example, let's say you work for a company where you're not tracking data. You're not tracking a transaction. You're not tracking any metadata. You don't know what's really going on.
+
+76
+00:08:56.640 --> 00:09:08.950
+Danny Park: And let's say you apply your business analysis to that chaos of no one knows who owns what, no one knows what transactions were were happening. No one knows what the dates are. Things are delayed.
+
+77
+00:09:09.010 --> 00:09:12.389
+Danny Park: And then you gather the data from that business analysis.
+
+78
+00:09:12.880 --> 00:09:16.130
+Danny Park: How can you even start doing descriptive analytics?
+
+79
+00:09:17.890 --> 00:09:22.450
+Danny Park: Right? Because if your data quality is bad. what you're describing is also bad.
+
+80
+00:09:23.260 --> 00:09:30.369
+Danny Park: So how would you? Well, how can you ever layer on predictive and in prescriptive analytics. When you're initially your descriptive
+
+81
+00:09:31.580 --> 00:09:33.189
+Danny Park: right? You don't even know who you are.
+
+82
+00:09:37.350 --> 00:09:39.750
+Danny Park: Right. So as business analysts.
+
+83
+00:09:41.010 --> 00:09:53.040
+Danny Park: as we build our discipline in the business and data layer. We also have to continue to be, be, be be very mindful of data, quality data, infrastructure, data strategy. All those things.
+
+84
+00:09:54.440 --> 00:09:56.580
+Danny Park: Okay? And ultimately.
+
+85
+00:09:57.770 --> 00:10:00.390
+Danny Park: what all that sums up to
+
+86
+00:10:00.690 --> 00:10:11.640
+Danny Park: is data quality assurance. So for those who have seen that jive title be thrown around that you see data quality assurance. That's what that function does. That function
+
+87
+00:10:11.890 --> 00:10:19.670
+Danny Park: is looking at each layer of the business analytic each cycle or each phase of the business analytical life cycle
+
+88
+00:10:20.180 --> 00:10:29.059
+Danny Park: and just ensuring that the data is of good quality to be able to do good. Descriptive analytics get us good answers.
+
+89
+00:10:30.100 --> 00:10:38.360
+Danny Park: They layer on more data to be able to make sure that we have good data here to give us good predictive analytics, and so on and so forth.
+
+90
+00:10:40.750 --> 00:10:45.849
+Danny Park: Right? All business analysts have to have eye toward data quality assurance.
+
+91
+00:10:47.990 --> 00:10:49.760
+Danny Park: right? And that's why.
+
+92
+00:10:50.310 --> 00:10:55.709
+Danny Park: when you see the big tech companies, you'll see the term technical business analyst.
+
+93
+00:10:56.070 --> 00:10:59.460
+a technical business analyst does not code a program.
+
+94
+00:10:59.600 --> 00:11:12.369
+Danny Park: That person knows enough about technology systems to understand how to audit the data quality coming out of those systems. Because when we get to when we talk about how you know when we want to answer what's happening right now?
+
+95
+00:11:13.450 --> 00:11:26.339
+Danny Park: Right? That's the quality of that answer depends on how quality your technology systems are producing its data and tracking things. Right? In other words, the information system
+
+96
+00:11:26.610 --> 00:11:30.939
+Danny Park: components not only the technology but also the people.
+
+97
+00:11:31.300 --> 00:11:36.729
+Danny Park: the data and the process. Because if you think about each layer, each layer here.
+
+98
+00:11:36.760 --> 00:11:51.219
+Danny Park: right to build that financial result, the financial results are a culmination of all the data processing, the all the data processes, technologies and and kpis within the own segments and how they feed each other.
+
+99
+00:11:54.550 --> 00:11:57.589
+Danny Park: It's a very important concept. But many.
+
+100
+00:11:58.400 --> 00:12:02.449
+Danny Park: you know. Not many's some professionals
+
+101
+00:12:02.970 --> 00:12:16.039
+Danny Park: who don't have an understanding of business analytics is they miss. They dropped the ball so many times because they're only always focused on what? Just the data they want to go too quick at the analyzing data
+
+102
+00:12:16.290 --> 00:12:19.569
+Danny Park: when they have no understanding which one to apply.
+
+103
+00:12:20.670 --> 00:12:25.489
+Danny Park: I've been in. I've been on client interactions with their supposed BA's.
+
+104
+00:12:25.770 --> 00:12:31.010
+Danny Park: And I would see prescriptive analytic techniques applied at what's what's gonna happen next.
+
+105
+00:12:31.880 --> 00:12:34.459
+Danny Park: Just cause their analyst had no idea.
+
+106
+00:12:37.730 --> 00:12:41.850
+Danny Park: Right? They're in that. They weren't. They weren't that good and understand the data analytics side.
+
+107
+00:12:45.050 --> 00:12:46.940
+Danny Park: right? They understood the business problem.
+
+108
+00:12:48.090 --> 00:12:58.560
+Danny Park: But they are applying the wrong analytic techniques. And there are other clients where I've seen the vice versa, right? Really good analytics. but just really bad business analysis.
+
+109
+00:13:03.590 --> 00:13:04.510
+Danny Park: Alright.
+
+110
+00:13:04.650 --> 00:13:13.689
+Danny Park: So the question would be, Well, Danny, like My God, that is like, that's so much to handle. So what you're essentially saying is.
+
+111
+00:13:14.420 --> 00:13:21.289
+Danny Park: we need good quality data. But the good quality data is a result of every single person in our organization
+
+112
+00:13:21.480 --> 00:13:30.739
+Danny Park: having an understanding of the impact that their business decisions and the resulting data has on the overall strategy of the firm.
+
+113
+00:13:31.690 --> 00:13:40.809
+Danny Park: Because as business analysts. the quality of our strategy and plan that we kick out is, you know, you guys know, bad input bad output.
+
+114
+00:13:41.410 --> 00:13:49.039
+Danny Park: Our, the strength of our strategy is really based on how good our inputs are from the very beginning of our of our business analytic life cycle.
+
+115
+00:13:50.590 --> 00:13:52.970
+Danny Park: So what do firms have in place
+
+116
+00:13:53.680 --> 00:14:01.180
+Danny Park: to help to help manage that right? Because it's it's a big task, and it's not a one fit solution.
+
+117
+00:14:01.280 --> 00:14:07.779
+Danny Park: So what most organizations come up have come out with right? Is this concept called the digital mindset
+
+118
+00:14:08.560 --> 00:14:18.410
+Danny Park: alright. Anyone anyone work anyone who's working full time. Has has anyone gone through a digital mindset module or workshop?
+
+119
+00:14:22.980 --> 00:14:26.430
+Danny Park: No one? Don't be shy if you have.
+
+120
+00:14:29.720 --> 00:14:33.650
+Danny Park: Is this for how many. Here is the first time you're hearing the term digital mindset.
+
+121
+00:14:36.610 --> 00:14:40.849
+Harini: I mean in in colleges, they say numerical
+
+122
+00:14:41.920 --> 00:14:43.830
+Harini: what they call it numerical.
+
+123
+00:14:44.580 --> 00:14:49.250
+Harini:  you know, like numerical literacy, you know.
+
+124
+00:14:49.330 --> 00:14:57.600
+Danny Park: Oh, right? Right? Yeah, yeah, yeah, like, digital liters. Yeah, yeah. Same same concept, same concept. But like the digital mindset.
+
+125
+00:14:58.840 --> 00:15:08.800
+Danny Park: like like he, you know, especially in the Big 4 or the consultant sees there's like like training role maps around digital mindset. So digital mindset, what is it?
+
+126
+00:15:09.320 --> 00:15:17.590
+Danny Park: It's a personal capability. I'll just read off the slide just for a second, because it's such a good definition of it, right? Is a personal capability. Aware of thinking
+
+127
+00:15:17.890 --> 00:15:20.670
+Danny Park: that enables an individual to imagine better
+
+128
+00:15:22.210 --> 00:15:24.880
+Danny Park: technology enabled ways of getting things done
+
+129
+00:15:25.470 --> 00:15:33.020
+Danny Park: right? It's using data technology to streamline. Like all this, you know, things that we talk about. Efficiency, streamlining workflows, innovating, improve existing solutions.
+
+130
+00:15:33.070 --> 00:15:35.820
+Danny Park: Blah, blah, blah, blah blah. So what what is this saying?
+
+131
+00:15:36.810 --> 00:15:38.950
+Danny Park: What what this is saying is that
+
+132
+00:15:39.160 --> 00:15:46.949
+Danny Park: you don't in every level of the organization. If you don't have people in the, in, under the the behavior
+
+133
+00:15:47.210 --> 00:15:51.410
+Danny Park: of understanding how everything they do in the organization
+
+134
+00:15:52.430 --> 00:15:54.029
+Danny Park: can be digitized
+
+135
+00:15:54.710 --> 00:16:06.940
+Danny Park: right? And I don't know if we talked about this in this course, because III just do too many speakings and and to teach too many courses. I don't know exactly, but I know if you took my Mc. Course I've I've said this right.
+
+136
+00:16:07.130 --> 00:16:08.020
+Danny Park: Is that.
+
+137
+00:16:09.410 --> 00:16:12.299
+Danny Park: Think about all the meetings that you guys have right
+
+138
+00:16:12.430 --> 00:16:16.600
+Danny Park: of all the meetings that you have. how much knowledge
+
+139
+00:16:16.630 --> 00:16:21.849
+Danny Park: and information spread across teams. But none of that is ever digitized
+
+140
+00:16:22.650 --> 00:16:24.870
+Danny Park: right? No one puts it into a digital format.
+
+141
+00:16:25.140 --> 00:16:36.880
+Danny Park: So if you, if you're not turning knowledge and information in the digital format. that means that you're missing that knowledge information in your initial data set.
+
+142
+00:16:39.600 --> 00:16:43.900
+Danny Park: So if you're missing that knowledge, knowledge, information and initial data set.
+
+143
+00:16:44.860 --> 00:16:47.260
+Danny Park: how can you descriptive analytics
+
+144
+00:16:48.390 --> 00:16:57.769
+Danny Park: be good when you don't have the complete data cause. No one knew enough to actually apply the digital mindset and find a way to digitize that data.
+
+145
+00:17:00.800 --> 00:17:04.810
+Danny Park: Right. So where is the policy that says, if you're on a
+
+146
+00:17:04.829 --> 00:17:07.699
+Danny Park: ethical or execution workshop.
+
+147
+00:17:07.990 --> 00:17:13.749
+Danny Park: that you must record those sessions, and when you record those sessions, turn the script on.
+
+148
+00:17:14.250 --> 00:17:31.170
+Danny Park: So when you turn the script on, and a key part or key knowledge is shared within the script, or when you're working, you say, everyone stop for digitization purposes. We will restate this knowledge and you restate it. So teams has it in script.
+
+149
+00:17:32.530 --> 00:17:33.940
+Danny Park: in digital format.
+
+150
+00:17:34.240 --> 00:17:39.339
+Danny Park: So then you could train your natural language processing. Now we call it Gen. A. I.
+
+151
+00:17:39.680 --> 00:17:41.070
+Danny Park: That knowledge set
+
+152
+00:17:42.420 --> 00:17:45.789
+Danny Park: how many organizations are thinking that way? Cause I know they're
+
+153
+00:17:46.260 --> 00:17:51.939
+Danny Park: we are. and I know our competitors. Some of our competitors are. and it's on my client side.
+
+154
+00:17:53.950 --> 00:18:05.879
+Danny Park: So in a nutshell, that's what digital mindset is saying, digital mindset is saying is, Hey, is your organization. Understand that everything they do need to be digitized because in the world, right now, in our world of the Information age
+
+155
+00:18:06.840 --> 00:18:10.819
+Danny Park: that all of our businesses are going to be impacted.
+
+156
+00:18:10.990 --> 00:18:15.069
+Danny Park: based on the strength and quality of our AI mechanism.
+
+157
+00:18:16.620 --> 00:18:24.910
+Danny Park: So if we can't, if we don't have captured all of our internal knowledge which creates a competitive advantage
+
+158
+00:18:25.020 --> 00:18:28.440
+Danny Park: in a digital way. How can our
+
+159
+00:18:28.580 --> 00:18:32.549
+Danny Park: subsequent AI platforms be any good?
+
+160
+00:18:34.340 --> 00:18:35.940
+Danny Park: And Italia go ahead.
+
+161
+00:18:36.490 --> 00:18:43.110
+Natallia’s iPhone: Yeah, I was gonna say that. I guess for bigger, larger organizations, it becomes a very.
+
+162
+00:18:43.510 --> 00:18:45.080
+Natallia’s iPhone: very limited
+
+163
+00:18:45.510 --> 00:18:53.549
+Natallia’s iPhone: option to digitize because it involves a lot of resources, and everyone has been cutting their expenses, not really
+
+164
+00:18:53.910 --> 00:19:05.649
+Natallia’s iPhone: increasing them. And of course you have to keep in mind that maybe you have to take a step back and see it in the long run. It's gonna save money. But everyone's thinking like, perfect. Right?
+
+165
+00:19:06.050 --> 00:19:13.450
+Danny Park: Yeah, yeah, no, that's a that's a that's a really good point. Right? There's some organizations who don't prioritize
+
+166
+00:19:14.370 --> 00:19:18.089
+Danny Park: data as a possible revenue stream.
+
+167
+00:19:18.940 --> 00:19:28.510
+Danny Park: Right? So in that sense they would view the approach of digital mindset as being a cost center rather than an innovation center.
+
+168
+00:19:29.320 --> 00:19:37.979
+Danny Park: Right? So. But that's something that that as business analysts, right people who understand the both the business data side. We have to understand that this AI stuff is not gonna go away
+
+169
+00:19:38.270 --> 00:19:41.719
+Danny Park: right? So if this AI stuff is not going to go away.
+
+170
+00:19:42.490 --> 00:19:49.909
+Danny Park: The is capturing additional information or or in digital format. Is that actually a cost? Because in the future
+
+171
+00:19:50.700 --> 00:19:57.310
+Danny Park: lot of companies are gonna want to buy data just to make their AI capability stronger.
+
+172
+00:19:57.750 --> 00:20:07.140
+Danny Park: Right? So let's think about major consultancy. Let's let's think I let's think of not to be biased for Big 4. Let's think of someone else. Let's think of Mckinsey.
+
+173
+00:20:07.910 --> 00:20:20.760
+Danny Park: let's say one day. So, Mackenzie, you know, it's viewed as a bright, the brightest right, like everyone's an ivy League and blah blah blah right, whatever whatever they want to call themselves. Right? Let's assume that they did bright brightest, brightest, and brightest. What if they today they're working on
+
+174
+00:20:20.830 --> 00:20:24.210
+Danny Park: capturing that knowledge digitally.
+
+175
+00:20:24.630 --> 00:20:28.160
+Danny Park: and their future strategy is not to actually consult.
+
+176
+00:20:28.880 --> 00:20:33.979
+Danny Park: but to sell that knowledge and digital format to other consultancy, so they can consult.
+
+177
+00:20:35.530 --> 00:20:37.729
+Danny Park: How much scale did they just create?
+
+178
+00:20:39.930 --> 00:20:44.980
+Danny Park: So now now, Mckenzie, as a brand is in every consultancy.
+
+179
+00:20:48.210 --> 00:20:50.819
+Danny Park: so as business analysts.
+
+180
+00:20:50.970 --> 00:20:55.190
+Danny Park: When we combine business and data, we are future looking.
+
+181
+00:20:56.200 --> 00:21:05.289
+Danny Park: You see, here in this line. And this is the reason why I wanted to bring this up and it this applies to everyone's project. We are future looking
+
+182
+00:21:06.460 --> 00:21:14.240
+Danny Park: as Mbas. especially in a top 50 program like Baruch. We must be future looking.
+
+183
+00:21:15.680 --> 00:21:20.680
+Danny Park: Because if you're not feature looking, what's the point of having an Mba Lena? Go ahead.
+
+184
+00:21:21.490 --> 00:21:33.089
+Danny Park: Yeah, Professor, would that be definition of economies of scale? The way they put that in Yup, it is completely scaled. It they're they're saying, you know what we're gonna take our our core competency.
+
+185
+00:21:33.240 --> 00:21:42.729
+Danny Park: So Mckenzie's brand. Their core. Competency is is when you look. When you think about Mackenzie, you think of them as like the the like. The the Einsteins of the consulting world
+
+186
+00:21:42.790 --> 00:21:44.500
+Danny Park: that's initial div brand.
+
+187
+00:21:44.530 --> 00:21:50.709
+Danny Park: So if you know, that's the that's your brand. And and then everyone's trying to get to your level of intelligence.
+
+188
+00:21:51.500 --> 00:21:58.169
+Danny Park: Why would you ever at the at the point of at the point of AI models? Why would you say? No, we're going to hold this
+
+189
+00:21:59.080 --> 00:22:00.540
+Danny Park: just for ourselves? Because
+
+190
+00:22:00.930 --> 00:22:08.200
+Danny Park: and like practically because, like you said, you can't serve every client. You don't have enough people.
+
+191
+00:22:09.030 --> 00:22:12.339
+Danny Park: But who can? The actual consulting industry can.
+
+192
+00:22:13.420 --> 00:22:14.709
+Danny Park: So you're like, you know what?
+
+193
+00:22:14.760 --> 00:22:20.769
+Danny Park: Hey? Consulting industry? We're gonna back out from actually serving clients individually.
+
+194
+00:22:20.970 --> 00:22:26.350
+Danny Park: But we're going to sell you our knowledge that you can use to build your a I mechanism
+
+195
+00:22:27.100 --> 00:22:29.239
+Danny Park: that I know all of you are building.
+
+196
+00:22:29.970 --> 00:22:32.900
+Danny Park: So here here it is, but pay us a premium
+
+197
+00:22:35.350 --> 00:22:36.090
+Danny Park: right
+
+198
+00:22:36.640 --> 00:22:40.830
+Danny Park: to me. That's unbelievable cause. Then you don't need a headcount. You just need systems.
+
+199
+00:22:41.760 --> 00:22:44.209
+Danny Park: Data is forever learning.
+
+200
+00:22:44.230 --> 00:22:54.009
+Danny Park: right knowledge is forever gathered. You could you could do a feedback loop where, when there, you're, you're these consultants you sell to. As they learn more, they have to feed you back data.
+
+201
+00:22:56.240 --> 00:22:58.570
+Danny Park: Right? So that's that's
+
+202
+00:22:58.690 --> 00:23:00.389
+strategic thinking.
+
+203
+00:23:01.070 --> 00:23:09.360
+Danny Park: By applying the business side of where Mckinsey, for example, sits right? They sit in the consulting world. That's their business model.
+
+204
+00:23:09.910 --> 00:23:16.149
+Danny Park: And then what do they offer from a data perspective or analytic perspective. Then you package it up.
+
+205
+00:23:17.650 --> 00:23:24.029
+Danny Park: right? So it's called data. You know, it's it's it's been happening for years. Data monetization. But now we're at the next level.
+
+206
+00:23:26.420 --> 00:23:38.389
+Danny Park: right? So digital mindset. So if you now you see how, if you didn't come with a digital mindset first, how Mackenzie would never, but never think about doing that. By the way, I don't work for Mckinsey. I don't know anyone there. If I'm at Mckinsey, that's what I'll be thinking.
+
+207
+00:23:38.780 --> 00:23:41.500
+Danny Park: cause I'm applying my digital mindset
+
+208
+00:23:43.830 --> 00:23:47.019
+Danny Park: right now again. Not all brands can do that like
+
+209
+00:23:47.570 --> 00:23:53.509
+Danny Park: like, I don't know. Pick some pick, some regional consulting firm like that's not their brand.
+
+210
+00:23:54.580 --> 00:23:59.270
+Danny Park: but they sure will buy Mckinsey, though if Mckinsey ever offered a data set
+
+211
+00:24:01.450 --> 00:24:03.790
+Danny Park: right, they probably pay big bucks for it, too.
+
+212
+00:24:05.700 --> 00:24:10.149
+Danny Park: So the strength of the digital mind said, I hope I hope it came clear
+
+213
+00:24:10.460 --> 00:24:15.130
+Danny Park: how once you understand what this means, you become future looking
+
+214
+00:24:17.010 --> 00:24:25.869
+Danny Park: right? So how do you get to? How do you become like digital mindset like, how do you like, hey? Like? How do I like? How do? Where do I get this thing, how do I get it? Right?
+
+215
+00:24:26.080 --> 00:24:28.799
+Danny Park: And that's this term. I know everyone heard
+
+216
+00:24:29.340 --> 00:24:40.770
+Danny Park: like I mean, not everyone. Most people heard more often, digital mindset digital literacy. So what's digital literacy? So digital literacy is actually using tools.
+
+217
+00:24:40.800 --> 00:24:44.609
+Danny Park: So practicing creating things digitally
+
+218
+00:24:46.120 --> 00:24:48.980
+Danny Park: right. And you see how it starts with just access
+
+219
+00:24:50.000 --> 00:24:57.209
+Danny Park: right? Giving your employees the tools like Uipath, like alter X, like word, like Powerpoint.
+
+220
+00:24:57.220 --> 00:24:58.630
+Danny Park: write Google suite.
+
+221
+00:25:00.000 --> 00:25:02.049
+Danny Park: You know, there's some companies that are still on paper.
+
+222
+00:25:03.370 --> 00:25:09.219
+Danny Park: I just dropped off. My, so I have a you know, my dog, III when it rains I drop it off at daycare
+
+223
+00:25:09.350 --> 00:25:15.810
+Danny Park: because I can't walk, and I can't play with the outside, so I don't want to do boards. I drop it off at daycare, and it plays with other dogs. When I go there.
+
+224
+00:25:15.850 --> 00:25:17.360
+Danny Park: I'm filling out paperwork.
+
+225
+00:25:18.500 --> 00:25:20.390
+Danny Park: They're not digitizing anything.
+
+226
+00:25:21.600 --> 00:25:25.169
+Danny Park: So because they don't have access to it. So it starts with access
+
+227
+00:25:26.290 --> 00:25:29.099
+Danny Park: right then, after you give people the tool
+
+228
+00:25:29.760 --> 00:25:31.589
+Danny Park: you teach them how to use it
+
+229
+00:25:32.760 --> 00:25:35.549
+Danny Park: by use it. I'm talking about like
+
+230
+00:25:35.580 --> 00:25:46.559
+Danny Park: like actually using it right? Not excel. And you have excel just to punch numbers and sales and do some functions and plus functions I'll talk about. Teach him how to do. V lookup h lookups. Write some basic Dva code
+
+231
+00:25:47.620 --> 00:25:52.629
+Danny Park: cause if you don't teach them how to actually use the tool for what it's built for.
+
+232
+00:25:53.160 --> 00:26:01.640
+Danny Park: how can they ever understand the business purpose for having that tool in the first place. for those who you excel at work. Do you understand why you have excel?
+
+233
+00:26:02.130 --> 00:26:04.340
+Danny Park: Besides, to punch numbers?
+
+234
+00:26:05.140 --> 00:26:06.910
+Danny Park: Anyone have any idea?
+
+235
+00:26:07.470 --> 00:26:16.579
+Danny Park: It's a yeah go ahead.
+
+236
+00:26:17.090 --> 00:26:32.900
+Natallia’s iPhone: I was, gonna say, yeah, I was. I was gonna say that they're there's also a side effect like a negative side of digitalizing everything because the Co. The customer is gonna lose the customer experience that they use to a personal touch.
+
+237
+00:26:33.040 --> 00:26:42.999
+Natallia’s iPhone: If you digitalize everything like taking a very simple example of going to the grocery store. I purposely avoid all these self service registers
+
+238
+00:26:43.050 --> 00:26:44.340
+Natallia’s iPhone: because it just
+
+239
+00:26:44.550 --> 00:27:03.879
+Natallia’s iPhone: like I am purchasing, and I'm also doing their job. So not all industries are gonna want to cut out
+
+240
+00:27:03.940 --> 00:27:11.040
+Danny Park: the human element of it. Absolutely 100%. Sure, I mean, 100% accurate. What you provided was a great
+
+241
+00:27:11.490 --> 00:27:15.640
+Danny Park: great great great feedback right?
+
+242
+00:27:16.050 --> 00:27:19.819
+Danny Park:  But on. So what's interesting is
+
+243
+00:27:20.210 --> 00:27:21.759
+Danny Park: so you know. So that
+
+244
+00:27:22.200 --> 00:27:28.609
+Danny Park: androids right? So reason why they're building androids is to what Italia just said.
+
+245
+00:27:29.500 --> 00:27:34.220
+Danny Park: Right? The people that many people out there who enjoy interaction
+
+246
+00:27:34.690 --> 00:27:40.800
+Danny Park: right? So that's where they're building humanoid robots to give you that interaction.
+
+247
+00:27:41.280 --> 00:27:49.960
+Danny Park: Right? So it's so interesting. It's it's like, sorry I'm not gonna go through it here, but just the evolution of how technology mimics human evolution
+
+248
+00:27:50.250 --> 00:27:52.350
+Danny Park: is very, very interesting.
+
+249
+00:27:52.810 --> 00:28:03.039
+Danny Park: But to Natalia's point there is several entries industries right now who are ma? Who are making those androids to to bridge the gap. But Natalia said about the human experience. So there.
+
+250
+00:28:04.130 --> 00:28:07.989
+Danny Park: when we talk about when we talk about digital literacy, right?
+
+251
+00:28:09.170 --> 00:28:23.509
+Danny Park: We, it's important for us to all understand what that is, to build a digital mindset and then be able to apply our business understanding of the industry to make sure what the right balances. But going back to digital literacy right? And I just want everyone just to think about yourselves.
+
+252
+00:28:23.640 --> 00:28:31.799
+Danny Park: just your own, just your own understanding where you are in this, in this spectrum. right? And it's not a knock, a criticism of anyone.
+
+253
+00:28:32.000 --> 00:28:47.019
+Danny Park: But we need to be very understanding of where we are where we sit here, because if we don't know where we are right, just like, just like as all business analyst, all business leaders, we need to know where what's happening right now, and we need to. You know we can't be lied to.
+
+254
+00:28:47.380 --> 00:28:50.029
+Danny Park: so we can't lie to ourselves, either. Right?
+
+255
+00:28:50.870 --> 00:28:52.580
+Danny Park: You have to know where you are
+
+256
+00:28:54.280 --> 00:28:56.399
+Danny Park: right. And for many.
+
+257
+00:28:57.450 --> 00:29:00.609
+Danny Park: right? How is it that it's barely here.
+
+258
+00:29:03.140 --> 00:29:12.730
+Danny Park: right? People. I see people, you know. I'm not gonna go anyone in this room. I'm just about in general, right? I see people with excel word. You know, you could write scripts in Google suite.
+
+259
+00:29:13.090 --> 00:29:20.969
+Danny Park: We could automate Google, by yourself, Google suite, Google, Google slides and and and Google drive
+
+260
+00:29:21.280 --> 00:29:24.309
+Danny Park: like, it's Google. The reason why it made it so.
+
+261
+00:29:24.770 --> 00:29:27.979
+Danny Park: So novice looking is because they let you script a lot
+
+262
+00:29:29.920 --> 00:29:37.510
+Danny Park: right? Same thing with Microsoft. Microsoft probably has the most api integrations against not only their internal suite, but external suite.
+
+263
+00:29:39.700 --> 00:29:41.750
+Danny Park: Right? That's what power automate is.
+
+264
+00:29:43.450 --> 00:29:46.430
+Danny Park: So as business analysts.
+
+265
+00:29:47.350 --> 00:29:51.170
+Danny Park: we have to solely climb this ladder of digital literacy.
+
+266
+00:29:52.310 --> 00:30:04.689
+Danny Park: Right? So once we understand the business purpose for why this tool existed industry, then we could understand what we need to do with it to create the right type of content.
+
+267
+00:30:06.640 --> 00:30:14.030
+Danny Park: So I'll use an easy example. There's a you know, clients right now. They want to create automation using Rpa
+
+268
+00:30:14.840 --> 00:30:15.590
+Danny Park: right?
+
+269
+00:30:15.940 --> 00:30:27.739
+Danny Park: And I teach Rpa class, by the way, and the whole Rpa class is basically like 20% of it is me saying that they're doing it all wrong. because what they're doing is they're ha. They're giving people access.
+
+270
+00:30:27.770 --> 00:30:29.520
+Danny Park: And they're saying, Go create a bot.
+
+271
+00:30:31.570 --> 00:30:37.480
+Danny Park: So what naturally happens? Right? I see them create bots
+
+272
+00:30:37.650 --> 00:30:41.849
+Danny Park: that actually do ultra excel some functions.
+
+273
+00:30:42.080 --> 00:30:45.410
+Danny Park: And they say, Oh, look at this bot I created, I automated math.
+
+274
+00:30:48.440 --> 00:30:51.719
+Danny Park: So your company has excel. But you created a bot
+
+275
+00:30:51.800 --> 00:30:55.880
+Danny Park: to do math to some functions. So you just wasted money
+
+276
+00:30:57.190 --> 00:31:00.319
+Danny Park: right? Another example is that we had. We had one where
+
+277
+00:31:00.820 --> 00:31:05.360
+Danny Park: they create, they created, they they created a bot where
+
+278
+00:31:05.490 --> 00:31:07.609
+Danny Park: it was. What was it doing?
+
+279
+00:31:09.550 --> 00:31:13.740
+Danny Park: It was going in, copying, pasting things from the web
+
+280
+00:31:13.960 --> 00:31:15.980
+Danny Park: and then copying that back
+
+281
+00:31:16.190 --> 00:31:18.929
+Danny Park: into their slides.
+
+282
+00:31:19.150 --> 00:31:32.059
+Danny Park: But the reason, oh, yeah, good good use case. But since then it understands in the world of digital that many companies don't let you scrape
+
+283
+00:31:32.360 --> 00:31:37.670
+Danny Park: their ui meaning. You can't go to Linkedin, and you can't scrape the information on Linkedin.
+
+284
+00:31:38.280 --> 00:31:48.580
+Danny Park: It violates the user policy because they're trying to. They don't want. They want to protect people's privacy. So they're like you could look and copy could manually do it. But they don't want you, do. They don't want a crawler
+
+285
+00:31:48.600 --> 00:31:53.459
+Danny Park: going around going to like 10,000 Linkedin pages
+
+286
+00:31:53.670 --> 00:31:55.120
+Danny Park: to scrape data
+
+287
+00:31:55.390 --> 00:32:01.889
+Danny Park: and and analyze PPI, that some people might have actually put on it by accident, like the phone numbers or emails and things like that.
+
+288
+00:32:02.220 --> 00:32:06.900
+Danny Park: By the way, if you're on Linkedin, do not put your email and phone number on, please.
+
+289
+00:32:08.030 --> 00:32:17.479
+Danny Park: Right, that stuff will be on your resume and you share it with the right. People. Don't leave it open on there on your social media. Just Fyi, that's like that's not good, anyway.
+
+290
+00:32:18.430 --> 00:32:19.380
+Danny Park: So
+
+291
+00:32:19.790 --> 00:32:32.999
+Danny Park: because they didn't understand right? Because digital is includes all that right understanding the purpose of the tool and why it's used for right. And you have to understand purpose of technologies to understand how to actually use it. So they're creating a bunch of bots that had made no sense.
+
+292
+00:32:34.480 --> 00:32:39.519
+Danny Park: So this particular client built up to 400 bots, and only 2 actually serve the business purpose.
+
+293
+00:32:41.540 --> 00:32:46.429
+Danny Park: So the loss on the Rpa project was 3 point something 1 million dollars, if I remember correctly.
+
+294
+00:32:48.050 --> 00:32:55.890
+Danny Park: because no one in their organization was digitally literate because they assume that giving access to tools means they know what they're doing.
+
+295
+00:32:57.050 --> 00:32:59.579
+Danny Park: It's like me giving
+
+296
+00:32:59.750 --> 00:33:00.710
+Danny Park: a
+
+297
+00:33:01.250 --> 00:33:03.640
+Danny Park: Shakespeare book to my 8 year old.
+
+298
+00:33:04.960 --> 00:33:06.200
+Danny Park: She could read.
+
+299
+00:33:06.430 --> 00:33:09.859
+Danny Park: but not at that level. So what you can do with the sheep, Shakespeare.
+
+300
+00:33:12.220 --> 00:33:17.770
+Danny Park: right now I understand it. Take the wrong message. Not even read it. Probably used to squash a bug.
+
+301
+00:33:21.650 --> 00:33:25.430
+Danny Park: So as business analysts, we have to understand
+
+302
+00:33:25.830 --> 00:33:29.300
+Danny Park: right. And it's completely okay, if you're only at the use phase
+
+303
+00:33:31.860 --> 00:33:37.569
+Danny Park: and then kind of segue back to your curriculum. Your Mba curriculums are meant to get you Literate.
+
+304
+00:33:38.460 --> 00:33:41.730
+Danny Park: We have to pick the right courses and not just look for the 4 point
+
+305
+00:33:41.800 --> 00:33:43.160
+Danny Park: because no one cares.
+
+306
+00:33:43.830 --> 00:33:47.790
+Danny Park: Well, they only care about. Are you digital literate or not, and we'll find out they're gonna interview.
+
+307
+00:33:50.730 --> 00:33:56.580
+Danny Park: I've actually asked that, like I had someone who come into, he had his he had a Uipath certificate, which he did.
+
+308
+00:33:56.630 --> 00:34:04.390
+Danny Park: and my first question was like, What's the purpose of your path in the market? He had no idea. So he, that that interview didn't go so well with him
+
+309
+00:34:04.530 --> 00:34:06.199
+Danny Park: for him. Right?
+
+310
+00:34:06.340 --> 00:34:07.240
+So.
+
+311
+00:34:08.370 --> 00:34:10.889
+Danny Park: So wait. Let me stop here. Any questions so far.
+
+312
+00:34:11.150 --> 00:34:14.030
+Danny Park: Anything you covered any comments, anything.
+
+313
+00:34:15.840 --> 00:34:17.080
+Danny Park: any thoughts.
+
+314
+00:34:20.440 --> 00:34:30.759
+Esaline Jarvis: Professor. Quick question. Yes. You mentioned in rpa, but I really don't know what. Rp, oh, sorry automation.
+
+315
+00:34:31.120 --> 00:34:34.729
+Esaline Jarvis: Okay, you're welcome. You're welcome.
+
+316
+00:34:34.940 --> 00:34:36.389
+Esaline Jarvis: thank you.
+
+317
+00:34:37.870 --> 00:34:40.209
+Paola Vargas: Hey, Professor? Yes, hey, Pauline! Hi!
+
+318
+00:34:40.409 --> 00:34:45.800
+Paola Vargas: I had an example of something very similar at my organization.
+
+319
+00:34:45.909 --> 00:35:04.019
+Paola Vargas: So we have a bunch of Project managers in our company, and one of the constant struggle is, you know, nobody's using really good effective tools to manage their projects. So the information systems, the Mis System Department launched Reich.
+
+320
+00:35:04.280 --> 00:35:10.280
+Paola Vargas: and they said, Here you go. We've got this tool for you guys to help me manage your projects, but they never
+
+321
+00:35:10.670 --> 00:35:19.539
+Paola Vargas: ask folks is that if that's the tool that they want it, how to use it. It was like, maybe, like 10% usage at the end of the day. And
+
+322
+00:35:19.730 --> 00:35:27.789
+Paola Vargas: oh, my God! Awesome example, and thank you for sharing, because I'm sure that is a pervasive example.
+
+323
+00:35:28.280 --> 00:35:35.030
+Danny Park: I I'm sure everyone in this room went through it, and that's another example of not having a digital mindset.
+
+324
+00:35:35.110 --> 00:35:43.050
+Danny Park: Right? Remember. So everyone I just want, I just wanna just make it clear because I'm gonna not be clear just because we have the word digital.
+
+325
+00:35:43.910 --> 00:35:48.669
+Danny Park: We're not only talk about data, right? Digital minded is a personal capability
+
+326
+00:35:48.690 --> 00:35:51.480
+Danny Park: or way of thinking that enables
+
+327
+00:35:52.000 --> 00:35:53.600
+an individual us
+
+328
+00:35:53.750 --> 00:36:00.580
+Danny Park: to imagine better technology enabled ways of getting things done. So in Paulo's example.
+
+329
+00:36:00.850 --> 00:36:03.660
+Danny Park: right? And also in Italians, like everyone's example, right?
+
+330
+00:36:03.870 --> 00:36:10.640
+Danny Park: So. But but Powell's, you know Lee's example is they layered on a tool and said, Here you go.
+
+331
+00:36:10.690 --> 00:36:14.400
+Danny Park: meaning they just give you access. They may be trained.
+
+332
+00:36:14.660 --> 00:36:25.560
+Danny Park: Maybe something user, guide and train like a day or 2 some webcast training. No one's paying attention to right and say, Go ahead. But then, what do you? What do you? What do you expect them to do?
+
+333
+00:36:26.050 --> 00:36:33.290
+Danny Park: Right? Because you have to start with, hey? What is it? Why is it beneficial to you? How can it help you. How can you better imagine
+
+334
+00:36:33.370 --> 00:36:34.630
+Danny Park: the way of working
+
+335
+00:36:37.040 --> 00:36:46.840
+Danny Park: right? So digital mindset was missing. Digital mindset wasn't missing because digital literacy was missing because there's no path to digital literacy for that particular project management group which happens all the time.
+
+336
+00:36:47.250 --> 00:36:49.399
+Danny Park: Right, Eugenia, go ahead. Yeah.
+
+337
+00:36:50.400 --> 00:37:01.339
+Eugenia Salgado: Yes. I wanted to ask you renewal, saying a little bit about the digital mindset is that like a new concept like, I'm asking you like, I'm trying to understand.
+
+338
+00:37:01.400 --> 00:37:12.180
+Eugenia Salgado: we need to have that right like we we we that it's something like we will need to have. But I'm thinking about it at my job right now.
+
+339
+00:37:12.180 --> 00:37:34.079
+Eugenia Salgado: it's like we use it. Basic stuff like excel access. And we need to pull that data and all that. But even with those little things that when you are trying to give ideas or try to do something to make some things more how you call it. Add to make it a little quickly.
+
+340
+00:37:34.080 --> 00:37:35.750
+Eugenia Salgado: is like, people
+
+341
+00:37:36.110 --> 00:37:37.820
+Eugenia Salgado: is like, I don't know
+
+342
+00:37:37.960 --> 00:37:42.889
+Eugenia Salgado: what is the problem like if they are scared to make any changes or do something different.
+
+343
+00:37:42.930 --> 00:37:48.749
+Danny Park: Yeah, yeah, no, great, no. Right? Right? And the resistance change is
+
+344
+00:37:50.020 --> 00:37:56.680
+Danny Park: is a problem. But that resistant. The resistance to change is really led into
+
+345
+00:37:56.710 --> 00:38:09.259
+Danny Park: broken digital literacy policies and programs. a reason why someone doesn't want to change the way they do it, because they're afraid, because they don't know what they're doing right. And most people don't want to be challenged upon the fact that they don't know what they're doing.
+
+346
+00:38:09.630 --> 00:38:16.179
+Danny Park: But they don't know but it's not their fault right, for example, like, if those who work right, you've seen it before, like.
+
+347
+00:38:18.120 --> 00:38:22.660
+Danny Park: if you just have access to a tool and you're told, users will make you better
+
+348
+00:38:23.710 --> 00:38:33.049
+Danny Park: if the company doesn't tell you what digital literacy actually means, but how to get there? You're gonna assume that. Oh, I have this tool. Why am I not doing great stuff with it?
+
+349
+00:38:33.730 --> 00:38:42.790
+Danny Park: Then when someone asks you why you're not doing great self with it, you're gonna feel like you're doing something wrong. So that's why I'm trying to get at is that. And that's why you see the line here.
+
+350
+00:38:43.800 --> 00:38:46.340
+Danny Park: most of us right?
+
+351
+00:38:46.460 --> 00:38:54.130
+Danny Park:  who don't get to work for really global leaders in technology.
+
+352
+00:38:54.970 --> 00:38:59.869
+Danny Park: we're, we're told, you have the tool. So you're already good to go
+
+353
+00:39:03.390 --> 00:39:05.539
+Danny Park: right? And because of that
+
+354
+00:39:05.820 --> 00:39:10.109
+Danny Park: assumption that just cause you have the tool. It means you're a peer.
+
+355
+00:39:11.980 --> 00:39:13.660
+Danny Park: You get groups
+
+356
+00:39:13.960 --> 00:39:19.650
+Danny Park: just using technologies in a very incorrect way or in a complete way.
+
+357
+00:39:19.790 --> 00:39:34.090
+Danny Park: and they've been doing it so long is that when you try to introduce, introduce a new tool they're like, well, why, you gave me access to the tool before it didn't help me. I still, I am still not good at it, because they assume they're right. They assume it's them, not the actual
+
+358
+00:39:34.110 --> 00:39:46.059
+Danny Park: process of getting illiterate. Right. They don't want to adopt a new tool because they don't see the value in it, because they're like, well, cause that all that's all they know they think access is literacy.
+
+359
+00:39:46.090 --> 00:39:53.860
+Danny Park: So as business analysts as future Mbas, when you get in your organization, your goal is to build a path to digital literacy.
+
+360
+00:39:55.920 --> 00:40:05.649
+Danny Park: Right. Oh, and again, I'm not. I'm not. I'm not being biased towards Pw. I'm not loosing. I'm not saying that Peter is the best organization in the world. But here at Peterbc we have
+
+361
+00:40:05.940 --> 00:40:08.419
+Danny Park: distinct digital literacy roadmaps.
+
+362
+00:40:08.920 --> 00:40:13.860
+Danny Park: we have digital mindset badges like we are all expected to take like
+
+363
+00:40:14.250 --> 00:40:23.859
+Danny Park: a series of courses to where at the end, you get a badge, saying you are. You have past digital man, either digital minds the curriculum and then build upon that.
+
+364
+00:40:25.930 --> 00:40:37.990
+Danny Park: because here at, you know, here at Pwc. And most of other global firms, we understand that we have to get people digitally literate, or as not, everyone's gonna adopt, of course. But we're gonna get. We have to get as many people in our organization
+
+365
+00:40:38.310 --> 00:40:40.629
+Danny Park: going higher in this
+
+366
+00:40:41.010 --> 00:40:47.999
+Danny Park: hierarchy to get them as close to Literate as possible, because that's the only way for them to adopt the digital mindset.
+
+367
+00:40:51.220 --> 00:40:53.380
+Danny Park: So to some.
+
+368
+00:40:55.230 --> 00:41:02.659
+Danny Park: do not expect your team members to have a digital mindset. If you did not have a path for them to be digitally literate
+
+369
+00:41:03.980 --> 00:41:10.139
+Danny Park: and to be digitally literate, it's beyond just more than access. It's beyond more than use.
+
+370
+00:41:10.240 --> 00:41:20.610
+Danny Park: Right? Remember, use. It's like, you know, like navigation at. And I'll just using it. Normally. you have to help them understand why that tool exists, and the ecosystem of tools they have.
+
+371
+00:41:21.760 --> 00:41:34.049
+Danny Park: Why that? Why, why, that tool not only exists in their company, why exist in market, how it ties to other technology and other processes or other information systems. Remember, now, think information system now
+
+372
+00:41:36.230 --> 00:41:53.739
+Danny Park: and then, once they understand the purpose behind it in market and in their own organization, how it touches other systems, then they could create. So let me use Rpa robotic process automation as the example the good one. I think I seen a client create one automation that literally saved 1.3 million dollars
+
+373
+00:41:56.270 --> 00:41:58.419
+Danny Park: right? Because they understood
+
+374
+00:41:58.670 --> 00:42:00.569
+Danny Park: what Rp is meant to do.
+
+375
+00:42:00.630 --> 00:42:08.480
+Danny Park: They were very. They were very meticulous around training their team members. When Rpa is how it affects the information system
+
+376
+00:42:09.060 --> 00:42:17.009
+Danny Park: in the organization which technologies that it needs to bridge to why they need to do it in the organization and why Rpa exists in the market.
+
+377
+00:42:17.210 --> 00:42:19.160
+Danny Park: Then they let them create the box.
+
+378
+00:42:22.880 --> 00:42:24.869
+Danny Park: So that's the difference you get
+
+379
+00:42:25.360 --> 00:42:32.660
+Danny Park: between just giving people assuming access means literacy versus actually building a pipeline to be literate
+
+380
+00:42:35.870 --> 00:42:37.480
+Danny Park: and
+
+381
+00:42:38.540 --> 00:42:43.480
+Danny Park: to really tie all together. The best analogy is, it's like you're reading up like when you, when you learn how to read.
+
+382
+00:42:44.290 --> 00:42:57.620
+Danny Park: you don't start reading right at the Shakespeare level, you start with the Abcs first, and you understand how each word sounds. Letter sounds, and you have to understand how each letter sounds against the actual when it's combined with other letters.
+
+383
+00:42:58.620 --> 00:42:59.440
+Danny Park: Right?
+
+384
+00:43:03.610 --> 00:43:06.629
+Danny Park: Some letters sound different if they're
+
+385
+00:43:06.720 --> 00:43:08.310
+Danny Park: next to other letters.
+
+386
+00:43:09.080 --> 00:43:20.829
+Danny Park: So now you understand, like you, now you're using the language, then then you become understanding right context. When I speak I use like slang and things like that, or you understand the variations of the language.
+
+387
+00:43:21.810 --> 00:43:25.149
+Danny Park: So you know all the different, you know.
+
+388
+00:43:25.320 --> 00:43:33.819
+Danny Park: phrases, sayings, things like that. So now you're really communicating. Then, when you are really strong, communicated understanding language, then you can actually write a book
+
+389
+00:43:35.280 --> 00:43:39.130
+Danny Park: that are the people gonna read and go. Oh, this is such a good book, and you make your 1 million dollars
+
+390
+00:43:42.870 --> 00:43:50.680
+Danny Park: right? You should not assume technology. Is that straightforward and that easy where you could just give them access to it. And they could be Literate in a day or 2.
+
+391
+00:43:52.330 --> 00:43:55.550
+So now that comes down to after we. We're literate
+
+392
+00:43:55.860 --> 00:44:01.739
+Danny Park: right? Any any questions so far, any comments? Sorry. Just before I move on, Lennon, go ahead.
+
+393
+00:44:04.770 --> 00:44:06.540
+Leonard (Wess): I just have a quick
+
+394
+00:44:06.600 --> 00:44:29.560
+Leonard (Wess): example of of what? What were you just talking about? So at the school work? I work at this school in the Bronx, and they we built the studio production studio, where I teach, and they had other professors come in, and they showed them the equipment and told me had access to all this equipment. You know the cameras and different components and editing equipment and you know, screen boards and
+
+395
+00:44:29.600 --> 00:44:50.270
+Leonard (Wess): confidence monitors and things like that. But they never really taught anyone how to utilize the equipment. And since I already, you know, I already have a digital you know, knowledge of. I have knowledge about how to ha! I'm digitally savvy, and I saw know how to use this equipment already, like I didn't really need to go full. Go through like all the training.
+
+396
+00:44:50.270 --> 00:45:18.050
+Leonard (Wess): But, you know, like 6 months later, they were wondering like, Why isn't anyone using the equipment other than me? So I like started teaching this class, and then everyone else is looking at me like, well, how come you know how to do that? Cause you naturally have the digital mindset. You wanna imagine better ways and take better technology enabled ways of getting things done. No, that's awesome, Leonard, that really shows you leadership, the technology leadership. Yeah.
+
+397
+00:45:18.110 --> 00:45:21.740
+Danny Park: But I. But I like I I'm hoping
+
+398
+00:45:22.340 --> 00:45:23.190
+Danny Park: that
+
+399
+00:45:23.570 --> 00:45:27.730
+Danny Park: you know, as a group, we're understanding why this is so important.
+
+400
+00:45:27.870 --> 00:45:37.050
+Danny Park: like the digital literacy part. And you and and we have to build, we have to build toward the digital mindset. So once we have digital mindset.
+
+401
+00:45:37.660 --> 00:45:42.409
+Danny Park: then we're gonna start understanding the difference between digitization and digitalization.
+
+402
+00:45:42.500 --> 00:45:48.760
+Danny Park: Right? These 2, these 2, these 2 concepts are very important for us
+
+403
+00:45:48.820 --> 00:45:52.910
+Danny Park: to take away as business analysts on the data side.
+
+404
+00:45:53.420 --> 00:45:55.969
+Danny Park: Right? So what is digitization.
+
+405
+00:45:56.440 --> 00:46:04.619
+Danny Park: Digitization is a process of converting analog, right? Meaning things are not data or digital into a digital format.
+
+406
+00:46:05.220 --> 00:46:08.449
+Danny Park: Right? And this kind of goes back to my earlier comment of.
+
+407
+00:46:08.790 --> 00:46:19.679
+Danny Park: there's a lot of knowledge and information that's shared. That's not in digital form. As analog, right? It's people talking. It's like me speaking now, I'm sharing all I know in knowledge.
+
+408
+00:46:20.290 --> 00:46:26.360
+Danny Park: and is being captured luckily in digital format by zoom, and also zoom script
+
+409
+00:46:28.080 --> 00:46:34.570
+Danny Park: right? But how many other times do we have conversations in our lives where we're sharing knowledge with one another
+
+410
+00:46:35.270 --> 00:46:40.770
+Danny Park: that sometimes it's only knowledge experiences that one person knows but is never captured anywhere.
+
+411
+00:46:42.760 --> 00:46:43.560
+Danny Park: So
+
+412
+00:46:43.740 --> 00:46:53.170
+Danny Park: as future looking business analysts, we have to figure out, okay, what's the right balance? What do we need to actually get in digital format which things
+
+413
+00:46:53.240 --> 00:46:54.440
+Danny Park: we don't have to.
+
+414
+00:46:54.860 --> 00:46:57.799
+Danny Park: To Natalia's earlier point, there's a cost element to it.
+
+415
+00:46:59.460 --> 00:47:09.959
+Danny Park: But to know the balance of what to digit, digitize. That's a business analyst function, because you need to understand the business and the data.
+
+416
+00:47:10.140 --> 00:47:22.020
+Danny Park: remember, and the business and data, they have more. Right? I I'm always gonna go back to I wanna I wanna remind ourselves, remember, the data side has did a life cycle data infrastructure and all those things that we covered. So far.
+
+417
+00:47:22.880 --> 00:47:25.080
+Danny Park: So we have to balance those things out.
+
+418
+00:47:26.160 --> 00:47:26.980
+Danny Park: Okay?
+
+419
+00:47:27.580 --> 00:47:32.610
+Danny Park: And then after you digitize. So you have the data that you need
+
+420
+00:47:32.680 --> 00:47:34.130
+Danny Park: to be able to
+
+421
+00:47:34.170 --> 00:47:37.140
+Danny Park: create or do analytics on.
+
+422
+00:47:37.420 --> 00:47:40.629
+Danny Park: Then we could start talking about digitalization.
+
+423
+00:47:41.620 --> 00:47:48.049
+Danny Park: right? Which is bringing or using digital technologies to transform enhanced business processes.
+
+424
+00:47:49.430 --> 00:47:50.200
+Danny Park: Right?
+
+425
+00:47:50.710 --> 00:47:56.390
+Danny Park: And I'll use Jen and I as an example, kind of bringing that up right tying back that example is
+
+426
+00:47:57.250 --> 00:48:08.179
+Danny Park: we want, we want to create this digital digital technology called generative AI. The value of denariative a. I is driven by the value of what we teach it.
+
+427
+00:48:08.840 --> 00:48:11.739
+Danny Park: So if we didn't digitize knowledge
+
+428
+00:48:13.070 --> 00:48:16.529
+Danny Park: and information very key things.
+
+429
+00:48:17.310 --> 00:48:21.589
+Danny Park: then, how are we? How are we going to digitalize it?
+
+430
+00:48:22.760 --> 00:48:28.780
+Danny Park: Right? Meaning how we gonna create the digital technology, it's gonna help us the way we transform the way we work.
+
+431
+00:48:33.810 --> 00:48:38.090
+Danny Park: So these 2 are always interchanging back and forth.
+
+432
+00:48:38.820 --> 00:48:41.090
+Danny Park: These 2 are the culmination
+
+433
+00:48:41.620 --> 00:48:47.200
+Danny Park: of the digital mindset, which is the result of digital literacy.
+
+434
+00:48:48.830 --> 00:48:51.369
+Danny Park: We cannot be business analysts
+
+435
+00:48:52.520 --> 00:48:56.150
+Danny Park: if we are not doing these 2 things.
+
+436
+00:48:57.500 --> 00:49:06.310
+Danny Park: because how can we ever assess data quality if we don't have a mind to, hey? Did you actually capture knowledge and digital format?
+
+437
+00:49:12.270 --> 00:49:13.810
+Danny Park: Very important.
+
+438
+00:49:15.440 --> 00:49:20.350
+Danny Park: especially those with an Mba degree? Donald. Donald, go ahead.
+
+439
+00:49:20.650 --> 00:49:34.120
+Donald Rada: Yeah, Professor. Have you heard about the Sats being Computer version. Now. they're transitioning to it. Would you consider that being digitization or digitalization? Or is it a combination of both.
+
+440
+00:49:35.870 --> 00:49:45.480
+Danny Park: No, it's a combination of both. I mean, it's a system that's gonna it's gonna capture responses to digitize responses. And it's gonna great. It's like the Cp exams. But
+
+441
+00:49:45.640 --> 00:49:52.010
+Danny Park: to get to get that platform the Sats right like the the back engine of it.
+
+442
+00:49:52.120 --> 00:49:56.829
+Danny Park: It was just a it was a complete interaction between digitization, digitalization.
+
+443
+00:49:57.210 --> 00:50:05.740
+Danny Park: Great question. By the way, Don. So every every technology that we have that's AI and fuse has been this partnership between digitization digitalization.
+
+444
+00:50:07.500 --> 00:50:17.050
+Danny Park: And how do we know that those companies aware of these 2 interactions is when you look at? I think we, I, we mentioned this about Chat Gbt, when you go chat, Gbt has a giant disclaimer on there.
+
+445
+00:50:18.740 --> 00:50:30.210
+Danny Park: right? It's basically telling you we're as good as the data that we captured. But when we actually think about is like, Okay, you're as good as the data you capture. The data you capture depends on what you actually digitize.
+
+446
+00:50:34.890 --> 00:50:42.989
+Danny Park: Right? So it's it's very again like. And this reason why this is important, because everyone in this room, if you so choose
+
+447
+00:50:43.030 --> 00:50:46.780
+Danny Park: right to to go as far as you want, you will be executives one day.
+
+448
+00:50:47.780 --> 00:50:55.629
+Danny Park: All executives today, in my opinion, are all tech executives. If you don't have these 2 things in mind, you don't know how to run a business
+
+449
+00:50:57.020 --> 00:51:11.539
+Danny Park: right cause. Everything right now is so data infused that if you have a process and you know that process and manual, but that manual process is so important that capturing the key data points that come out of that process being executed, can feed
+
+450
+00:51:11.580 --> 00:51:17.860
+Danny Park: or inform other technologies to make those technologies better, you should be digitizing it.
+
+451
+00:51:18.280 --> 00:51:24.820
+Danny Park: But if these 2 concepts are the furthest from your mind, what are you actually leading? Where are you leading your company into.
+
+452
+00:51:26.140 --> 00:51:27.619
+Danny Park: Besides the Stone Age
+
+453
+00:51:29.320 --> 00:51:32.940
+Danny Park: compared to the other companies whose executives have these 2 things in mind
+
+454
+00:51:33.410 --> 00:51:35.240
+Danny Park: continuously every day.
+
+455
+00:51:37.570 --> 00:51:44.919
+Danny Park: and they're bringing their individual employees up the path visual literacy so they can digitize things
+
+456
+00:51:44.980 --> 00:51:48.179
+Danny Park: for the company. So the company can't digital lies.
+
+457
+00:51:50.210 --> 00:51:51.980
+Danny Park: I remember digital literacy
+
+458
+00:51:53.010 --> 00:51:55.760
+Danny Park: create. You're digitizing
+
+459
+00:52:00.830 --> 00:52:09.819
+Danny Park: right. So then, to cap off the last like 1015 min, let's talk about which industries haven't really caught up
+
+460
+00:52:11.960 --> 00:52:21.960
+Danny Park: right with digitization, meaning which industries are really have transformed the manual way of working into a digital format
+
+461
+00:52:22.820 --> 00:52:23.790
+Danny Park: whose member
+
+462
+00:52:24.080 --> 00:52:39.439
+Danny Park: everyone started in the Stone Age right? And then we had an industrial revolution. We. Everyone was writing things on paper. Then the computer was invented. The computer was invented. So people can digitize to communicate better and to build better technologies.
+
+463
+00:52:39.720 --> 00:52:48.470
+Danny Park: But and just I actually, wanna bring wanna bring it into really focus. The purpose of the it. Age was to basically do these 2 things.
+
+464
+00:52:49.980 --> 00:52:54.660
+Danny Park: So there are some companies that have been better at digitization than others
+
+465
+00:52:55.170 --> 00:52:59.680
+Danny Park: to Natalia's point. Right? You have to have a
+
+466
+00:53:00.100 --> 00:53:04.949
+Danny Park: cost benefit. So when we look at this, when we look at this chart.
+
+467
+00:53:05.380 --> 00:53:09.000
+Danny Park: it's not like, Oh, boo-hoo! You're so bad at digitization.
+
+468
+00:53:09.240 --> 00:53:14.680
+Danny Park: We have to apply our digital analysis skills and go. Oh, why why are they not digitizing
+
+469
+00:53:15.260 --> 00:53:17.449
+Danny Park: like what's really holding them back?
+
+470
+00:53:17.760 --> 00:53:25.559
+Danny Park: Right? Is it a people gap? Is it a technology gap? Is it a cultural gap like you have to talk about these things
+
+471
+00:53:25.620 --> 00:53:31.019
+Danny Park: right? Cause one. Everyone in this room will be in one of these industries.
+
+472
+00:53:31.380 --> 00:53:41.450
+Danny Park: So if we're in one of these industries. As a business leader with a foundation of business analytics, we have to at least know where where we are
+
+473
+00:53:41.610 --> 00:53:44.369
+Danny Park: right, what industry are in and where are we in digitization
+
+474
+00:53:44.390 --> 00:53:47.890
+Danny Park: right on Natalia? Go ahead. And then, Eugenia, go ahead after.
+
+475
+00:53:48.560 --> 00:54:04.779
+Natallia’s iPhone: Yeah, you were asking. I don't know if it's the time to give examples like which companies or industries they're good at. Okay? So I think II can think of 3 that are clearly sending out so like accounting. Right used to be all on the paper.
+
+476
+00:54:04.800 --> 00:54:31.419
+Natallia’s iPhone: Now it's all in in the systems. And similarly with the finance like Stock Exchange, right? It used to be papers. You know, the brokers filling out orders and the papers. Now it's all electronic. And then another thing I can think of completely different is the medical billing is all digitized used to be also, you know, manually submitted.
+
+477
+00:54:31.600 --> 00:54:34.620
+Danny Park: and health care side on the private hospitals.
+
+478
+00:54:34.730 --> 00:54:48.239
+Danny Park: The government side, anyone on the Government side of healthcare. You know all the paperwork there. But but absolutely, I agree, like great examples, and you'll see on this chart how professional services
+
+479
+00:54:48.280 --> 00:54:50.920
+Danny Park: right? Which is the accounting
+
+480
+00:54:50.940 --> 00:54:55.620
+Danny Park: right counting. And you know the Big 4 and things like that, you see, like almost everything's green
+
+481
+00:54:57.010 --> 00:55:09.109
+Danny Park: right? And then finance right? Natalia also mentioned almost everything's green to like green. So they're they're they're getting up there. And you see all the red ones here, right? Like agricultural hunting like, okay, when you shoot a dock, you know, do you have to like register that
+
+482
+00:55:09.440 --> 00:55:20.430
+Danny Park: on a tablet? Right? But but when we look at this from a business, analytical perspective, right? Business analytics, meaning business and data. Right? We go. Wait a minute.
+
+483
+00:55:20.760 --> 00:55:27.450
+Danny Park: And and agricultural hunting. Right? Is there some business problem in agricultural hunting
+
+484
+00:55:27.740 --> 00:55:29.589
+Danny Park: that, let's say a drone
+
+485
+00:55:30.570 --> 00:55:33.699
+Danny Park: right can help digitize and map
+
+486
+00:55:33.820 --> 00:55:34.930
+Danny Park: area
+
+487
+00:55:35.310 --> 00:55:40.280
+Danny Park: and then capture or be able to identify. Let's say, the movement of locusts.
+
+488
+00:55:41.050 --> 00:55:49.079
+Danny Park: those data points and then provide you a predictive analytics and also prescriptive on where they're going to go and how to hit them.
+
+489
+00:55:49.140 --> 00:55:52.110
+Danny Park: Meaning, what should you do to to kill the locusts?
+
+490
+00:55:53.320 --> 00:55:57.280
+Danny Park: Right? Maybe that's a really great future looking technology
+
+491
+00:55:57.420 --> 00:56:07.880
+Danny Park: solution. Right? So like, this is what this map is for. Again. It's not about Boo! Hoo! It's like we have to think through and go. Oh, wait a minute. All the red are the opportunity areas
+
+492
+00:56:09.210 --> 00:56:20.740
+Danny Park: where, if I'm a consultant, or if I'm a business analyst and want to go work for that industry, I know III want to go figure out how to make a name for myself right Eugenia. Go ahead.
+
+493
+00:56:21.000 --> 00:56:23.340
+Harini: Oh, hello, yes.
+
+494
+00:56:23.360 --> 00:56:45.660
+Eugenia Salgado: Oh, oh, this is Virginia. Okay? So I was. I was about to add you to this like an example with the between the different digitalization and digitization. But I was thinking, on this, and do tell me if I'm correct or not. This is like on a specific example. So at Baruch, you.
+
+495
+00:56:45.660 --> 00:57:09.969
+Eugenia Salgado: Joni, when George as a student, if you're trying to pay in state tuition. You need to fill out a residency form. So digitization is like the process. They have right now that they give you the paper, the physically, the paper. You need to fill it out, even though the documents to submit to process that application and that form and the supporting documents. Everything is like hard copies.
+
+496
+00:57:10.310 --> 00:57:12.620
+Eugenia Salgado: and they process that that way.
+
+497
+00:57:12.740 --> 00:57:23.069
+Eugenia Salgado: That would be digitization. But if I wanna do the digitalization on this residency, one process is that I create that
+
+498
+00:57:23.090 --> 00:57:24.190
+Eugenia Salgado: form
+
+499
+00:57:24.360 --> 00:57:27.660
+Eugenia Salgado: so they can fill it out electronically.
+
+500
+00:57:27.810 --> 00:57:36.939
+Danny Park: It would. Yeah, correct. It would be like, instead of you filling it out manually on paper. They will probably pull from from other system that already has your data.
+
+501
+00:57:37.020 --> 00:57:42.099
+Danny Park: that. So that's digital like great example. That's digitalization.
+
+502
+00:57:42.120 --> 00:57:44.249
+Eugenia Salgado: Alright, absolutely. Yeah. You're welcome.
+
+503
+00:57:44.840 --> 00:57:54.580
+Harini: This is Harini Harini. Yeah. Yeah. So the the graph that you showed of the industries that have still not digitized
+
+504
+00:57:54.610 --> 00:58:00.049
+Harini:  after Covid. Don't you think this would have changed a bit.
+
+505
+00:58:00.390 --> 00:58:02.510
+Danny Park: Yeah, I know
+
+506
+00:58:03.220 --> 00:58:10.689
+Danny Park: me, too, but but obviously not right. But it's it's not
+
+507
+00:58:11.750 --> 00:58:21.150
+Danny Park: again. But it's not to say shame on you. Kind of thing, right? There's sometimes there are to contagious earlier point. There are some business pressures that would might prevent digitization.
+
+508
+00:58:21.450 --> 00:58:27.240
+Danny Park: But it's the business analyst role within that given industry to go wait a minute like, why, like.
+
+509
+00:58:28.000 --> 00:58:35.470
+Danny Park: let's get better and digitizing because we have to catch up with all this right? So I get, I think, the latest one. I think
+
+510
+00:58:35.730 --> 00:58:42.469
+Danny Park: it's not really to Covid. That's really good example, like you, you know. Really good question you you brought up. But it's retail.
+
+511
+00:58:43.140 --> 00:58:45.640
+Danny Park: So what's happening retail lately?
+
+512
+00:58:47.390 --> 00:58:49.200
+Danny Park: Anyone, it's like
+
+513
+00:58:50.460 --> 00:59:07.300
+Danny Park: lot of lot of digitization and retail. Right? Yeah, because, like, but they know they are. They're figuring out they have to get there. But what what is this? What is a business pressure happening that no one really expected for them to figure out, oh, my God! We gotta start digitizing.
+
+514
+00:59:08.140 --> 00:59:12.610
+Danny Park: you know. It's all yes, online shopping's one. But but there, there were some retail
+
+515
+00:59:12.670 --> 00:59:20.799
+Danny Park: that we're sort of resistant to online shopping, believe it or not. But what what have it been? Have? What have we been seeing in the news
+
+516
+00:59:21.130 --> 00:59:24.119
+Danny Park: that's making people talk about it.
+
+517
+00:59:25.470 --> 00:59:34.009
+Eugenia Salgado: That Joe, they are using how you call it that you paid yourself. There's no more people needed like as a cashier.
+
+518
+00:59:34.050 --> 00:59:38.889
+Danny Park: No, yeah, yeah, that, too. But but why like? But but there's a business issue
+
+519
+00:59:38.910 --> 00:59:47.100
+Danny Park: that's happy. Yeah. So the prices are going up. People cannot afford buying. So they have to cut somewhere.
+
+520
+00:59:47.430 --> 00:59:48.940
+Danny Park: Prices are going up.
+
+521
+00:59:49.190 --> 00:59:52.010
+Danny Park: And because prices are going up, theft is increasing.
+
+522
+00:59:52.330 --> 00:59:58.209
+Danny Park: Yeah, Yup, theft is increasing. They're like, Oh, my God.
+
+523
+00:59:59.110 --> 01:00:02.920
+Danny Park: we have to close doors. cause we're taking massive hits.
+
+524
+01:00:02.970 --> 01:00:13.530
+Danny Park: and when you hear theft it's not, it's not the theft that's driving revenue down is that when you hear people when you hear. When you see someone stealing from a store, you don't want to go back to the store
+
+525
+01:00:13.730 --> 01:00:15.589
+Danny Park: because things can get violent.
+
+526
+01:00:16.850 --> 01:00:18.640
+Danny Park: So theft.
+
+527
+01:00:18.960 --> 01:00:24.049
+Danny Park: High prices is increasing the the volume of theft
+
+528
+01:00:24.550 --> 01:00:25.450
+Danny Park: which is
+
+529
+01:00:25.730 --> 01:00:30.709
+Danny Park: creating behaviors with people going toward online shopping.
+
+530
+01:00:30.900 --> 01:00:35.020
+Danny Park: So Cbs and target are closing store at a rapid pace.
+
+531
+01:00:36.510 --> 01:00:41.619
+Danny Park: So they're like, Oh, oops. we need a digitization strategy.
+
+532
+01:00:42.090 --> 01:00:46.229
+Danny Park: So we could digitalize and get on the online market
+
+533
+01:00:48.240 --> 01:00:53.920
+Danny Park: right? So it's that type of business analysis, awareness
+
+534
+01:00:54.590 --> 01:00:59.239
+Danny Park: to understand how it's going to impact the data, analytics, strategy
+
+535
+01:01:00.460 --> 01:01:02.169
+Danny Park: and the eventual solution.
+
+536
+01:01:03.480 --> 01:01:15.069
+Danny Park: But all those things relate right to tell you hit the nail on the head price. Okay, price happened. And what happened after from business analysis, perspective, theft, what happens after theft, behavior change? What happened? Behavior change lowest revenue.
+
+537
+01:01:15.240 --> 01:01:18.950
+Danny Park: So those 4 things was that business analysis layer.
+
+538
+01:01:20.230 --> 01:01:24.849
+Danny Park: Then we go, wait a minute. How does it gonna impact the data? Now, we're putting our digital mindset hat on.
+
+539
+01:01:28.060 --> 01:01:31.120
+Danny Park: And we're like, Oh, we're gonna start. Got to start start thinking about this stuff
+
+540
+01:01:31.320 --> 01:01:41.579
+Danny Park: which analytics do we do to really prove out. We need to close those stores, which they did. By the way, they didn't just go close the stores. They applied some data analytics. They did descriptive analytics.
+
+541
+01:01:41.680 --> 01:01:52.919
+Danny Park: Then they did. Then it did predictive analytics, meaning what would happen if this level of theft keeps going up. And they said, What should we do next close the stores.
+
+542
+01:01:56.870 --> 01:01:59.389
+Danny Park: Folks that's Mba level thinking.
+
+543
+01:02:01.000 --> 01:02:02.569
+Danny Park: not multiple choice. Right?
+
+544
+01:02:06.700 --> 01:02:08.279
+Danny Park: Alright. So
+
+545
+01:02:11.920 --> 01:02:27.230
+Danny Park: this is pretty much the path that ends up happening. You digitize. Then you digitalize, then you digitally transform. So here's here. I'll I'll cover. Let's cover. I'll cover slide 9. I think we might continue on with this in our next session.
+
+546
+01:02:27.700 --> 01:02:29.040
+Danny Park: This is very important.
+
+547
+01:02:29.220 --> 01:02:32.739
+Danny Park: but I'll end the last 4 min with this is.
+
+548
+01:02:33.310 --> 01:02:36.840
+Danny Park: you see, a lot of the who here has a term digital transformation.
+
+549
+01:02:39.540 --> 01:02:54.259
+Danny Park: Yeah, I have heard this. Yeah, yeah, it's I'm sure many other people have. Right? Yeah, like, Avery, like, I'm I'm sure you guys see rules out there for digital transformation manager or some some something like that. Right? Okay? So here's where a lot of firms go wrong.
+
+550
+01:02:54.450 --> 01:02:56.710
+Danny Park: Just like how we talk about digital literacy.
+
+551
+01:02:57.710 --> 01:03:02.559
+Danny Park: Right? We go to digital literacy slide. We see people thinking that you just give them access.
+
+552
+01:03:02.690 --> 01:03:07.389
+Danny Park: Then all of a sudden, they're literate. right? This. So this is a tactical level.
+
+553
+01:03:08.150 --> 01:03:13.369
+Danny Park: right? Tactical meaning. You're getting people to do something so tactically, they're making a mistake.
+
+554
+01:03:13.570 --> 01:03:16.039
+They thinking you give access. Then they get Literate
+
+555
+01:03:16.400 --> 01:03:20.960
+Danny Park: strategically. Unfortunately, some companies make the same mistake.
+
+556
+01:03:22.410 --> 01:03:24.340
+Danny Park: They go from
+
+557
+01:03:25.910 --> 01:03:37.309
+Danny Park: almost nothing to digital transformation. So let me. So digital transformation is is a series of deep and coordinated culture
+
+558
+01:03:37.590 --> 01:03:50.159
+Danny Park: workforce and technology shifts that enable a new educational operating model and transforming in institutions. Basically, you're transforming the entire way of doing business.
+
+559
+01:03:50.890 --> 01:03:52.840
+Danny Park: That's digital transformation.
+
+560
+01:03:54.060 --> 01:03:59.270
+Danny Park: What many people confuse digital transformation with. They confuse it with digitization.
+
+561
+01:04:01.190 --> 01:04:03.800
+Danny Park: So when I'm working.
+
+562
+01:04:03.850 --> 01:04:11.689
+Danny Park: and I'm hearing, you know, friends and colleagues and and clients say, Oh, we're in a digital transformation program.
+
+563
+01:04:11.910 --> 01:04:15.390
+Danny Park: We're digitally transforming. And I go. Oh, what are you doing?
+
+564
+01:04:15.480 --> 01:04:20.470
+Danny Park: They go. Oh, we're we. We started to put things into digital format.
+
+565
+01:04:21.840 --> 01:04:24.329
+Danny Park: So I'm like, you're how you digital transforming?
+
+566
+01:04:26.210 --> 01:04:29.159
+Danny Park: Right? You are literally in digitization mode.
+
+567
+01:04:30.690 --> 01:04:36.929
+Danny Park: So why is that important? Why is that important right? Why? Why is that important to know that that they're wrong?
+
+568
+01:04:37.120 --> 01:04:41.260
+Danny Park: Why confusing digital transformation with digitization is completely wrong.
+
+569
+01:04:42.500 --> 01:04:45.100
+Danny Park: Digital transformation means
+
+570
+01:04:45.540 --> 01:04:54.099
+Danny Park: that you're trying to compete in a different way. If, strategically, your milestones are based on how to do things different.
+
+571
+01:04:54.800 --> 01:04:59.550
+Danny Park: Usually your human capital strategy is going to hire
+
+572
+01:04:59.930 --> 01:05:05.540
+Danny Park: for individuals who want, who want to step in and do something very new.
+
+573
+01:05:07.230 --> 01:05:19.209
+Danny Park: If someone comes in or hire to do something new that no one has done before. But the rest of the organization stuck on trying to get what they do today. Digital.
+
+574
+01:05:20.880 --> 01:05:23.130
+Danny Park: How do you think that interaction is going to play out.
+
+575
+01:05:25.770 --> 01:05:27.399
+Danny Park: It's gonna be, it's gonna go south.
+
+576
+01:05:29.280 --> 01:05:30.570
+Danny Park: Right? So
+
+577
+01:05:34.180 --> 01:05:43.850
+Danny Park: this slide, the important part is to digitally transform. You have to go through your stages of digitization and then digitalization, then digital transformation.
+
+578
+01:05:44.050 --> 01:05:46.560
+But before these 3 things can happen.
+
+579
+01:05:47.190 --> 01:05:50.150
+Danny Park: right? You need people to
+
+580
+01:05:50.230 --> 01:05:57.559
+Danny Park: be digitally literate. then to adopt a digital mindset. So digital literacy starts first
+
+581
+01:05:57.950 --> 01:06:03.629
+Danny Park: so they can adopt the digital mind set to understand how and what to digitize.
+
+582
+01:06:03.740 --> 01:06:12.199
+Danny Park: Then, after you digitize and you start getting more information in a digital format. Then you start to create technologies.
+
+583
+01:06:12.610 --> 01:06:23.610
+Danny Park: to make process or to automate processes. And once you have a good collection of manual processes that are now automated. Then you can start transforming
+
+584
+01:06:23.880 --> 01:06:26.040
+Danny Park: how you want to do business.
+
+585
+01:06:26.620 --> 01:06:44.320
+Danny Park: because now you're providing new value propositions to clients and other internal customers saying, Hey, we automated this stuff. It's more accurate. It's faster. What opportunities can we leverage in the market to take on? Maybe like for Amazon, for example, they were selling books. Now they're making movies.
+
+586
+01:06:46.880 --> 01:06:48.360
+Danny Park: Think about Amazon.
+
+587
+01:06:48.620 --> 01:06:51.390
+Danny Park: Amazon literally does this.
+
+588
+01:06:51.410 --> 01:06:52.910
+Danny Park: Over and over again
+
+589
+01:06:53.110 --> 01:07:00.820
+Danny Park: they went from selling physical books to then digitizing those books into digital format
+
+590
+01:07:01.310 --> 01:07:07.879
+Danny Park: that as it became digital format, they were creating a gathering, a lot of content and licensing
+
+591
+01:07:08.300 --> 01:07:10.400
+Danny Park: to start building products.
+
+592
+01:07:10.690 --> 01:07:25.530
+Danny Park: digitalization to build products to deliver you that digitized content of that book. Then they're able to. Now, because all the experience they have in digitization digitalizes the
+
+593
+01:07:25.590 --> 01:07:29.279
+Danny Park: lizing to build your movies and TV shows.
+
+594
+01:07:32.670 --> 01:07:38.970
+Danny Park: That's digital transformation. Amazon. Google Meta.
+
+595
+01:07:41.070 --> 01:07:48.029
+Danny Park: Only very few organizations in industry have actually achieved digital transformation. And they do it very well.
+
+596
+01:07:50.530 --> 01:07:57.689
+Danny Park: Not many organizations have gone there. They say they have gone to their departments, and people who do it, but there have not been there.
+
+597
+01:07:58.930 --> 01:08:08.239
+Danny Park: They're either in digitize, digitize, digitization or digitalization. They're either one of these 2 things, and sometimes they actually sit here and cycles.
+
+598
+01:08:08.690 --> 01:08:10.159
+Danny Park: and they never get to hear
+
+599
+01:08:11.200 --> 01:08:14.840
+Danny Park: to Leonard's point because they can't scale.
+
+600
+01:08:17.640 --> 01:08:19.459
+Danny Park: So the example of Mckinsey.
+
+601
+01:08:20.939 --> 01:08:24.999
+Danny Park: right? Mckenzie, the example of where they digitize their knowledge.
+
+602
+01:08:25.380 --> 01:08:32.050
+Danny Park: then they digitalize it by building a technology that disseminates that digitized knowledge.
+
+603
+01:08:32.560 --> 01:08:39.089
+Danny Park: Then they could. Then they, and arguably had digitally transformed because they transformed their whole entire business model.
+
+604
+01:08:44.979 --> 01:08:53.759
+Danny Park: So we're we'll end here. But before we end, and we'll pick this back up next next our next session. Any questions, comments
+
+605
+01:08:55.609 --> 01:09:00.359
+Danny Park: Hope. This was another like hopefully. There's another interesting session. Hope there's a lot of learnings from it.
+
+606
+01:09:00.420 --> 01:09:17.220
+Danny Park: If there any questions again, feel free to email me, set up office hours with me as well. especially with career stuff. I love. Talk about career stuff as well. And then no other further questions or comments. Everyone have a great night and great weekend, and see you next week.
+
+607
+01:09:17.460 --> 01:09:21.890
+Leonard (Wess): Thank you very much for you, too.
+
+608
+01:09:21.960 --> 01:09:24.970
+Esaline Jarvis: Thank you, Professor. Thank you. Have a good night, Professor.
+

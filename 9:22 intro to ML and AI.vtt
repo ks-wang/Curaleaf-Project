@@ -1,0 +1,2926 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:00.950
+Danny Park: A recording.
+
+2
+00:00:02.320 --> 00:00:07.190
+Danny Park: All right. So AI, alright. So you know, we we hear these
+
+3
+00:00:07.220 --> 00:00:22.380
+Danny Park: th, the 3 big main terms around a lot lately. I mean E, even before Jen Jen AI and and Elon coming up, and Meta talk about the metaverse like back when I was in my Mba program. I mean Mba days.
+
+4
+00:00:22.710 --> 00:00:29.969
+Danny Park: you know, deep learning machine learning. AI, that's all over that. It was also all over the place, right with with Watson and what Ibm was doing.
+
+5
+00:00:30.230 --> 00:00:52.139
+Danny Park: So it's been around right? So so that the the the field of artificial intelligence research, right? It actually was launched in 1960. S. So II kinda wanna start out with that right? Because because when I speak to a lot of students, they think, Oh, it's something new that came up with like the the when the Internet was born. That's when AI kind of started. That's not true. The actual research behind.
+
+6
+00:00:52.140 --> 00:01:04.669
+Danny Park: can we get machines or a computer to mimic human behavior. That concept has been around even before in a 19 sixties. Right? Like, you know, the you know things. You know, we? We see evidence in.
+
+7
+00:01:04.860 --> 00:01:19.649
+Danny Park: and architecture and and and and writings you know, dated back into like, you know, the early early Middle Ages, where it talks about like, and even to Leon Leonardo da Vinci days talking about, can we bring in human
+
+8
+00:01:19.980 --> 00:01:30.760
+Danny Park: perception into something not human? So it's been around the 1960. S, so that's like, when we talk about AI, it's like, that's like the overall umbrella
+
+9
+00:01:30.920 --> 00:01:38.420
+Danny Park: under AI, right? We have what then. Now, we call machine learning. So machine learning is the mechanism
+
+10
+00:01:38.850 --> 00:01:41.250
+Danny Park: that we use to teach
+
+11
+00:01:41.520 --> 00:01:43.980
+Danny Park: some non-human system
+
+12
+00:01:43.990 --> 00:01:55.850
+Danny Park: to think or behave like a human being right? And when we think when we hear like machine learning models, and we'll which we'll get to later on. That's what they're talking about, right? Because there's there's a way to teach
+
+13
+00:01:56.620 --> 00:02:00.840
+Danny Park: a system just like how a human being needs to be taught something.
+
+14
+00:02:00.910 --> 00:02:15.999
+Danny Park: And when you teach a system something, you expect some answer back within reason. There. It's the same type of concept. So we'll talk about that. Then under the umbrella machine learning, we have some of these advanced
+
+15
+00:02:16.910 --> 00:02:35.940
+Danny Park: learning or teaching mechanisms for these systems. If we call that deep learning. Okay, so that's where these 3 bigger umbrella concepts are coming from. Just wanna make sure that we have a, you know, we start with a good definition, because I don't want people to, and to change these 3, because these 3 things are very specific, but also related
+
+16
+00:02:36.390 --> 00:02:39.630
+Danny Park: alright. So going into
+
+17
+00:02:40.760 --> 00:02:57.920
+Danny Park: the the categories of AI. And this is where it's it. This is like starting to evolve a little bit. I'm gonna give the current definitions as as we understand it today. But with Jenai coming out and with all the other research coming through with like from Boston dynamics.
+
+18
+00:02:57.960 --> 00:03:19.150
+Danny Park: north of Grumman, and then, and some of the military contracting companies that, developing these advanced technologies. Some of these, some of these examples of of these categories, we might see them very shortly. Okay, so they're 3 general categories of artificial intelligence. Right? So the 3, the 3 main general ones are
+
+19
+00:03:19.630 --> 00:03:21.100
+Danny Park: weak, AI,
+
+20
+00:03:22.210 --> 00:03:30.070
+Danny Park: strong or general. AI, and then a concept called super intelligence. Okay, so
+
+21
+00:03:30.290 --> 00:03:31.770
+Danny Park: weak. AI,
+
+22
+00:03:31.990 --> 00:03:42.480
+Danny Park: right? What is it? So it's when a computer. Right? We could, we could define computer as a non-human system for the topic of artificial intelligence. Right? So it's a when a computer is good
+
+23
+00:03:42.530 --> 00:03:47.389
+Danny Park: or better than the average person at one particular task.
+
+24
+00:03:47.940 --> 00:03:58.160
+Danny Park: Right? And there, and most of examples of AI are actually sit under weak. They actually are categorized as weak AI, right, for example, on deep blue
+
+25
+00:03:58.280 --> 00:04:01.070
+Danny Park: is, you know, when I was growing up
+
+26
+00:04:01.280 --> 00:04:07.230
+Danny Park: with with with with, you know, around the world of chess like deep blue, beating world champions. That was a huge deal.
+
+27
+00:04:07.400 --> 00:04:21.059
+Danny Park: and it was, you know, it was learning from playing with these world champions and figuring out how to beat them. Right? So that's an that's an example of of weak AI. Although really good in chess, a very strong chess player
+
+28
+00:04:21.630 --> 00:04:25.960
+Danny Park: overall when we compare it against what we want AI to do
+
+29
+00:04:27.090 --> 00:04:30.020
+Danny Park: by, you know, with mimicking actual human
+
+30
+00:04:30.270 --> 00:04:40.840
+Danny Park: ability. It's weak because it only does. One thing only plays chess right, siri, is another example. If you want to use a modern day example by Siri, where you know you, you
+
+31
+00:04:41.060 --> 00:04:59.679
+Danny Park: take your iphone and you give it. You know questions and responses, and it's gonna give you some type of answer back. That's useful. It, that's all it does. It's very good right at deciphering your your context and your language, and what you're looking for, and giving you some variation or something that's useful to you. It's very good at dad, right?
+
+32
+00:04:59.860 --> 00:05:09.939
+Danny Park: But it's not. It's again. It's it's that's all. It does right. It can't walk around. It can't serve you. Food. It can't. It can't do your taxes. There's only one thing.
+
+33
+00:05:10.010 --> 00:05:36.300
+Danny Park: So almost all of the of the AI tools and and and technologies that we use today. Or actually, they're they're weak again, weak. Meaning. Not that they're not good at what they do, because Gen. AI is a very useful, very powerful software and tool for us to leverage to be absolutely, incredibly productive. But again, that's all it does it? It doesn't mimic all of the human capabilities that we want in AI system.
+
+34
+00:05:38.050 --> 00:05:39.449
+Danny Park: Any questions here.
+
+35
+00:05:39.890 --> 00:05:52.200
+Danny Park: So I want to make sure that because I don't want people to take away like Gen. AI is weak. It's not, I mean, weak meaning like it's a very powerful tool. But we have to understand the context of how we're describing AI capabilities.
+
+36
+00:05:52.430 --> 00:05:53.110
+Okay.
+
+37
+00:05:53.850 --> 00:05:56.280
+Danny Park: the next category
+
+38
+00:05:56.360 --> 00:06:08.690
+Danny Park: right is strong or a general AI, so strong a general AI is when a computer can mimic human behavior precisely and be better than the average person at all human tasks?
+
+39
+00:06:09.460 --> 00:06:20.389
+Danny Park: Right? It can find the logical reasoning draw conclusions and create associations. It can teach itself. So in theory, it can adjust to the environment changes and solve emerging problems.
+
+40
+00:06:20.910 --> 00:06:24.839
+Danny Park: Right? There are no examples of General AI.
+
+41
+00:06:25.450 --> 00:06:35.790
+Danny Park: There are examples. If we bring together these weak AI tools together, let's say you have Boston dynamics robot machine right? And then you put in.
+
+42
+00:06:36.450 --> 00:06:53.109
+Danny Park: you know, large language models. Right? You put in some machine visioning. You put in some, you know, biomaterial. So we could actually mimic human touch. So if you're bringing all these tools together, then you could probably one day get to a strong or general AI.
+
+43
+00:06:53.200 --> 00:06:55.609
+Danny Park: But today there are no examples of it.
+
+44
+00:06:55.710 --> 00:07:14.239
+Danny Park: Right? And and and most examples that we see about good or strong or general. AI are in the movies, right things like AI or Irobot, those movies where you have, like the sentient being walking around and mimicking human behavior and intellect and being able to respond and learn from the environment that we don't see that today
+
+45
+00:07:14.690 --> 00:07:21.870
+Danny Park: we see glimpses of it now, right like we had that company that built that built that android right?
+
+46
+00:07:22.310 --> 00:07:30.759
+Danny Park: Look at human face is talking about it. There's another company. You know again, like Boston dynamic dynamics building out a robot that can actually do per core now
+
+47
+00:07:30.850 --> 00:07:34.830
+Danny Park: by literally like doing like crossfit routines.
+
+48
+00:07:34.860 --> 00:07:36.320
+Danny Park: like a human being.
+
+49
+00:07:36.740 --> 00:07:45.119
+Danny Park: Right? So we have instance of it where we have, where we have examples, where it can be be strong in general. AI. But we're not there yet.
+
+50
+00:07:46.260 --> 00:07:55.860
+Danny Park: Okay? And then. So no here. So humanoid robots it's the humanoid robots are not did that they don't do all human tasks yet. And that's the key.
+
+51
+00:07:56.830 --> 00:08:05.480
+Danny Park: right? All human tasks right now. A lot of the technologies that we see will probably be in between weak and strong. General AI. So that's why I said
+
+52
+00:08:05.500 --> 00:08:11.930
+Danny Park: these definitions, these categories, we're gonna start seeing more examples be put into Jane AI. As we further along.
+
+53
+00:08:12.130 --> 00:08:16.480
+Danny Park: The the research cycles. And I think that's where most comp most
+
+54
+00:08:16.690 --> 00:08:18.160
+Danny Park: logistics
+
+55
+00:08:18.340 --> 00:08:41.050
+Danny Park: or like manufacturing companies are trying to get to. And that's where we kinda have to. A as Mbas. I know in from an Mba perspective, a lot of us are focusing on finance and accounting right? So when we see Jane AI, we go. Wow! Jane. AI, so cool, so powerful cause. It helps finance the accounting. But we have to think about business outside of finance and accounting right? Because finance and accounting are just the end product.
+
+56
+00:08:41.210 --> 00:09:07.420
+Danny Park: the end of the actual business value chain where people are moving around. They're doing business transactions. Shipments are being moved from one place to another, and all these great things are happening that gets logged in as transactions that founding. Finance accounting, you know, looks at to do our analysis. So from that world. AI, as the actual tool, base or capability is still lacking.
+
+57
+00:09:07.740 --> 00:09:19.440
+Danny Park: So when we talk about AI is gonna take over the world, or AI is gonna replace humans. That is not true and very far from the truth, because there's no robot.
+
+58
+00:09:19.570 --> 00:09:24.869
+Danny Park: or or or or sentient being that could do all human tasks
+
+59
+00:09:25.650 --> 00:09:40.560
+Danny Park: better at all forget about being better than them? Who can actually do logistics or do business transactions like literally get up, move around and move things around and things like that. So we have to put that into a a consideration. When we talk about AI.
+
+60
+00:09:41.420 --> 00:09:43.109
+Danny Park: Any questions here? So far?
+
+61
+00:09:48.360 --> 00:09:51.350
+Danny Park: All right, any any comments. Thoughts.
+
+62
+00:09:54.030 --> 00:09:57.109
+Qudratullah Yousufi: Yes, Professor, I have a question like,
+
+63
+00:09:57.370 --> 00:10:13.859
+Danny Park: is there any kind of a difference between week AI and General AI like this is a level, or like the like, the Co like, is it a general computer with the quantum computer difference like that or no. No, it's it's all about capability, about tasks.
+
+64
+00:10:13.950 --> 00:10:22.999
+Danny Park: So you we can't. So weak. AI, A, for example, Gen. AI is, is weak because it only does.
+
+65
+00:10:23.140 --> 00:10:30.079
+Danny Park: It's only a large language model. It's only good for, let's say, accountants, or or
+
+66
+00:10:31.140 --> 00:10:43.640
+Danny Park: or finance people or marketers to get them a a good start on what they need to get done. But if you put Jenny I
+
+67
+00:10:44.200 --> 00:10:51.339
+Danny Park: in front of a like a logistics person right. This logistics person has to go and move containers
+
+68
+00:10:51.460 --> 00:11:13.549
+Danny Park: right, and he needs a field of people to go ahead and run the machines to run the field. The Comp. Feel the the machine, you know, feel the do the operations? What uses Gene AI to that person? It's not because there's nothing that Jane AI provides that's gonna provide any extra productivity for that person who's in the shipyard if I'm doing their day to day. So because
+
+69
+00:11:13.650 --> 00:11:22.590
+Danny Park: Jnai has only one specific is really strong in one particular task out of many human tasks that we need.
+
+70
+00:11:22.860 --> 00:11:24.519
+Danny Park: it's considered weak.
+
+71
+00:11:24.740 --> 00:11:38.529
+Danny Park: strong. AI, strong. General AI, if one would exist, would be literally a sentient being, a robot that would stand next to this logistics ship shipping person and do everything for that shipping person.
+
+72
+00:11:38.680 --> 00:11:44.610
+Danny Park: Right? So that that's what General AI is talking about. It's like, Hey, is there?
+
+73
+00:11:45.100 --> 00:11:51.569
+Danny Park: Is there a a system that can do all of human tasks, everything
+
+74
+00:11:51.620 --> 00:11:56.539
+Danny Park: so like? If we think about example. Again, no example exists today. There's no such a thing.
+
+75
+00:11:56.970 --> 00:12:25.210
+Danny Park: Only thing that we see that meets that definition are literally in the movies or the Jetsons, where you have that made robot anyone. I'm aging myself. Anyone see the Jetsons. And you guys that is that made who goes around cleaning everything like consoles. The kids, raises the kids able to listen to what the kids are saying, can predict what they need. And it would go grocery, shopping, and and all these other things. There's no system on this planet that that can do what that jets and made did. And that's what we're trying to get to
+
+76
+00:12:25.750 --> 00:12:31.910
+Danny Park: ever since the 1960 s. It's been, can we develop a system that could literally be
+
+77
+00:12:32.050 --> 00:12:36.770
+Danny Park: a not a replacement or a good complement to what human beings are.
+
+78
+00:12:36.960 --> 00:12:41.299
+Danny Park: Right? So that's the difference has nothing to do with code.
+
+79
+00:12:43.230 --> 00:12:47.250
+Danny Park: Right? Like I said, like like Jen AI, as strong code.
+
+80
+00:12:47.490 --> 00:12:58.689
+Danny Park: right? Because it's powerful. But again, only there's one thing. So when we talk about categories of strength of AI, we talk about how much of that system can replace human behavior.
+
+81
+00:12:59.840 --> 00:13:01.269
+Danny Park: Does that answer your question?
+
+82
+00:13:02.070 --> 00:13:04.380
+Qudratullah Yousufi: Yep, thank you. You're welcome.
+
+83
+00:13:04.640 --> 00:13:14.880
+Danny Park: and the last the last category that that you know. If if those who like read up on literature about like AI stuff. Right? We have what the concept called superintelligence.
+
+84
+00:13:15.050 --> 00:13:21.530
+Danny Park: So superintelligence. It's a theory. because we aren't even at General AI. Yet
+
+85
+00:13:22.030 --> 00:13:26.239
+Danny Park: we don't really have a system that could read
+
+86
+00:13:26.650 --> 00:13:34.800
+Danny Park: literally. We don't have a system that could see, touch, taste, hear, like all the human elements of senses.
+
+87
+00:13:35.210 --> 00:13:37.569
+Danny Park: to be able to take all that data
+
+88
+00:13:37.680 --> 00:13:54.569
+Danny Park: and then teach itself to become better than yesterday. So that's really super intelligent. So if we think about the humans like, let's let's let's then to to understand AI and the theory and concept, and where we're trying to get to an AI, we have to. Let's talk about what what we do as humans.
+
+89
+00:13:54.840 --> 00:14:07.240
+Danny Park: So our 5 senses. our senses collect data. It absolutely does. That's what we do. That's what the sensors do. It collects data, and our brain is the is the supercomputer.
+
+90
+00:14:07.360 --> 00:14:18.029
+Danny Park: Our brain is able to take all of our senses, all the data that right now you're sitting right now you're hearing my voice. and you're sitting there. And you, your brain is constantly processing.
+
+91
+00:14:18.240 --> 00:14:24.869
+Danny Park: going. Okay, what's going on? What's going on? What's going on. So it's giving you an experience. It's logging experiences for you
+
+92
+00:14:24.930 --> 00:14:36.939
+Danny Park: and based on your experiences and your past knowledge and experiences through your 5 senses that you. You have what I'm saying to one person will be different than another person. Right?
+
+93
+00:14:37.320 --> 00:14:45.689
+Danny Park: That's where there's people have different questions. so that that superiority and intellect. No system is there yet.
+
+94
+00:14:46.610 --> 00:14:55.679
+Danny Park: because there's no system that can take. They don't. They don't have these senses like we do. They don't have a brain that could be so so so so flexible and adaptable
+
+95
+00:14:56.900 --> 00:15:00.980
+Danny Park: to make sense of all this stuff. Go ahead. I'm Mustafa. Yeah.
+
+96
+00:15:02.190 --> 00:15:04.160
+Mustafa Afif: yeah, Professor, I was just out
+
+97
+00:15:04.220 --> 00:15:17.970
+Mustafa Afif: I just wanted that so basically looking at human biology. And all the way up everything else, the data is already there in in the universe. Right? So we just an instrument we
+
+98
+00:15:18.000 --> 00:15:27.050
+Mustafa Afif: trying to like, we've like, like, talk about physics or physics already there in the universe. Biology was there. We just
+
+99
+00:15:27.250 --> 00:15:29.399
+Mustafa Afif: happened to discover it. Right?
+
+100
+00:15:29.520 --> 00:15:33.750
+Danny Park: Yes, yes, yes. Keep going. No. You're on the right. Yeah. Go ahead. Keep going. Yeah.
+
+101
+00:15:34.120 --> 00:15:48.389
+Mustafa Afif: Yeah. Same thing. I think it applies to everything. We're just an instrument like you know, I'm I'm I'm and I was trying to believe it of you know big energy. There's
+
+102
+00:15:48.520 --> 00:16:03.579
+Mustafa Afif: knowledge, is there infinite knowledge and infinite energy? Is there? Which we are just the You know, we we serve like, you know, you know, producers discover that treasure is always there.
+
+103
+00:16:03.710 --> 00:16:13.990
+Mustafa Afif: Yeah. Same thing with like like when I when I when I'm talking right, it's a sound energy. And I feel it's just
+
+104
+00:16:14.330 --> 00:16:28.359
+Mustafa Afif: it's my brain. It's it's the day that's there. My brain is, you know, processing everything or storing everything in, you know, or it. It came sound as a form of like, maybe a movement, a sound?
+
+105
+00:16:28.610 --> 00:16:33.650
+Mustafa Afif: Yes, yes, absolutely. Yeah. No. A. A, a a perception
+
+106
+00:16:33.730 --> 00:16:44.060
+Danny Park: like experience, like like the soul, you would say right so. And to your point, you're you're hitting the nail on the head about where this AI theory. And what where this is coming from is that
+
+107
+00:16:44.550 --> 00:16:53.149
+Danny Park: the genetic code is there we human beings. What makes us very intelligent is that we had a code base from the very beginning that we evolved over time.
+
+108
+00:16:53.420 --> 00:17:00.369
+Danny Park: Right? So our DNA makes us like our the code of our DNA, our DNA. By the way, our DNA is actual code.
+
+109
+00:17:00.690 --> 00:17:10.129
+Danny Park: It's literally code, just like how we code computers that the that's the that's the that's the relief. That's the the analogy between what we code computers
+
+110
+00:17:10.150 --> 00:17:34.980
+Danny Park: with the digits. Right? That's that's like what give we gave them that DNA. We have DNA the code. Because so if you take that code, you get a human being, although they looked it for this, some variation. But you you get a baseline into like baseline ability to learn. You get all these baselines? So the the field of AI, they're saying, can we replicate that?
+
+111
+00:17:35.200 --> 00:17:39.340
+Danny Park: And to to the Mustafa's point?
+
+112
+00:17:40.540 --> 00:17:46.930
+Danny Park: That's why there's a whole place of research around the actual physical materials
+
+113
+00:17:47.040 --> 00:17:57.950
+Danny Park: that's meant to speed up electronic communication as fast as our neurons communicate. Because what's preventing general AI is, we can build a system
+
+114
+00:17:58.430 --> 00:18:06.949
+Danny Park: where the the the illiterate, the the electronic, the electrical impulses right? Because code is sent through like electrical impulses.
+
+115
+00:18:07.160 --> 00:18:10.240
+Danny Park: We don't have material right now
+
+116
+00:18:10.370 --> 00:18:19.719
+Danny Park: where we could put into a machine. And that machine can take all of the data coming at it. And like, think about right now, like how much your brain is working
+
+117
+00:18:19.790 --> 00:18:30.500
+Danny Park: right. We don't have the mechanisms in place or the materials in place to make those connections fire so quickly that we're going to be able to get a machine that can do all of human tasks.
+
+118
+00:18:31.600 --> 00:18:41.039
+Danny Park: And there's a slide here where we talk about some of those constraints. Right? So that's something that we have to take away when we talk about. AI AI, is not that cool yet?
+
+119
+00:18:42.010 --> 00:18:47.799
+Danny Park: If we know what we're talking about when we're trying what meaning, what our, what our, what our end goal is
+
+120
+00:18:47.810 --> 00:18:49.820
+Danny Park: for. AI, right?
+
+121
+00:18:49.950 --> 00:18:54.579
+Danny Park: So, and for those who are actually interested in this like want to nerd out
+
+122
+00:18:54.680 --> 00:18:58.169
+Danny Park: a there. There's a company out there who's trying to take
+
+123
+00:18:58.340 --> 00:19:00.849
+Danny Park: human brain cells
+
+124
+00:19:01.140 --> 00:19:12.319
+Danny Park: and integrate them with microchips to see if that can come close to replicating the speed in which our human brains have a machine
+
+125
+00:19:12.570 --> 00:19:26.150
+Danny Park: process. The same speed like as we process, and the initial research that this company released was so they took human brain neurons, overlaid it with with a micro a set of microchips.
+
+126
+00:19:26.260 --> 00:19:28.880
+Danny Park: and then they plug the game pong to it.
+
+127
+00:19:29.450 --> 00:19:37.560
+Danny Park: The neurons, through the impulses from the electrical circuits right, was able to learn how to play punk.
+
+128
+00:19:39.710 --> 00:19:40.839
+Danny Park: So just
+
+129
+00:19:40.900 --> 00:19:42.369
+Li Zheng: are you talking about? Nearly
+
+130
+00:19:43.250 --> 00:19:48.510
+Danny Park: no, that's a different company that they're they're literally trying to do. Matrix.
+
+131
+00:19:48.710 --> 00:19:58.499
+Danny Park: Oh, yeah, yeah. But that's but that's another example of it. Now, there's another company out there to leave Point. You know, you guys in the matrix. And before matrix joining the monic
+
+132
+00:19:58.670 --> 00:20:02.119
+Danny Park: where you're putting your your your artificially
+
+133
+00:20:02.350 --> 00:20:05.130
+Danny Park: augmenting human. So
+
+134
+00:20:05.580 --> 00:20:13.319
+Danny Park: there's 2 ways to look at AI. There is, we build a system that mimics human intelligence, or we take the human body and make it better.
+
+135
+00:20:14.310 --> 00:20:15.839
+Danny Park: Right? Man.
+
+136
+00:20:15.870 --> 00:20:37.959
+Danny Park: whoever's into Japanese anime manga like those Japanese they were like. So they're imagining you're so so, so so vivid. But like, that's where it's kind of like ghost niche is a good good mango. I mean, anyone seen it. So that's that's the other side of AI is like, don't think about AI as a field research field. Only being we're gonna build or create systems that try to mimic human in in human beings.
+
+137
+00:20:38.000 --> 00:20:39.880
+Danny Park: We could take AI
+
+138
+00:20:40.080 --> 00:20:45.839
+Danny Park: right or the concepts of AI and put it into a human to make the human better.
+
+139
+00:20:46.960 --> 00:20:57.330
+Danny Park: Right? So that's the other side of AI, right? So we have to think about all these things coming together again. There's no there. There is no example of any human being being implanted with.
+
+140
+00:20:58.050 --> 00:21:01.310
+Danny Park: There's no giant mnemonic or neo, but
+
+141
+00:21:02.080 --> 00:21:19.129
+Danny Park: we have to really think about these things as and Mbas, because that's where the research is going. So as business analysts. But and we want to get into data science or get into the field of AI. We can't get into the field of AI if you don't know what companies are actually doing.
+
+142
+00:21:19.770 --> 00:21:24.990
+Danny Park: because if we sit there and say, Wow, Gina is so cool that's wrong, cause it's not that cool
+
+143
+00:21:25.200 --> 00:21:32.070
+Danny Park: when come as compared to what we where we want to go right. So superintelligence is a theory
+
+144
+00:21:32.480 --> 00:21:36.220
+Danny Park: that can we get a machine
+
+145
+00:21:36.320 --> 00:21:49.279
+Danny Park: who is so superior to to human, to human, literally biomechanics and evolution better than the DNA of human beings? Can these machines replicate themselves
+
+146
+00:21:49.920 --> 00:21:51.430
+Danny Park: better than last time?
+
+147
+00:21:51.590 --> 00:22:01.379
+Danny Park: Meaning, can you know, like, can they really become like the next evolution of of of existence, of of the world's perception.
+
+148
+00:22:01.840 --> 00:22:10.789
+Danny Park: Right? So when you, when the only examples of this are like those crazy movies, like the reason why I brought up the matrix right matrix is, you know, the premise of the movie is
+
+149
+00:22:10.940 --> 00:22:12.639
+Danny Park: human beings built
+
+150
+00:22:13.100 --> 00:22:16.460
+Danny Park: a supercomputer. The supercomputer
+
+151
+00:22:16.790 --> 00:22:24.150
+Danny Park: was able, self-actualized, meaning. It realized it existed. So it knew who it was and what it was.
+
+152
+00:22:24.210 --> 00:22:27.669
+Danny Park: and was able to tell the difference between it and humans.
+
+153
+00:22:28.000 --> 00:22:30.079
+and decided to enslave humans
+
+154
+00:22:30.220 --> 00:22:36.080
+Danny Park: because it felt it was that much superior. And in the movie they took over the human species
+
+155
+00:22:36.630 --> 00:22:39.399
+Danny Park: right? And it's the machines controlling
+
+156
+00:22:39.830 --> 00:22:43.209
+Danny Park: the existence of mankind through Neo
+
+157
+00:22:43.330 --> 00:22:50.040
+Danny Park: and neo was code. They took his DNA, and they sum planted his DNA with their code.
+
+158
+00:22:50.520 --> 00:23:04.439
+Danny Park: which they're gonna bring back to reset the matrix for the matrix as all machines. They're susceptible to viruses, intrusions which was Agent Smith. Right sorry for nerding out. But anyone who wants to like really get into like.
+
+159
+00:23:05.610 --> 00:23:10.710
+Danny Park: what superintelligence is. The matrix franchise is a really good
+
+160
+00:23:11.010 --> 00:23:21.220
+Danny Park:  movie to get into. So it's it's very. It's it's it's it's very eye-opening. If we if we start running out horizons around, what AI actually is.
+
+161
+00:23:21.480 --> 00:23:25.500
+Danny Park: Right? So any questions around weak AI strong AI superintelligence.
+
+162
+00:23:26.780 --> 00:23:31.849
+Danny Park: So as I'm talking and I'm sharing this like we all should be start thinking about. Okay.
+
+163
+00:23:32.270 --> 00:23:35.429
+Danny Park: I want to be a data scientist. Those in the room.
+
+164
+00:23:36.090 --> 00:23:47.500
+Danny Park: Reason why I bring this up is because when I hear data science and I ask, okay, in one industry from Mbas, I get back finance and accounting. And I go well, why don't you want to be in logistics? Why don't you want to get into robotics
+
+165
+00:23:48.000 --> 00:23:53.009
+Danny Park: right? Why would you want to get into like android building human like, you know, neural link
+
+166
+00:23:53.120 --> 00:23:59.159
+Danny Park: type stuff. So obviously, we wouldn't know to look there if we didn't know if we don't understand what AI actually is.
+
+167
+00:23:59.320 --> 00:24:00.090
+Danny Park: Okay.
+
+168
+00:24:00.470 --> 00:24:14.699
+Danny Park: so those are 3 broad categories of AI depending on what literature you read. They're going to have different categories. But these, these 3 are the, you know, the most general high level. Both accepted.
+
+169
+00:24:15.290 --> 00:24:37.159
+Danny Park: But IIO, always tell everyone I speak with, you guys should always do your own research. Do your readings, and just understand the the the domains that you wanna get into. So regardless of it being a weak AI, strong AI super intelligent being, whatever right there are machine learning steps right? You have to teach these things.
+
+170
+00:24:37.850 --> 00:24:54.309
+Danny Park: So going back to our human example. And this is where I kinda wanna dispel this notion that machine learning is such a hard thing. You have to be a genius to do it. It's it's not. It's not. Anyone could get into this stuff. If you actually have a passion for it. Okay, so
+
+171
+00:24:54.500 --> 00:24:56.340
+Danny Park: let's bring it back to human being.
+
+172
+00:24:56.900 --> 00:25:00.379
+Danny Park: So when I and I'll I'll talk through
+
+173
+00:25:00.740 --> 00:25:08.270
+Danny Park: like, you know the relationship I have with my daughter around educating her. and then hopefully through that we'll see. Oh.
+
+174
+00:25:08.460 --> 00:25:11.140
+Danny Park: it's the same thing right? So.
+
+175
+00:25:12.180 --> 00:25:15.429
+Danny Park: my daughter, when she was born a baby, right
+
+176
+00:25:15.660 --> 00:25:20.549
+Danny Park: depending, depending on a human being's maturity.
+
+177
+00:25:22.180 --> 00:25:30.329
+Danny Park: meaning how their brains mature right over time, assuming there's no deficiency or or
+
+178
+00:25:30.510 --> 00:25:40.020
+Danny Park: abnormality, you know. God bless those people who who suffer through that! But a nor a a generally normally functioning human brain. It has
+
+179
+00:25:40.790 --> 00:25:42.270
+Danny Park: maturity cycles.
+
+180
+00:25:44.180 --> 00:25:56.740
+Danny Park: Why is that important because I can't teach a 2 year old the same way. I teach a Mba student cause a 2 year old is gonna go blah blah blah blah blah!
+
+181
+00:25:56.860 --> 00:25:59.799
+Danny Park: When I try to tell them what AI is
+
+182
+00:25:59.990 --> 00:26:10.539
+Danny Park: right versus a Mba student, where every high, high lot of experience the brain went through different. You know, multiple maturity cycles
+
+183
+00:26:10.820 --> 00:26:15.329
+Danny Park: creating more neurons was literally ready to receive
+
+184
+00:26:15.600 --> 00:26:24.550
+Danny Park: the content in this particular format, right? So depending on the maturity of the human being.
+
+185
+00:26:24.610 --> 00:26:41.540
+Danny Park: and where they are in their learning cycle, or how much education they have. Right? You have to teach them differently. Some people like you know you have age or maturity driven machine learning, learning methods. You also have
+
+186
+00:26:42.400 --> 00:26:46.569
+Danny Park: other types of learning methods for for people's their own
+
+187
+00:26:47.200 --> 00:26:52.670
+Danny Park: reason. You know their own comfort of learning. Some people are visual learners
+
+188
+00:26:52.920 --> 00:27:05.889
+Danny Park: where you, you put them in pictures, and they look at the picture, they they, they self-diagnose, they look at it based on experience. And they they understand what you're trying to tell them. Some people need to read right? They're language based. Learn
+
+189
+00:27:06.590 --> 00:27:18.330
+Danny Park: right? They need to read and understand the words and and understand the definitions, and to to get the context on, and to truly understand what you should try to tell them, and other people need a combination
+
+190
+00:27:19.340 --> 00:27:27.250
+Danny Park: depending on also the topic. If it's you're teaching them history. You teach people history different differently than you teach them. Mathematics.
+
+191
+00:27:27.470 --> 00:27:38.860
+Danny Park: Right? Mathematics is more about rule-based memory. You're memorizing rules, and then you're making them practice so rigorous. It's very rigorous, whereas history it's more reflective.
+
+192
+00:27:39.420 --> 00:27:44.629
+Danny Park: So you have to teach them differently. The topic itself is taught differently.
+
+193
+00:27:44.950 --> 00:27:57.590
+Danny Park: Guess what folks. when you teach a system, it's the same depending on the business problem you're trying to solve the machine learning model meaning the way you teach the system
+
+194
+00:27:57.650 --> 00:27:58.750
+Danny Park: is different.
+
+195
+00:27:59.750 --> 00:28:20.760
+Danny Park: Okay, so that's what you see here by, choose the model. But let me go and start from the beginning, and I'll kind of I'll go back through this process now we'll have a better understanding as why. Why, there's such thing as a supervised learning, unsupervised and reinforcement learning. And we'll come to free. Realize that these 3 ways of learning human. We've done it our entire lives.
+
+196
+00:28:21.500 --> 00:28:26.320
+Danny Park: And right now, in fact, as Mba students, you're probably doing all 3. So
+
+197
+00:28:26.510 --> 00:28:35.470
+Danny Park: machine learning steps. Starting from the beating, the most important thing is right before actually collecting data is, do you understand the business problem?
+
+198
+00:28:35.480 --> 00:28:37.570
+Danny Park: What is a problem you're trying to solve?
+
+199
+00:28:38.760 --> 00:28:44.640
+Danny Park: So from a human context. I'm trying to teach a student math.
+
+200
+00:28:44.930 --> 00:28:53.699
+Danny Park: That's one problem. And I'm trying to teach a student history. That's another business problem based on those business problems. The way I teach them
+
+201
+00:28:53.880 --> 00:28:57.830
+Danny Park: is different. The type of data I collect is different.
+
+202
+00:28:59.210 --> 00:29:07.749
+Danny Park: So step one in machine learning is, understand the business problem. So you know what data to collect. And when you're collecting the data
+
+203
+00:29:07.970 --> 00:29:12.210
+Danny Park: you have to ask yourself, is this of good data quality.
+
+204
+00:29:12.930 --> 00:29:15.669
+Danny Park: right? Kind of going back to our data quality lecture
+
+205
+00:29:16.440 --> 00:29:20.899
+Danny Park: cause. If, for example, if I collect data on history
+
+206
+00:29:21.870 --> 00:29:28.549
+Danny Park: and that data is wrong, let's say that says that Adolf Hitler was a great person, and Germany won World War Ii.
+
+207
+00:29:29.740 --> 00:29:32.740
+Danny Park: And I teach that to a human being.
+
+208
+00:29:32.760 --> 00:29:36.190
+Danny Park: I although I'll be effective in teaching.
+
+209
+00:29:36.250 --> 00:29:41.039
+Danny Park: I'm teaching that human being who is a system, the wrong thing.
+
+210
+00:29:41.130 --> 00:29:43.899
+Danny Park: My data was of poor quality.
+
+211
+00:29:45.480 --> 00:29:47.759
+Danny Park: Okay, so it's very important.
+
+212
+00:29:48.280 --> 00:29:50.250
+Danny Park: and especially.
+
+213
+00:29:51.100 --> 00:29:54.759
+Danny Park: but not especially, I mean in general, it's very important
+
+214
+00:29:54.810 --> 00:30:03.369
+Danny Park: what what we have to teach these machines just like how a human being, because if you teach a human being, you raise them like a wolf, they're going to be a wolf
+
+215
+00:30:04.390 --> 00:30:06.730
+Danny Park: if you raise a machine
+
+216
+00:30:07.480 --> 00:30:12.889
+Danny Park: right? Meaning we're actually raising them. If you think about it, you're trading a machine with bad data.
+
+217
+00:30:13.050 --> 00:30:16.000
+Danny Park: right? You're gonna get back bad stuff.
+
+218
+00:30:17.480 --> 00:30:21.139
+Danny Park: There was and I follow AI stuff all the time
+
+219
+00:30:21.580 --> 00:30:24.890
+Danny Park: if it's not just not obvious.
+
+220
+00:30:25.100 --> 00:30:27.620
+Danny Park: So there was a company out there who
+
+221
+00:30:28.370 --> 00:30:32.820
+Danny Park: was during research around AI and was building an AI algorithm.
+
+222
+00:30:33.270 --> 00:30:46.720
+Danny Park: And it was, it was meant to solve the business problem around human bias. Right. The problem was, the thing was, can can they? They wanted to build a a artificial intelligence system that looks like human decisions.
+
+223
+00:30:47.390 --> 00:30:50.449
+Danny Park: and then says there was bias in that decision or not.
+
+224
+00:30:50.690 --> 00:30:57.539
+Danny Park: Okay, great. I think that's really good. I think that's a really useful thing to to check human biases. Right?
+
+225
+00:30:57.620 --> 00:31:01.629
+Danny Park: So when they when this, when this company built
+
+226
+00:31:02.010 --> 00:31:09.930
+Danny Park: that that system and tested it. it turned out that the system itself was giving biased and racist answers.
+
+227
+00:31:10.740 --> 00:31:27.629
+Danny Park: and when the researchers went back to look at the data sets, they realized that unknowingly their own biases crept in. Because here and collect data after you collect the data, right? You have to make sure you collected all the data that's relevant to you.
+
+228
+00:31:28.480 --> 00:31:34.019
+Danny Park: And there's data in there that's not relevant. Right? You can't like muddy up the waters initially.
+
+229
+00:31:34.940 --> 00:31:41.839
+Danny Park: Right? So let's assume that you collected data and all the data that you collected to teach the machine
+
+230
+00:31:42.040 --> 00:31:43.180
+Danny Park: was complete.
+
+231
+00:31:43.690 --> 00:31:49.509
+Danny Park: Right? So if you go back to history, example. Not only is Adolf Hitler a evil bastard.
+
+232
+00:31:49.520 --> 00:31:51.810
+Danny Park: and Germany lost the war
+
+233
+00:31:52.370 --> 00:31:59.800
+Danny Park: right, but it has a complete story of history. So we're good. We're it's all complete. Perfect. Okay.
+
+234
+00:32:00.360 --> 00:32:04.029
+Danny Park: next phase of machine learning is rough to prepare the data.
+
+235
+00:32:05.240 --> 00:32:14.570
+Danny Park: right? So preparing preparing data include data, cleansing data, wrangling data transformation data visualization and developing the training set around the data.
+
+236
+00:32:14.720 --> 00:32:26.470
+Danny Park: So let's say. I took that complete data of history. And I took it. No, I didn't take. Let's say the the Texas School Board takes it. and Texas School Board goes. Hmm.
+
+237
+00:32:27.030 --> 00:32:30.240
+Danny Park: yeah, data is complete. But
+
+238
+00:32:30.540 --> 00:32:36.109
+Danny Park: there's some parts of this stuff that I don't think we need, and they start cleansing it away.
+
+239
+00:32:37.890 --> 00:32:38.930
+Danny Park: Right? Okay.
+
+240
+00:32:39.990 --> 00:32:41.729
+Danny Park: fine. You cleanse it away.
+
+241
+00:32:42.020 --> 00:32:45.669
+Danny Park: So in other words you took complete data.
+
+242
+00:32:46.240 --> 00:32:47.979
+Danny Park: and for for
+
+243
+00:32:48.070 --> 00:32:52.430
+Danny Park: by cleansing it you probably introduced your bias.
+
+244
+00:32:55.020 --> 00:32:58.310
+Danny Park: So again. these 2 steps here
+
+245
+00:32:58.730 --> 00:33:02.229
+Danny Park: around data quality is very important.
+
+246
+00:33:02.730 --> 00:33:10.200
+Danny Park: It's very important. And that's something that we like. The mainstream media doesn't talk about when it comes to Ads. AI tools.
+
+247
+00:33:10.830 --> 00:33:13.920
+Danny Park: Anyone here know exactly
+
+248
+00:33:14.250 --> 00:33:20.209
+Danny Park: what these companies are using to train their AI models or their AI platforms.
+
+249
+00:33:20.780 --> 00:33:23.040
+Li Zheng: I'm pretty sure they're using reddit.
+
+250
+00:33:23.490 --> 00:33:26.380
+Danny Park: Yeah. So
+
+251
+00:33:26.580 --> 00:33:34.740
+Li Zheng: they were scrubbing Reddit and other like websites that held on like, Yeah, yeah, no, you you know your good point. And then I laugh because
+
+252
+00:33:35.170 --> 00:33:43.440
+Danny Park: that's what we. These are the conversations that that old business leaders have to have is that especially when we're getting into
+
+253
+00:33:43.610 --> 00:33:45.260
+Danny Park: working toward
+
+254
+00:33:45.550 --> 00:33:47.450
+stronger. General AI,
+
+255
+00:33:48.440 --> 00:33:56.590
+Danny Park: right? So so that's these 2 steps. Here is is what data sign like my data, science friends are like.
+
+256
+00:33:56.650 --> 00:34:01.500
+Danny Park: that's where we spend 80% of our time. We're deathly afraid
+
+257
+00:34:01.890 --> 00:34:12.130
+Danny Park: that we don't understand the business problem enough. Remember what business analytics is. Business analytics is a combination of business analysis, so expertise in business meaning.
+
+258
+00:34:13.010 --> 00:34:18.120
+Danny Park: you can understand the business problem without being an expert in the business.
+
+259
+00:34:18.600 --> 00:34:30.500
+Danny Park: and then combine with data analytics which includes statistics. And all these advanced mathematical things that we need to create or teach these platforms.
+
+260
+00:34:31.550 --> 00:34:38.120
+Danny Park: So my data, science friends say, you know what our biggest pain point is. We don't even know what the businesses want.
+
+261
+00:34:41.090 --> 00:34:42.520
+Danny Park: right? So
+
+262
+00:34:44.040 --> 00:34:47.230
+Danny Park: that's an opportunity for many of us.
+
+263
+00:34:48.350 --> 00:34:55.259
+Danny Park: right the business side. But anyway, so let's keep going about the machine learning steps. So let's so let's say you collected the data.
+
+264
+00:34:55.560 --> 00:35:00.450
+Danny Park: And then you prepared your data. You cleanse, wrangled everything. And let's assume. Let's assume
+
+265
+00:35:00.650 --> 00:35:03.539
+Danny Park: that we have very good data quality. By the way.
+
+266
+00:35:03.940 --> 00:35:10.540
+Danny Park: kind of staying under the equality point. And when you guys use chat, Gp, you guys, you guys see the disclaimer, right?
+
+267
+00:35:13.110 --> 00:35:15.880
+Danny Park: Yeah, like. keep that in mind.
+
+268
+00:35:16.810 --> 00:35:22.209
+Danny Park: Right? If a if a general, A, if Jen AI or Openai.
+
+269
+00:35:22.400 --> 00:35:26.009
+Danny Park: if the legal team advises them to make sure they plaster.
+
+270
+00:35:26.500 --> 00:35:35.890
+Danny Park: The first thing the user sees is a disclaimer around the accuracy of their models. That should be a good indication of what they think
+
+271
+00:35:37.110 --> 00:35:39.330
+Danny Park: about their data quality process.
+
+272
+00:35:42.340 --> 00:35:52.450
+Danny Park: Remember, keep the we're and be, we are business leaders. We have to pay attention to these small things and these small things actually behind the scenes. They're big issues.
+
+273
+00:35:53.440 --> 00:35:59.009
+Danny Park: So let's assume we have good data quality. The next thing you would have to do is we have to choose the right model
+
+274
+00:35:59.820 --> 00:36:06.590
+Danny Park: right? And this kind of goes back to like the the you know the history versus math versus 2 year old versus versus
+
+275
+00:36:07.020 --> 00:36:09.079
+Danny Park: and the Mba. Right?
+
+276
+00:36:10.220 --> 00:36:12.620
+Danny Park: If you don't understand the business problem.
+
+277
+00:36:14.010 --> 00:36:24.439
+Danny Park: But you have the, you have perfect data quality. You still need to figure out which model which way to teach a system for it, to understand
+
+278
+00:36:25.010 --> 00:36:27.679
+understand how to get the right answer
+
+279
+00:36:28.470 --> 00:36:31.260
+Danny Park: right? Because I could have perfect
+
+280
+00:36:31.660 --> 00:36:32.850
+Danny Park: history, data.
+
+281
+00:36:33.710 --> 00:36:36.239
+Danny Park: perfection all the details.
+
+282
+00:36:37.740 --> 00:36:39.950
+Danny Park: I'm not gonna go and make my 2 year old read.
+
+283
+00:36:41.310 --> 00:36:43.100
+Danny Park: that's a wrong learning model.
+
+284
+00:36:43.180 --> 00:36:46.369
+Danny Park: because my 2 year old's gonna look at it and go. Can't read.
+
+285
+00:36:46.710 --> 00:36:51.689
+Danny Park: can't literally can't read right? So two-year-olds learn visually
+
+286
+00:36:52.160 --> 00:36:57.150
+Danny Park: right. And let's let's let's let's age my daughter. She's 9 now she's in the she's in third grade.
+
+287
+00:36:57.800 --> 00:37:00.769
+Danny Park: so she's in third grade. I'm still not gonna hand her a history book
+
+288
+00:37:01.390 --> 00:37:14.430
+Danny Park: because there are words in there that she hasn't experienced yet. So my, so I want to teach a history. But I have to figure out. Okay. giving her the history book. Making a read is not a good way she might learn, but when I test her.
+
+289
+00:37:14.580 --> 00:37:29.139
+Danny Park: the results I get back are going to be 30%, 40%. Eventually, it might get to 100%. But how much time and money am I wasting to get my daughter, who's an actual learning system to give me the results I'm expecting.
+
+290
+00:37:30.130 --> 00:37:34.610
+Danny Park: which is 100% accuracy based on the good quality data. I'm teaching it for teaching her.
+
+291
+00:37:34.970 --> 00:37:39.640
+Danny Park: So instead of using the textbook, I'm gonna break it up into pictures.
+
+292
+00:37:40.570 --> 00:37:43.809
+Danny Park: I'm gonna set up a different modules
+
+293
+00:37:43.840 --> 00:37:56.960
+Danny Park: based on pictures and soften the language I use to make sure my daughter understands. So that approach to teaching my daughter, who is a learning system, will give me the results I want sooner.
+
+294
+00:37:59.340 --> 00:38:06.820
+Danny Park: So that example is reason why choosing the right model is very important, because all business projects
+
+295
+00:38:06.830 --> 00:38:08.520
+Danny Park: have a budget.
+
+296
+00:38:10.200 --> 00:38:15.169
+Danny Park: We can sit there and wait 17 years, 20 years
+
+297
+00:38:16.200 --> 00:38:20.100
+Danny Park: to train a artificial, intelligent platform.
+
+298
+00:38:21.590 --> 00:38:26.870
+Danny Park: good enough to give us the results that we want, because everything we were going to run out of money.
+
+299
+00:38:27.550 --> 00:38:29.119
+Danny Park: So this is the other
+
+300
+00:38:30.090 --> 00:38:36.349
+Danny Park: place. If my data science friends tell me, around 70 to 80% of the time is spent here.
+
+301
+00:38:37.310 --> 00:38:44.419
+Danny Park: the 10 to 15 remaining time. They literally were like, no, we we we try to figure out what model we need to use.
+
+302
+00:38:46.070 --> 00:38:49.540
+Danny Park: but we don't know what model to use? We don't understand the business problem.
+
+303
+00:38:53.810 --> 00:38:58.580
+Danny Park: Right? So let's say you have the data. Good quality. You have the right model.
+
+304
+00:38:59.260 --> 00:39:06.309
+Danny Park: Then you have to train it right? So, in other words, you have to figure out what to feed it as a training set and how to test.
+
+305
+00:39:07.500 --> 00:39:09.010
+Danny Park: because you have to test.
+
+306
+00:39:09.300 --> 00:39:13.779
+Danny Park: How do you know if something was trained properly? If you don't know
+
+307
+00:39:14.970 --> 00:39:29.270
+Danny Park: the quality of the answers getting back? So you're going to give it a training set that has the right answers. And then you're gonna ask, hey? We trained you on this. Here's a question. and let's see if the answer that they that it gives back is similar to.
+
+308
+00:39:29.380 --> 00:39:33.019
+Danny Park: For exactly the same answer, that the right answer is that this will basically the answer key.
+
+309
+00:39:34.520 --> 00:39:43.130
+Danny Park: so that that loop of training, evaluating the model and going back and seeing if you have to choose a new model. This happens all the time.
+
+310
+00:39:45.240 --> 00:39:48.250
+Danny Park: This is where the experiment of designs comes in.
+
+311
+00:39:48.700 --> 00:40:09.200
+Danny Park: And this is something. So that my opinion, the difference between a data scientist and a data analyst is a data scientist is someone with a scientific experiment background who understands the experiment of designs and knows, through the application of the experiment of designs to land at the most efficient model
+
+312
+00:40:10.460 --> 00:40:12.500
+Danny Park: to train the platform
+
+313
+00:40:13.740 --> 00:40:16.670
+Danny Park: to efficiently, effectively get what we need back.
+
+314
+00:40:20.330 --> 00:40:26.590
+Danny Park: Right? So these are the the High Level machine learning steps. Any questions.
+
+315
+00:40:29.930 --> 00:40:37.039
+Danny Park: I hope it shows how it's. It's very like it's exactly the same as how human beings, how we learn
+
+316
+00:40:37.510 --> 00:40:43.739
+Danny Park: or how we look to train. If you, if you go to. So I you know, II I'm on the Pta.
+
+317
+00:40:44.790 --> 00:40:57.560
+Danny Park: When I see teachers build their curriculums and based on each grade from elementary school to high school, and how then, how they're following these methods and models. I'm like, Oh, this is just like how
+
+318
+00:40:57.570 --> 00:40:59.890
+Danny Park: this is just like machine learning.
+
+319
+00:41:00.650 --> 00:41:01.450
+Danny Park: So
+
+320
+00:41:03.150 --> 00:41:05.869
+Danny Park: the the the takeaway is
+
+321
+00:41:06.080 --> 00:41:11.909
+Danny Park: machine learning was not something that it wasn't invented. We borrowed it.
+
+322
+00:41:12.730 --> 00:41:24.590
+Danny Park: Everything about technology is borrowed from human existence. The CPU is a system that we create to see if we could mimic the human brain capacity.
+
+323
+00:41:26.620 --> 00:41:35.549
+Danny Park: the RAM and the ROM was invented because humans can keep things in long-term and short-term memory.
+
+324
+00:41:37.330 --> 00:41:46.269
+Danny Park: So everything about technology is an extension of human beings. We're trying to replicate our capabilities in these machines.
+
+325
+00:41:47.150 --> 00:41:52.600
+Danny Park: So I say this because I want to make sure that everyone knows that technology is not a scary thing.
+
+326
+00:41:54.870 --> 00:41:58.069
+Danny Park: If you look at the infrastructure of a company.
+
+327
+00:41:58.700 --> 00:42:06.750
+Danny Park: it's the infrastructure. The company is literally modeled after the human system. You have a brain.
+
+328
+00:42:07.060 --> 00:42:13.149
+Danny Park: you have nodes, meaning. Where does the where does the information go? So arms, legs, heart, lungs.
+
+329
+00:42:13.980 --> 00:42:17.460
+Danny Park: Where's the heartbeat of the company? Meaning
+
+330
+00:42:17.860 --> 00:42:25.049
+Danny Park: what keeps the lights on the electricity? Right? So that's your batteries and energy systems, all that stuff?
+
+331
+00:42:25.480 --> 00:42:36.999
+Danny Park: Where is your brain. So that's the storage. That's your databases. What's the memory? That's a database management system. right? We're calling the memory recalling the things in the brain
+
+332
+00:42:38.730 --> 00:42:46.500
+Danny Park: right processing of actual doing things. That's your application to software doing math by paper on hand is Excel
+
+333
+00:42:47.850 --> 00:42:49.999
+Danny Park: B, 3 plus B 4.
+
+334
+00:42:50.990 --> 00:43:03.670
+Danny Park: So the sooner we realize our technology. Ecosystems and suites are models of human of our existence. The easier it is for us to understand what business analytics actually is
+
+335
+00:43:04.350 --> 00:43:09.939
+Danny Park: because we all look for data. We look at data, we process data to figure out what we need to do next.
+
+336
+00:43:12.110 --> 00:43:15.770
+Danny Park: We are all based on predictive. Everything about us is predictive.
+
+337
+00:43:16.560 --> 00:43:18.520
+Danny Park: Why are you guys here getting Mba.
+
+338
+00:43:18.910 --> 00:43:25.300
+Danny Park: you chose to get your Mba because in your mind, based on the data you collected, your experience and
+
+339
+00:43:25.350 --> 00:43:29.950
+Danny Park: your exposure to different other people's experiences.
+
+340
+00:43:30.300 --> 00:43:38.759
+Danny Park: You're saying there's a high probability or a higher probability of you getting a really high paying job by getting an Mba. Versus, not
+
+341
+00:43:39.280 --> 00:43:49.039
+Danny Park: because of that probability that you made in your head, and some of you, maybe. Why not aware that you'd actually did a probability analysis which has led you to a decision to kind of enroll into and Mba program.
+
+342
+00:43:51.630 --> 00:44:00.040
+Danny Park: Everything about your decisions is probability. Our minds are built on probability. Our existence was built because we did probability
+
+343
+00:44:01.110 --> 00:44:15.979
+Danny Park: right? What do we build cities? Oh, the higher probability of we got came together as a community, and we looked out, looked out for each other. We have a higher rate of survival, we believe, with a higher rate of survival than moving from one place to another to another. So nomads.
+
+344
+00:44:17.520 --> 00:44:19.539
+Danny Park: so human evolution.
+
+345
+00:44:19.650 --> 00:44:24.290
+Danny Park: if you look at it, is. And civilization is built on predictive models
+
+346
+00:44:24.310 --> 00:44:26.490
+Danny Park: that we've been running in our minds.
+
+347
+00:44:27.830 --> 00:44:29.079
+Danny Park: So that's what
+
+348
+00:44:29.630 --> 00:44:42.960
+Danny Park: AI is. AI, all of AI is nothing we're trying to figure out. Can we make these things be as predictive or good in predicting things like we are as human beings are, because we are far better at predicting
+
+349
+00:44:43.930 --> 00:44:47.600
+Danny Park: what our best next steps should be than a machine is
+
+350
+00:44:49.550 --> 00:44:51.950
+Danny Park: because we understand context, machines don't.
+
+351
+00:44:54.340 --> 00:45:06.499
+Danny Park:  model is a kind of
+
+352
+00:45:06.510 --> 00:45:18.379
+Qudratullah Yousufi: different stages or different phases of analysis or a prediction. If you can elaborate about modern. No, I'm I'm a a, a, a, a model is
+
+353
+00:45:22.670 --> 00:45:23.800
+Danny Park: it's
+
+354
+00:45:24.210 --> 00:45:31.910
+Danny Park: A model is a framework that you built to where, when you put an input in.
+
+355
+00:45:32.140 --> 00:45:35.429
+Danny Park: you're gonna get some expected output out
+
+356
+00:45:35.830 --> 00:45:46.300
+Danny Park: so that model can be a combination of things. It could be a combination of code, mathematics, statistics, regression. So so these things here.
+
+357
+00:45:47.370 --> 00:45:54.219
+Danny Park: So let me go through like the different types of machine learning, and maybe that might answer the question a little bit better.
+
+358
+00:45:54.860 --> 00:46:06.340
+Danny Park: So let me let me go through real quick. So kind of going through slides. Slide 5. Just another view of slide 4. So we don't have to worry about slide 5. So slide 6 right before we talked about
+
+359
+00:46:06.670 --> 00:46:18.630
+Danny Park: how you have to understand the business problem. to really figure out which type of learning model that you need. That is the most efficient and efficient, efficient and effective.
+
+360
+00:46:19.730 --> 00:46:26.100
+Danny Park: The argument isn't that you like the argument isn't that you can train a system using.
+
+361
+00:46:26.770 --> 00:46:28.770
+Danny Park: you know multiple models, you can.
+
+362
+00:46:29.160 --> 00:46:34.610
+Danny Park: But the goal, just like in human education system, right?
+
+363
+00:46:34.660 --> 00:46:37.809
+Danny Park: I expect the school system to teach my daughter
+
+364
+00:46:39.230 --> 00:46:50.769
+Danny Park: effectively and efficiently enough to where, by the time the school ends she's ready to graduate to the fourth grade and then to the fifth grade, and then to the sixth grade. So if
+
+365
+00:46:50.800 --> 00:46:58.269
+Danny Park: my expectation is for my daughter to go to the fifth grade within that school year, right?
+
+366
+00:46:58.730 --> 00:47:03.850
+Danny Park: The Administration should not be teaching my daughter history using a textbook.
+
+367
+00:47:04.130 --> 00:47:16.970
+Danny Park: they might want to use a different model to get to that goal of making sure my daughter has enough intelligence to move to the next grade as efficiently, effectively as possible. That's literally the education system.
+
+368
+00:47:18.150 --> 00:47:22.129
+Danny Park: Now, we know why the education system is failing because we forgot what that means.
+
+369
+00:47:23.890 --> 00:47:25.230
+Danny Park: Right? So
+
+370
+00:47:25.730 --> 00:47:42.959
+Danny Park: machine. It's the same way. But like, yeah, sure, we could use supervised learning for business problem. But is it the most efficient way to do it right? So over time and over research, we've come to figure out that, hey? You know, there are certain business problems that one type of machine learning is the most efficient and effective. So this is an example.
+
+371
+00:47:43.320 --> 00:47:45.680
+Danny Park: right? So, for example, fraud, detection.
+
+372
+00:47:45.790 --> 00:47:59.219
+Danny Park: so fraud, detection, the best way that researchers figured out to teach a system to detect fraud is through a a, the analysis of using classification as one of the techniques.
+
+373
+00:47:59.240 --> 00:48:02.879
+Danny Park: right? And they're gonna use a supervised learning method
+
+374
+00:48:04.660 --> 00:48:12.250
+Danny Park: to teach a system how to detect fraud. And so this is like a good nose, and then you'll see all the so the business problems are in the black dots.
+
+375
+00:48:13.280 --> 00:48:22.450
+Danny Park: right? The the, the, this. These colored circles are the type of data like data analysis technique
+
+376
+00:48:22.720 --> 00:48:24.400
+Danny Park: that's predominant.
+
+377
+00:48:24.760 --> 00:48:31.700
+Danny Park: And then the white circles here are the method of teaching the delivery.
+
+378
+00:48:33.050 --> 00:48:38.709
+Danny Park: the delivery method. Okay? So that's what the that's what this slide slide is showing.
+
+379
+00:48:41.590 --> 00:48:47.299
+Danny Park: Okay? So hopefully that answers your question, right? So to be to get into data science.
+
+380
+00:48:48.490 --> 00:48:57.080
+Danny Park: I would expect the data scientists to have a really strong grasp of all different types of data, analytic techniques.
+
+381
+00:48:57.190 --> 00:49:09.959
+Danny Park: you know, around predictive analytics, descriptive analytics, all the other things that we talked about before to understand. Oh, that's why we should use classification for image classification
+
+382
+00:49:10.320 --> 00:49:16.370
+Danny Park: or a customer retention. We shouldn't really use classification for navigating
+
+383
+00:49:16.840 --> 00:49:24.009
+Danny Park: right? Cause. What's that gonna do like classifying things between the say dog and cat? How is that? Gonna help a robot move around
+
+384
+00:49:24.420 --> 00:49:35.330
+Danny Park: as effectively right it can. They'll take forever. But better the user reinforcement learning. So let's go through what? At high level what? These 3 are. Okay.
+
+385
+00:49:36.410 --> 00:49:41.130
+Danny Park: So the first type of machine learning is supervised machine learning.
+
+386
+00:49:41.200 --> 00:49:47.210
+Danny Park: Right? It's where supervised machine learning is where you are giving the system
+
+387
+00:49:48.260 --> 00:49:51.540
+Danny Park: right in this example, like pictures.
+
+388
+00:49:52.260 --> 00:50:04.989
+Danny Park: right? And you're saying, Hey, this is a cat, and this is a cat, and this is a cat. And this is a cat. And this is a cat. So it's like, it's just like memorizing. Okay, okay, okay, I see that it's a cat. I see, it's a that's a cat that's a cat that's a cat. That's a cat. Fine. I memorize it.
+
+389
+00:50:06.450 --> 00:50:26.059
+Danny Park: So you supervised right? You're supervising. It's learning like, okay, here's a cat. You got it. Good, you guys. So you it's like my daughter, right? When she was 2 and teaching her between like a triangle and a square and a rectangle. I'll give her picture of a triangle. This is a triangle. This is a square, and then how would I test her on that. Or how would this this test? So basically, you're gonna give it
+
+390
+00:50:27.150 --> 00:50:41.740
+Danny Park: right? A series of pictures as example. And the machines are going to go. Oh, I memorize that picture! That was a cat. So I'm going to put it. I'm going to classify as a cat. Oh, I remember that as a cat, too. I seen that picture. So that's also a cat. Huh? Wait a minute.
+
+391
+00:50:42.110 --> 00:50:54.160
+Danny Park: I see this other picture. It's not a cat. right? I don't memorize it as one of the pictures of a cat. So I'm gonna say it's not a cat. And here, notice they didn't say dog.
+
+392
+00:50:55.520 --> 00:51:01.980
+Danny Park: it said not cat, because in this example you taught the machine only to recognize a cat
+
+393
+00:51:04.070 --> 00:51:08.220
+Danny Park: through pictures. So since you didn't expose it to
+
+394
+00:51:08.270 --> 00:51:14.400
+Danny Park: what a dog is, it's not gonna know it's a dog. It's just gonna know. Oh, that's just it's not a cat.
+
+395
+00:51:15.430 --> 00:51:27.999
+Danny Park: So like my daughter at 2 I give her a triangle triangle square, square, square circle she goes. Huh! Haven't seen that circle. Never seen it. It's none of those. It's not a square triangle or rectangle
+
+396
+00:51:31.610 --> 00:51:44.639
+Danny Park: right? And when we go to the other slide 2 problems. So so the mathematical techniques that we, but that we're using to teach it to do this is 2 main ones is classification and regression.
+
+397
+00:51:46.100 --> 00:51:49.099
+Danny Park: Right? If you go back to other slide, here are the business problems
+
+398
+00:51:51.630 --> 00:51:53.220
+Danny Park: so like capital one
+
+399
+00:51:54.910 --> 00:51:58.569
+Danny Park: like when it's when it notices that my credit card
+
+400
+00:51:58.760 --> 00:52:03.829
+Danny Park: is used in New Jersey in auto zone. It goes. Huh?
+
+401
+00:52:03.860 --> 00:52:06.319
+Danny Park: Never seen this from Danny before.
+
+402
+00:52:06.760 --> 00:52:11.700
+Danny Park: So I'm gonna alert him and say, hey? This is not your profile
+
+403
+00:52:12.010 --> 00:52:23.910
+Danny Park: or your spending profile. Can you tell me if it's not? No, you know, if those use capital one, it'll ask you, do you recognize this charge? Yes or no? If you hit? No, it'll block the charge
+
+404
+00:52:23.970 --> 00:52:29.209
+Danny Park: right? So it's classifying, based on my past spending habits. It's memorizing.
+
+405
+00:52:29.540 --> 00:52:31.099
+Danny Park: but it still doesn't know.
+
+406
+00:52:32.040 --> 00:52:40.240
+Danny Park: But my spending habits are because it's not, it's supervised. It's like you memorize it. And then that's that. If you don't know it. You need to come. Tell me
+
+407
+00:52:43.500 --> 00:52:45.790
+Danny Park: so. That's supervised machine learning.
+
+408
+00:52:51.830 --> 00:52:58.929
+Danny Park: Alright. So any questions around supervised learning. And as I'm talking, think about in right now
+
+409
+00:52:59.160 --> 00:53:02.540
+Danny Park: in your curriculums. What topics.
+
+410
+00:53:03.510 --> 00:53:07.329
+Danny Park: right? Where this type of learning is the most
+
+411
+00:53:08.030 --> 00:53:09.010
+Danny Park: efficient.
+
+412
+00:53:15.850 --> 00:53:17.059
+Danny Park: alright next one.
+
+413
+00:53:17.790 --> 00:53:22.350
+Danny Park: if there's no questions to supervise so unsupervised machine learning right?
+
+414
+00:53:22.420 --> 00:53:26.970
+Danny Park: So this is slightly different. So what this is saying is
+
+415
+00:53:28.540 --> 00:53:33.319
+Danny Park: you're gonna give it. You're gonna give the machine. So this machine is now this machine.
+
+416
+00:53:33.490 --> 00:53:37.590
+Danny Park: its capabilities to learn a little bit more robust. Okay.
+
+417
+00:53:38.600 --> 00:53:50.110
+Danny Park: you're giving the machine a set of pictures. and it's gonna look at the picture and go. Let me see if I see a pattern
+
+418
+00:53:51.370 --> 00:53:54.280
+Danny Park: right? So if I see a pattern.
+
+419
+00:53:55.370 --> 00:53:56.760
+Danny Park: then I'm going to start
+
+420
+00:53:56.990 --> 00:54:05.160
+Danny Park: clustering them into groups. So in this example, right, we gave this machine a set of pictures, and there's mixes of cats and dogs.
+
+421
+00:54:06.290 --> 00:54:16.699
+Danny Park: and it's looking for patterns like it's gonna saying, Oh, if it's got pointy ears. It's got whiskers, and it's got little little nubby nose and 2 eyes. I'm gonna put that in one group.
+
+422
+00:54:17.730 --> 00:54:18.960
+Danny Park: This other
+
+423
+00:54:20.360 --> 00:54:27.960
+Danny Park: thing I'm seeing. I'm seeing another pattern emerge. I'm seeing floppy ears. Some don't, some some have floppy, some don't, but some have
+
+424
+00:54:28.510 --> 00:54:34.150
+Danny Park: more round faces. They don't have whiskers, they have more slender
+
+425
+00:54:35.040 --> 00:54:41.879
+Danny Park: pictures. Right? I'm going to classify something else. So ultimately, what this machine is doing is you're saying, hey, here's a bunch of stuff.
+
+426
+00:54:41.890 --> 00:54:44.420
+Danny Park: I'm not gonna tell you what the right answer is.
+
+427
+00:54:45.470 --> 00:54:51.510
+Danny Park: Right, it's unsupervised. I'm just gonna give you. And I want you to go ahead and look at these things
+
+428
+00:54:51.640 --> 00:54:53.959
+Danny Park: and try to see if you can find a pattern
+
+429
+00:54:54.120 --> 00:54:59.910
+Danny Park: and based on what you perceive as a pattern. Then you're gonna start grouping them in one or another
+
+430
+00:55:00.450 --> 00:55:04.239
+Danny Park: right? Sometimes some of us learn that way in some topics.
+
+431
+00:55:05.710 --> 00:55:18.999
+Danny Park: right? Mostly in ethics and fit like like like like policy classes and ethics classes. Right, you're told. Hey, look at all this, read all this stuff and start, you know, thinking about it, you know.
+
+432
+00:55:19.010 --> 00:55:27.039
+Danny Park: based on your past experience. What can you draw? What conclusion can you draw? What's what activities are ethical versus, not ethical. Group them
+
+433
+00:55:31.100 --> 00:55:38.179
+Danny Park: right? Very subjective, but still based on some type of pattern through context. Right? So that's what this machine is doing
+
+434
+00:55:39.850 --> 00:55:49.069
+Danny Park: in this example. That's on. So that's unsupervised learning and the types of math, the mathematical techniques that are related to unsupervised learning.
+
+435
+00:55:49.150 --> 00:55:51.330
+Danny Park: clustering, and anomaly, detection
+
+436
+00:55:58.880 --> 00:56:23.210
+Danny Park: alright, and the the last the the last main type. So these. So when I talk about these to these 3 are the more broad categories that exist. There are many other advanced types of machine learning models. But that's not for this class. This is just the Intro class. But anyone who really is really into wants to get more into like what data modeling or machine learning modeling is. There's a great tool out there called data robot.
+
+437
+00:56:23.320 --> 00:56:28.350
+Danny Park: That kind of that kind of helps. You understand what helps data scientists really
+
+438
+00:56:28.670 --> 00:56:34.830
+Danny Park: pick which models they they need to use. But anyway, any questions around super unsupervised learning.
+
+439
+00:56:41.130 --> 00:56:48.990
+Danny Park: Alright. the next one is reinforcement learning. So reinforcement learning is
+
+440
+00:56:50.380 --> 00:56:57.920
+Danny Park: how we humans learn when we're the most mature right? Meaning that
+
+441
+00:56:59.000 --> 00:57:02.440
+Danny Park: a lot of things in life are trial and error
+
+442
+00:57:02.570 --> 00:57:03.890
+Danny Park: right? Or
+
+443
+00:57:04.180 --> 00:57:08.850
+Danny Park: we learn the results from other people's trials and errors.
+
+444
+00:57:09.260 --> 00:57:15.149
+Danny Park: So reinforcement learning is out of the 3 of the most advanced type of teaching a machine
+
+445
+00:57:15.660 --> 00:57:23.569
+Danny Park: or human in general. Right? It's basically you have an agent. So that agent is the machine or the system that's
+
+446
+00:57:23.650 --> 00:57:24.850
+Danny Park: trying to learn something.
+
+447
+00:57:25.260 --> 00:57:34.630
+Danny Park: Then you put it into the environment. You go go to the environment and make some action, right? So it's gonna make some type of action in the environment.
+
+448
+00:57:35.390 --> 00:57:38.889
+Danny Park: And it's either gonna be reward it
+
+449
+00:57:39.620 --> 00:57:42.190
+Danny Park: or is not going to be rewarded.
+
+450
+00:57:42.850 --> 00:57:47.869
+Danny Park: So if it's rewarded. It's gonna go. Okay, that's the right thing to do.
+
+451
+00:57:48.260 --> 00:57:59.950
+Danny Park: and then take another action. If it's not the right thing to do, it's gonna go note wrong. I'm gonna go back to my original state, and I try a different action and see what that gets me. So trial and error
+
+452
+00:58:00.350 --> 00:58:01.160
+Danny Park: right?
+
+453
+00:58:02.260 --> 00:58:04.499
+Danny Park: That's Boston dynamics
+
+454
+00:58:04.540 --> 00:58:21.019
+Danny Park: for anyone who's filed the boss of that dynamics from their first iteration of their android robot to now their current version, where it's doing crossword routines. What it literally did was it put it? It literally put it into environment, and the thing would be walking, and then it would get to a staircase.
+
+455
+00:58:21.130 --> 00:58:22.719
+Danny Park: and they would trip and fall.
+
+456
+00:58:23.270 --> 00:58:30.860
+Danny Park: And then, since there was no reward, it trip and fell and it couldn't get past anymore, it said, Okay, I'm going to go back.
+
+457
+00:58:30.910 --> 00:58:42.289
+Danny Park: and I tried it again. So next time it got to the staircase it raised one leg up and took a step. then lurched forward and then tripped again. So literally it was that trial and error process
+
+458
+00:58:42.390 --> 00:58:44.609
+Danny Park: of navigating through the environment.
+
+459
+00:58:45.810 --> 00:58:50.899
+Danny Park: This is another example of of using reinforcement. Learning is just self-driving cars
+
+460
+00:58:53.520 --> 00:58:57.180
+Danny Park: right? And there's a reason why there is. There aren't many out there right now.
+
+461
+00:58:59.240 --> 00:59:03.150
+Danny Park: because if you think about it. let's say you're driving in New York City.
+
+462
+00:59:04.520 --> 00:59:10.560
+Danny Park: How much action and reaction do you like? How much of the environment are you actually taken into avoid accidents?
+
+463
+00:59:12.370 --> 00:59:24.370
+Danny Park: So, humans, it comes easy to us, right? Because we were born with that ability to process all different senses very quickly, to make a prediction around. Why, our next best decision is
+
+464
+00:59:24.510 --> 00:59:29.509
+Danny Park: right. You're driving in New York City. Let's say a cardboard box flies through
+
+465
+00:59:29.630 --> 00:59:38.420
+Danny Park: because of our past experiences with cardboard boxes and recognizing what that is right. Assuming that we actually, you know, we've actually, you know, for those who've
+
+466
+00:59:38.480 --> 00:59:49.229
+Danny Park: some people never seen Carbo box. Let's say we all know what carbon box is, I'm not going to slam the brakes because I want to go as a carbon box. It's gonna hit the car. It's gonna go down and I'm gonna be okay. I'm gonna keep going. I'm not gonna stall traffic.
+
+467
+00:59:49.700 --> 00:59:53.909
+Danny Park: So that's how quick my mind did its predictive decision making
+
+468
+00:59:57.030 --> 01:00:00.049
+Danny Park: right a machine. It's driving.
+
+469
+01:00:00.330 --> 01:00:10.839
+Danny Park: It's gonna look at that cardboard box. It's not going to recognize what that carbon box is, and it has to learn what that carbon box is through reinforcement, for it knows. Oh, I don't have to hit the brakes.
+
+470
+01:00:13.540 --> 01:00:27.180
+Danny Park: So now, if you think about New York City traffic, you have cab drivers, you have birds, you have cats, you have puddles when it rains, you have rain hitting your windshield, you have human beings running erratic. You have, you know, all these different things
+
+471
+01:00:27.320 --> 01:00:31.379
+Danny Park: sounds. Someone yells, Hey, stop! Okay.
+
+472
+01:00:32.300 --> 01:00:44.749
+Danny Park: So all that stimuli. So that's why it's it's been taking a very long time to teach a system that's not human to effectively navigate a, a, an actual living environment.
+
+473
+01:00:45.320 --> 01:00:56.119
+Danny Park: So I've seen this firsthand in the military experience. When we used to test prototype the the so? We asked. We used to call them spiders. So there are these these things that literally look like spiders.
+
+474
+01:00:56.390 --> 01:01:07.020
+Danny Park: and instead of having us like human, like marines, carry like 60, 7,100 pound loads to 10 miles, just to get exhausted and then engage the enemy.
+
+475
+01:01:07.070 --> 01:01:09.360
+Danny Park: The idea was, we're going to put it on this thing
+
+476
+01:01:10.180 --> 01:01:20.019
+Danny Park: right. But the prototype of this thing it was like just falling behind, because every step it took it was like, What is this? What is that? What is this? What is that like? It was like? That's a rock, is it a rocket? What is it? What do I do?
+
+477
+01:01:20.210 --> 01:01:22.540
+Danny Park: Whereas humans like Oh, it's a rocket. Kick it out of the way.
+
+478
+01:01:23.960 --> 01:01:25.500
+Danny Park: Oh, it's a wall, just climb
+
+479
+01:01:29.480 --> 01:01:30.940
+Danny Park: right? So that's
+
+480
+01:01:32.310 --> 01:01:35.119
+Danny Park: and the example of why, right now.
+
+481
+01:01:36.210 --> 01:01:38.410
+Danny Park: there's no example of
+
+482
+01:01:38.760 --> 01:01:39.979
+strong AI.
+
+483
+01:01:40.980 --> 01:01:44.109
+Danny Park: Another example. But it's really based on
+
+484
+01:01:44.220 --> 01:01:50.179
+Danny Park: the difficulty of machines being able to be trained around how to navigate
+
+485
+01:01:50.300 --> 01:02:04.109
+Danny Park: the human environment, our our our natural environment. We have drones and things like that could just do one thing like you could see a coded to say, Hey, this move and move this move, that. But nothing that could actually do all of human interaction. But we're we're getting close.
+
+486
+01:02:04.870 --> 01:02:09.010
+Danny Park: So any questions around any of the 3 different types of learning models.
+
+487
+01:02:11.430 --> 01:02:15.519
+Danny Park: Any questions. I hope this is like fascinating, or at least interesting.
+
+488
+01:02:16.850 --> 01:02:26.840
+Danny Park: like what what AI actually is. And I think I don't. I again like I put it into the curriculum was I recognized that a lot of students just didn't understand.
+
+489
+01:02:27.050 --> 01:02:33.159
+Danny Park: not their fault of their own. No one's because no one's sharing them or showing them what that's what this stuff is.
+
+490
+01:02:33.680 --> 01:02:38.270
+Danny Park: Because we're again like, because Mba programs are very myopic. We're like finance and accounting.
+
+491
+01:02:39.110 --> 01:02:46.140
+Danny Park: or like, even even even from a data analytical lens, we only think about finance and accounting when
+
+492
+01:02:46.250 --> 01:02:48.510
+Danny Park: AI is very broad.
+
+493
+01:02:49.100 --> 01:02:49.810
+Okay?
+
+494
+01:02:50.360 --> 01:02:51.200
+Danny Park: So
+
+495
+01:02:52.410 --> 01:02:58.739
+Danny Park: we could skip. So slide 11 slide 11. I this. So I use the slide deck also for my Rpa class.
+
+496
+01:02:59.130 --> 01:03:04.360
+Danny Park: So we don't have to worry about slide 11 at high level. What slide 11. What they're trying to do is
+
+497
+01:03:04.620 --> 01:03:14.690
+Danny Park: so remember, I said, my data, science friends are like Danny. We spent so much time around around this whole model, right? Like like they could go months and not make much
+
+498
+01:03:15.080 --> 01:03:18.310
+Danny Park: like productivity around what model they need to train
+
+499
+01:03:18.650 --> 01:03:35.689
+Danny Park: on just cause their date. They like they don't like their data changes all the time. The business problem changes all the time the business problem changes or understanding of the business problem changes. Then the whole data set has to change, have to go through the whole. So like, there's a whole lot of like inefficiency that goes on in this model.
+
+500
+01:03:35.890 --> 01:03:39.910
+Danny Park: So what some companies are trying to do, they're trying to build
+
+501
+01:03:40.740 --> 01:03:49.600
+Danny Park: a machine that can help teach a machine. So if you see this down here. It's called auto. Ml, it's called auto machine learning.
+
+502
+01:03:50.600 --> 01:03:58.470
+Danny Park: Technology. What this technology is meant to do is take all the steps in between data acquisition
+
+503
+01:03:58.840 --> 01:04:06.749
+Danny Park: and testing and and testing the the validity of your predictions that your machine. Remember, all AI is based on prediction.
+
+504
+01:04:07.220 --> 01:04:08.640
+Danny Park: That's all it's meant to do.
+
+505
+01:04:09.650 --> 01:04:10.500
+Danny Park: Okay.
+
+506
+01:04:11.010 --> 01:04:13.509
+Danny Park: it's trying to automate the in between
+
+507
+01:04:15.200 --> 01:04:25.409
+Danny Park: initial response of these tools. Not so good. But it's so interesting how we're getting into machines, building machines with a concept which I find it very.
+
+508
+01:04:26.120 --> 01:04:29.580
+Danny Park: very interesting. Selene, Essiline Essalene.
+
+509
+01:04:31.520 --> 01:04:37.570
+Esaline Jarvis: Professor. I just wanted to go back to the machine learning steps and the time.
+
+510
+01:04:37.900 --> 01:04:41.489
+That one would take within the first 2 steps.
+
+511
+01:04:41.610 --> 01:04:46.889
+Esaline Jarvis: Is it always much higher in the first 2 steps than the last? 3?
+
+512
+01:04:47.360 --> 01:04:51.249
+Danny Park: Not oh, not not always. But
+
+513
+01:04:51.410 --> 01:04:53.340
+Danny Park: the first 2
+
+514
+01:04:54.290 --> 01:04:59.420
+Danny Park: is the the most critical. So a lot more time is spent on
+
+515
+01:04:59.850 --> 01:05:07.479
+Danny Park: on ensuring that the data is of bet of good enough quality to get into further down the line.
+
+516
+01:05:10.280 --> 01:05:19.970
+Danny Park: the these steps choosing a model training, the model. These are more of the advance definitely more complex. But the most risk is up here.
+
+517
+01:05:21.030 --> 01:05:32.519
+Danny Park: cause these are pretty much mathematical algorithms that are proven. There's like 2 plus 3 always equals. 4. Right? Regression is regression. There's no debate around what these algorithms do.
+
+518
+01:05:33.020 --> 01:05:40.530
+Danny Park: but matching the algorithm to the right machine learning model. But that is based driven by
+
+519
+01:05:40.580 --> 01:05:50.339
+Danny Park: the understanding of the business problem. What data sets they have that these 2 are the spends the most amount of the time to to to mitigate the risk
+
+520
+01:05:51.350 --> 01:05:52.710
+Danny Park: and
+
+521
+01:05:55.690 --> 01:06:00.780
+Danny Park: and I'll I could confirm with, you know, some of my friends in the field. But the gist of it is
+
+522
+01:06:01.560 --> 01:06:04.939
+Danny Park: for those who are building emerging platforms.
+
+523
+01:06:05.010 --> 01:06:11.839
+Danny Park: It's definitely up here, these 2, right for those who are like just using what's built
+
+524
+01:06:11.860 --> 01:06:13.630
+Danny Park: every packaging it
+
+525
+01:06:13.770 --> 01:06:32.360
+Danny Park: right? It's it's gonna be probably over here, right? II mean, like la la, th, those those platforms that just like I don't wanna call it stealing, but they're not. They're not really doing anything special. They just repackaging things right? But it's definitely these 2 here. So so in my, so for am I from my perspective.
+
+526
+01:06:33.560 --> 01:06:37.260
+Danny Park: and just based on what I hear from from from industry.
+
+527
+01:06:39.250 --> 01:06:45.569
+Danny Park: There's a lot there's a huge need for people who understand, who who who just understand the business
+
+528
+01:06:46.920 --> 01:06:54.099
+Danny Park: right? So so I know a lot of people, you know, especially around business analytics. They're trying to get here
+
+529
+01:06:55.200 --> 01:07:06.930
+Danny Park: like they they wanna work on the right side. But then. in my mind. I'm like, well, what if you can get into the the left hand side and you get a lot more money and not have to lose any time
+
+530
+01:07:06.970 --> 01:07:19.019
+Danny Park: more investment, because to get to here and be really good here and make a lot of money here. You're not just good in statistics. You're really, you're really and like an experimental type person
+
+531
+01:07:19.800 --> 01:07:27.959
+Danny Park: like not a Ph, I'm not. I'm not gonna say you need a Ph. They're not gonna say that. But you have to understand what it means to do experiment to design experiments, because
+
+532
+01:07:28.120 --> 01:07:40.730
+Danny Park: when you are pushing out these models. they had to be confirmed and verified by independent sources. So they're gonna ask, Hey, what's the experiment that you ran?
+
+533
+01:07:41.000 --> 01:07:45.569
+Danny Park: I meaning, why did you choose the model that you chose?
+
+534
+01:07:45.710 --> 01:07:48.150
+Danny Park: Why don't you choose a training set?
+
+535
+01:07:49.480 --> 01:07:51.979
+Danny Park: Explain to us how you tested
+
+536
+01:07:54.070 --> 01:08:00.550
+Danny Park: right, just like how like, for those who have children like? I am very, very demanding of my correct, my school board?
+
+537
+01:08:01.610 --> 01:08:14.649
+Danny Park: I ask a million questions around, okay, what'd you choose them? How'd you like? How did you teach them what to teach them on. How was did you test them? Was it some stupid, standardized test that has no relevance to like capturing what they actually learned or understood?
+
+538
+01:08:16.149 --> 01:08:25.670
+Danny Park: Right? Because I want to know if my child understands what she learned. and the way you test her is going to give me an idea of how well she learned.
+
+539
+01:08:25.680 --> 01:08:38.760
+Danny Park: Because if you just give her my multiple choice question where she could guess the right answer, I said, she gets a 90. Well, I'm gonna be like, well, maybe it was really a 75, she guessed the other half. I mean, the other 20% barrier deviance. How do I know
+
+540
+01:08:40.229 --> 01:08:50.350
+Danny Park: right? How is multiple choice questions, a good testing method to understand if people are understanding the material to graduate to the next level.
+
+541
+01:08:51.479 --> 01:09:07.480
+Danny Park: And that's my little remark about like education system, because I think our education system will down to standardized tests and and abaca dabba. really A, BC or D, or E, there's no real understanding of these concepts. But that's why it's so important to understand that these machines we can't
+
+542
+01:09:07.490 --> 01:09:11.610
+Danny Park: train them and test them in that way. Cause it's gonna be absolutely stupid.
+
+543
+01:09:12.430 --> 01:09:20.069
+Danny Park: Then they're gonna get us what we need. Or worse, we might not know that there's bias in the system. Anyone see that movie idiocracy.
+
+544
+01:09:21.979 --> 01:09:23.869
+Danny Park: Yeah, I think that.
+
+545
+01:09:24.029 --> 01:09:32.749
+Danny Park: yeah, like, literally like, how do we like the, the, the premise of that movie is that we we delegated intelligence to machines.
+
+546
+01:09:33.130 --> 01:09:40.479
+Danny Park: So in exchange, the humans had time to not continue evolving intellectually.
+
+547
+01:09:43.060 --> 01:09:57.969
+Danny Park: So if we trust these, if we assume that these machines are the highest of intellect, and they mimic human intelligence which they don't. But we think they do. Is there a risk that humanity will literally delegate our thinking to these things?
+
+548
+01:09:59.090 --> 01:10:03.640
+Li Zheng: I mean, that's what happened in the movie is, they did a mass layoff. And then everybody started writing.
+
+549
+01:10:03.890 --> 01:10:11.619
+Danny Park: Yeah, yeah. Yeah. But right? And then using movies as examples. But like, that's the whole point. So when I hear Chachi, Pt. And people using it.
+
+550
+01:10:13.870 --> 01:10:20.020
+Danny Park: but they don't know how to prompt it. I'm like, well, you're just delegating. You're delegating your thought to that thing.
+
+551
+01:10:22.930 --> 01:10:28.500
+Danny Park: And so like you're you're letting something that has been taught with the disclaimer teach you.
+
+552
+01:10:29.750 --> 01:10:33.359
+Danny Park: So did you just delegate your education to a machine
+
+553
+01:10:33.970 --> 01:10:35.409
+Danny Park: that has disclaimers?
+
+554
+01:10:38.150 --> 01:10:40.249
+Danny Park: Right? So we have to think about that
+
+555
+01:10:40.710 --> 01:10:45.260
+Danny Park: as business leaders. So why? Why is it relevant in business analytics, right?
+
+556
+01:10:45.370 --> 01:10:47.569
+Danny Park: Or as a as a as an executive.
+
+557
+01:10:49.180 --> 01:10:52.940
+Danny Park: If you bring Chat Gp into your organization
+
+558
+01:10:54.200 --> 01:11:02.389
+Danny Park: or you're gonna let people just use it willy-nilly. Are you gonna have some governance? A road road, you know, like guardrails, or a way to use it
+
+559
+01:11:05.660 --> 01:11:10.749
+Danny Park: right? Because your company's competitive competitiveness is as
+
+560
+01:11:11.030 --> 01:11:13.879
+Danny Park: strong as its intelligence.
+
+561
+01:11:15.180 --> 01:11:17.070
+Danny Park: meaning prediction.
+
+562
+01:11:17.080 --> 01:11:23.200
+Danny Park: Are we making a better decision than the competitor? That's business analytics.
+
+563
+01:11:29.530 --> 01:11:32.230
+Danny Park: very fascinating. very important.
+
+564
+01:11:33.320 --> 01:11:36.400
+Danny Park: Alright. So now let's skip because skip 12,
+
+565
+01:11:36.480 --> 01:11:38.230
+Danny Park: we don't have to worry about this.
+
+566
+01:11:40.200 --> 01:11:45.530
+Danny Park: That's for my Rpa. Class. If anyone who wants to take my Rpa class, I give it every summer.
+
+567
+01:11:48.110 --> 01:11:52.019
+Danny Park: And then so then you guys could actually skip this lecture
+
+568
+01:11:52.140 --> 01:12:02.110
+Danny Park: if you if you are, if you're in that course. So here's some concerns that we need to take away with right as as future B as business leaders. Right? Everyone here is a business leader.
+
+569
+01:12:02.250 --> 01:12:04.720
+Danny Park: and we're just going to keep climbing the ranks, without a doubt.
+
+570
+01:12:04.990 --> 01:12:15.639
+Danny Park: especially with a bureau. Mba, that's top 50 right? So here are some of the concerns that we need to think about. Right? So first is computing power.
+
+571
+01:12:16.350 --> 01:12:17.070
+Danny Park: Bye.
+
+572
+01:12:19.220 --> 01:12:24.599
+Danny Park: These machines are not given to us by some higher deity.
+
+573
+01:12:24.730 --> 01:12:32.000
+Danny Park: where they run on like the hopes and dreams of humans. These things run on electricity. They take up space
+
+574
+01:12:33.230 --> 01:12:39.909
+Danny Park: right? They extract monumental amount of resources, and they pollute the environment.
+
+575
+01:12:40.630 --> 01:12:49.960
+Danny Park: Think about it as I'm talking as I'm talking. Now, Zoom is recording my voice in a digital format, and it's storing it
+
+576
+01:12:50.160 --> 01:12:54.389
+Danny Park: in some machine in some place that's taking up space
+
+577
+01:12:55.750 --> 01:13:03.029
+Danny Park: and to run it. It's running on electricity, and that electricity is either wind, harness, or water power.
+
+578
+01:13:03.070 --> 01:13:05.249
+Danny Park: Either way, it's emitting carbon
+
+579
+01:13:06.710 --> 01:13:08.549
+Danny Park: that's just us in this room.
+
+580
+01:13:09.510 --> 01:13:15.069
+Danny Park: How many people around the globe have been on a zoom call or a team's call.
+
+581
+01:13:17.250 --> 01:13:19.159
+Danny Park: Think about all that space
+
+582
+01:13:20.540 --> 01:13:24.329
+Danny Park: that we just took up, because all that data is being stored somewhere.
+
+583
+01:13:25.500 --> 01:13:32.959
+Danny Park: Now think about that. Just one day. Multiply that by a week, not by a month, not by a year. And this is only zoom technology.
+
+584
+01:13:33.990 --> 01:13:36.550
+Danny Park: Think about every other technology out there.
+
+585
+01:13:36.840 --> 01:13:40.039
+Danny Park: Guess what? We might run out of room.
+
+586
+01:13:42.330 --> 01:13:44.410
+Danny Park: So now let's flip that
+
+587
+01:13:44.480 --> 01:13:46.000
+Danny Park: problem. Okay.
+
+588
+01:13:46.370 --> 01:13:48.719
+Danny Park: what do we do? We gotta delete some stuff.
+
+589
+01:13:48.960 --> 01:13:56.709
+Danny Park: Are you sure? What are you going to delete? Because when you delete something. it affects our data quality. So what are you deleting.
+
+590
+01:13:58.550 --> 01:13:59.950
+Danny Park: Who makes that decision?
+
+591
+01:14:01.530 --> 01:14:03.330
+Danny Park: Do you know what's been deleted?
+
+592
+01:14:06.340 --> 01:14:07.050
+Danny Park: Right?
+
+593
+01:14:08.480 --> 01:14:18.180
+Danny Park: It impacts everything trickles down. So computing power is a big issue. So we have computing power that leads into other problems that we have to figure out. including who's gonna pay for all this.
+
+594
+01:14:21.020 --> 01:14:21.780
+Danny Park: right?
+
+595
+01:14:21.920 --> 01:14:39.449
+Danny Park: Leads to trust. We talked about data cleansing everything else. Okay, takes up space. Who's going to pay for it? Right? What happens if a government goes? You know what we let you companies house your your servers on our land. We're going to restrict access
+
+596
+01:14:40.310 --> 01:14:44.080
+Danny Park: because you've polluted our our place. We're gonna take it back
+
+597
+01:14:52.330 --> 01:14:58.080
+Danny Park: right? Chat. Gp, that's and I'm not saying, Chat dB is bad or unethical, I'm saying, Okay, anyone know
+
+598
+01:14:58.320 --> 01:14:59.709
+Danny Park: they have disclaimer.
+
+599
+01:15:03.380 --> 01:15:05.700
+Danny Park: So you really want to take advice from Reddit?
+
+600
+01:15:11.780 --> 01:15:16.099
+Danny Park: Right? So then, who's gonna own as as these technologies balloon.
+
+601
+01:15:16.240 --> 01:15:20.820
+Danny Park: And we start integrating them into military technologies or government technologies.
+
+602
+01:15:22.160 --> 01:15:24.810
+Danny Park: Who's going to govern government
+
+603
+01:15:29.150 --> 01:15:29.870
+Danny Park: right?
+
+604
+01:15:30.030 --> 01:15:37.459
+Danny Park: And that's not that. That's not that even easy of an answer, because guess what? Governments they're all governments were bad and good.
+
+605
+01:15:39.160 --> 01:15:45.529
+Danny Park: but even in our own, even our own US. Government. We we were sponsoring slavery.
+
+606
+01:15:45.890 --> 01:15:52.319
+Danny Park: That's an actual policy. So governments have the power to enslave and also to free.
+
+607
+01:15:53.020 --> 01:16:06.469
+Danny Park: So we can't say government is good. We can't say they're always ethical. So do we want government? Do we want this thing in the hands of people who's who over time their their ideas and things could change. Would government delegate their intelligence to a machine?
+
+608
+01:16:13.430 --> 01:16:15.420
+Danny Park: Right? Smes?
+
+609
+01:16:16.690 --> 01:16:18.470
+Danny Park: This goes back to the business problem
+
+610
+01:16:22.100 --> 01:16:30.849
+Danny Park: by understanding the business just because someone was in your company for 20 years doesn't mean that they're a subject matter expert. You could do something for 20 years and do it absolutely wrong
+
+611
+01:16:32.360 --> 01:16:40.089
+Danny Park: or doing that as effective or efficient. And you're just in the job just because no one at the time no, no, no one, just, you know, didn't want to look into what you were doing
+
+612
+01:16:42.360 --> 01:16:46.839
+Danny Park: right. I mean, I have a personal story around. This to me is when I was consulting when I was with Deloitte.
+
+613
+01:16:47.000 --> 01:16:54.920
+Danny Park: and I would ask for the Smes, and they will say, Oh, this person, Sme, and I will say, okay. Why, that person, Sme, they would say, oh, that person was been doing the job for 18 years.
+
+614
+01:16:54.960 --> 01:17:01.589
+Danny Park: I'm like so. and come to find out when I was asking this person a bunch of questions. He couldn't answer anything.
+
+615
+01:17:02.260 --> 01:17:13.680
+Danny Park: The new hire who was in for 18 months, who actually read the policies and did what what she was supposed to do. She was more used to me and helped me track down the questions I needed answered than this 18,
+
+616
+01:17:13.710 --> 01:17:22.120
+Danny Park: this veteran of 18 years. But just because the. So again, just because someone did something for the longest does not make them a subject matter expert. But how many times do companies do that?
+
+617
+01:17:25.770 --> 01:17:27.560
+Danny Park: So who's teaching these things
+
+618
+01:17:29.610 --> 01:17:34.989
+Danny Park: because we wanted we need the Sme, the business, Sme, to come in to define the business problem
+
+619
+01:17:40.260 --> 01:17:47.870
+Danny Park: right? Then we have the whole privacy issue. right? Because chat cpt. The one big limitation is, it's not going to give you health advice
+
+620
+01:17:47.990 --> 01:17:52.989
+Danny Park: because it cannot. It's illegal for it to be trained on health data.
+
+621
+01:17:58.660 --> 01:18:04.390
+Danny Park: Right? We talked about bias in the data sets already. So we'll skip that and the AI lifecycle.
+
+622
+01:18:05.960 --> 01:18:11.289
+Danny Park: right conditions and and conditions and circumstances change
+
+623
+01:18:11.880 --> 01:18:15.440
+Danny Park: right. The Covid be. It is being the biggest example. The way
+
+624
+01:18:15.870 --> 01:18:20.089
+Danny Park: all people started to learn had to change dramatically because of Covid.
+
+625
+01:18:21.060 --> 01:18:31.420
+Danny Park: Right? So that's the the learning life cycle was modified. Right? We also know, based on human history, of how humans learn. We know when humans need to retraining
+
+626
+01:18:33.670 --> 01:18:37.660
+Danny Park: right. So these AI machines that got they're being pushed out.
+
+627
+01:18:38.480 --> 01:18:43.139
+Danny Park: Okay for Jane. For for example, Jane AI, when is going to be retrained next?
+
+628
+01:18:44.010 --> 01:18:47.460
+Danny Park: Because, by the way, genai doesn't have the most recent data set.
+
+629
+01:18:49.190 --> 01:18:51.920
+Danny Park: Right? They capted it, I think 2022, or something.
+
+630
+01:18:52.390 --> 01:19:02.699
+Danny Park: but 2021. I forget what what they calculated data set at. So there's about 2 2 years of of data that this rule collected that didn't make its way into the learning model.
+
+631
+01:19:05.690 --> 01:19:10.759
+Danny Park: Okay? Fine, hey? Opens Openai. When are you gonna retrain? Jane? AI.
+
+632
+01:19:11.960 --> 01:19:14.549
+Danny Park: 2025, 2027, like when?
+
+633
+01:19:16.190 --> 01:19:21.420
+Danny Park: Because I need to know if there's some. So, some some significant circumstance in there
+
+634
+01:19:23.010 --> 01:19:24.460
+Danny Park: that impacts
+
+635
+01:19:26.470 --> 01:19:30.320
+Danny Park: the answer I need, based on the problems or questions I give it.
+
+636
+01:19:32.170 --> 01:19:41.390
+Danny Park: based on. When you retrain your model. It will be either more or less useful to me. So, Jenny, so genii right now doesn't have the whole Ukraine war.
+
+637
+01:19:42.950 --> 01:19:45.639
+Danny Park: The Ukraine-russian war, and how the impacts of it.
+
+638
+01:19:46.010 --> 01:20:01.910
+Danny Park: and how the grain prices and commodity prices and oil prices and geopolitical issues, all that data that's been collected over the last 2 years that didn't make its way into J. And AI. So if I had questions around grain prices around, you know, during conflict, and it gives me an answer. It's completely wrong
+
+639
+01:20:02.280 --> 01:20:05.850
+Danny Park: or not, as, and not as accurate. So I can't delegate
+
+640
+01:20:06.410 --> 01:20:08.340
+Danny Park: my wisdom to this thing.
+
+641
+01:20:11.510 --> 01:20:19.059
+Danny Park: So here, I mean and this is just a quick sample of of of the concerns that we have to be aware of when we talk about AI,
+
+642
+01:20:21.790 --> 01:20:28.540
+Danny Park: okay? And we have to remain business leaders and not delegate things just because we think something's cool
+
+643
+01:20:28.760 --> 01:20:32.300
+Danny Park: where someone tells us something's cool just to make a quick buck.
+
+644
+01:20:33.960 --> 01:20:37.729
+So let me stop here any questions, any comments.
+
+645
+01:20:38.790 --> 01:20:42.739
+Danny Park: any thoughts anyone have want to share.
+
+646
+01:20:45.560 --> 01:20:46.850
+Danny Park: Let me go ahead.
+
+647
+01:20:49.060 --> 01:20:51.009
+Leonard (Wess): Hey, Professor, can you guys hear me?
+
+648
+01:20:51.230 --> 01:20:58.280
+Leonard (Wess): Great when I think about compute and power, and like, who's going to like
+
+649
+01:20:58.380 --> 01:21:15.460
+Leonard (Wess):  delete the content like if we start running out of space. I start thinking about like almost all cell phones I've ever had, like, where these things they loaded up with content photos and videos and the have, like a really hard time trying to decide which content is gonna be
+
+650
+01:21:15.460 --> 01:21:29.959
+Leonard (Wess): once it deleted is just gone now, like we don't have a backup of it. We don't. We don't know what was deleted mo for the most part, because it's gone, we can't reference it anymore. So that's a big scare for me. Like, if we start thinking about
+
+651
+01:21:29.960 --> 01:21:40.900
+Leonard (Wess): Ai, and how we store our content and our meetings and our videos, and just like a big system of of
+
+652
+01:21:41.440 --> 01:21:48.600
+Leonard (Wess): of of a vowel content right? Like a big mechanical system that just holds all of our material
+
+653
+01:21:48.770 --> 01:21:55.990
+Danny Park: like, how do we? How do we circumvent that? I think that could be a real big problem. So no, you great Leonard.
+
+654
+01:21:56.140 --> 01:22:00.310
+Danny Park: right now you hit the nail right in the head. It is. It is a significant problem.
+
+655
+01:22:00.750 --> 01:22:11.930
+Danny Park: And remember, remember, I don't know if like. I remember this, remember when Elon and some of the other people came out and said, we need to slow down on this stuff. That's what he was referring to.
+
+656
+01:22:12.750 --> 01:22:14.509
+Danny Park: He was like, hold on like.
+
+657
+01:22:15.530 --> 01:22:19.009
+Danny Park: So in the world of the data life cycle.
+
+658
+01:22:20.680 --> 01:22:32.520
+Danny Park: these AI machines, they're producing more data. So when Chat Gp, when we. So I'm and I know I'm not pick like I'm not trying to pick on Chat Gp. I think it's the most useful example, because I think we we have it.
+
+659
+01:22:32.740 --> 01:22:42.669
+Danny Park: And most of us, like all of us, have in front of our fingertips. Right? So we look at Chat Gp. And we give, we. We give it a question. It gives back an answer right? It's learning.
+
+660
+01:22:43.790 --> 01:22:50.779
+Danny Park: it's learning. So if I give it a question, it gives me back an answer, and it says, Did you like to answer.
+
+661
+01:22:51.670 --> 01:22:59.170
+Danny Park: if I'm not the subject matter expert? And I don't know if that quality answer was good, and I tell it I like the answer. It's going to go. Oh, great.
+
+662
+01:22:59.780 --> 01:23:09.390
+Danny Park: perfect! I am learning, that's a good answer. So I'll give an example of where? Where I'm going with this, because this actually happened. And and and then this is something that we're thinking like we all have to think about.
+
+663
+01:23:09.630 --> 01:23:10.490
+Danny Park: So
+
+664
+01:23:10.670 --> 01:23:19.859
+Danny Park: I'm I'm lean. 6 sigma massive black belt. I'm certified. I've been doing operations like Kpi. I've been doing this this stuff for years.
+
+665
+01:23:20.510 --> 01:23:27.620
+Danny Park: I had a colleague of mine use Chat Gpt to ask it questions because he wanted to do
+
+666
+01:23:27.760 --> 01:23:32.340
+Danny Park: like he wants to run operations, management Calcs and and best practices in his group.
+
+667
+01:23:32.550 --> 01:23:46.540
+Danny Park: So he was asking Chachi Pt. Questions, and it was giving back answers. And he was like, Yeah, good answer, good answer, good answer. And he built his own framework for his group on Ops management, based of Chachi ptins, answers.
+
+668
+01:23:46.680 --> 01:23:49.659
+Danny Park: and he goes, Danny, can you take a look? And I looked at it. I'm like.
+
+669
+01:23:50.240 --> 01:23:59.770
+Danny Park: did a white belt write this because I didn't know he was chatty. Bt, I'm like, because this is all high level garbage that you can't use, because
+
+670
+01:23:59.810 --> 01:24:15.170
+Danny Park: it's it's it's it's misaligned. It's it's giving you bad, best practices. Your group is not ready to implement some of these things as it's suggesting. So the wisdom of being a a black belt and lean 6. Sigma was missing.
+
+671
+01:24:15.900 --> 01:24:22.389
+Danny Park: so he's like, Oh, I got it from Chat Gp, and then I'm like holy crap. So what you did was you? You told this thing
+
+672
+01:24:22.470 --> 01:24:40.200
+Danny Park: that the answers it gave back to you were good. So it. It thinks like it just reinforced itself like you reinforced it. So when other people ask it lean 6 sigma type, like, you know, like operation magic questions. It's gonna give the same high, level, unusual thing back. And then people gonna actually execute on that.
+
+673
+01:24:40.230 --> 01:24:46.300
+Danny Park: So that's where we come. That's what I mean by idiocracy. When you delegate
+
+674
+01:24:47.650 --> 01:24:53.210
+Danny Park: intelligence to something that is not ready.
+
+675
+01:24:53.910 --> 01:25:03.190
+Danny Park: you're actually diluting yourself and exchange based on your response. You're diluting it back. So you're having this cycle of just
+
+676
+01:25:03.640 --> 01:25:06.399
+Danny Park: building something of poor performance.
+
+677
+01:25:07.410 --> 01:25:16.329
+Danny Park: just like how you train like my tool. If my 2 year old comes back, I give. I give. I give her a question, and she gives you a bad answer. And I say, good! That's good answer.
+
+678
+01:25:16.790 --> 01:25:24.380
+Danny Park: like what she's what she's gonna do. She's gonna keep reinforcing a bad best practice, right? Bad answers.
+
+679
+01:25:26.880 --> 01:25:39.220
+Danny Park: So this is what we need to understand. So this is why I actually have the machine learning module. Because I'm like we need to understand how these things are trained and how they're interacting with us day to day.
+
+680
+01:25:39.720 --> 01:25:47.739
+Danny Park: So at Pwc we brought in chat gpt, but we bought our own instance of it, and we have strict guardrails on how you're going to engage with this thing
+
+681
+01:25:52.180 --> 01:26:10.650
+Danny Park: right? So now think about it. Let's say you have this same mechanism. But you have people asking it very political questions or very racial questions, and is giving you back really high level answers that are like like someone of wisdom will go.
+
+682
+01:26:11.200 --> 01:26:16.310
+Danny Park: it's an answer, but it's not the best answer. You shouldn't be teaching anyone that
+
+683
+01:26:17.830 --> 01:26:25.050
+Danny Park: right. So let's say you keep telling this thing. Oh, I like your answer. So what what is the machine going to do? You're giving it bias
+
+684
+01:26:26.110 --> 01:26:26.930
+Danny Park: and
+
+685
+01:26:28.330 --> 01:26:31.379
+Danny Park: like the unattended consequence of it.
+
+686
+01:26:32.760 --> 01:26:39.780
+Danny Park: Okay, so that's why, when we talk about artificial intelligence, we have to understand that the artificial artificial
+
+687
+01:26:39.850 --> 01:26:41.620
+Danny Park: is the big word
+
+688
+01:26:42.510 --> 01:26:49.079
+Danny Park: we have to remain the intelligent, superior being. We have to be in a pursuit of wisdom.
+
+689
+01:26:49.170 --> 01:26:53.649
+Danny Park: because knowledge is not enough to build these things. We need wisdom to build these things
+
+690
+01:26:53.980 --> 01:27:01.339
+Danny Park: just like how you need wisdom to raise a child. You need wisdom to train a machine because you're still training them. It's the same exact thing like we talked about.
+
+691
+01:27:01.710 --> 01:27:09.710
+Danny Park: So as Mbas, our quest of knowledge and wisdom through experience is what we need to leverage to check
+
+692
+01:27:09.720 --> 01:27:11.939
+Danny Park: the tech companies saying, Okay.
+
+693
+01:27:11.960 --> 01:27:14.929
+Danny Park: you're telling me it's doing this doing that. But
+
+694
+01:27:15.050 --> 01:27:16.920
+Danny Park: show me how I need to test it.
+
+695
+01:27:18.520 --> 01:27:45.469
+Danny Park: So now, what's happening with Chat Gpt, because a lot of people are recognizing this problem. There's a whole bunch of classes on Linkedin learning and and and and coursera around prompt engineering. So while prompt engineering is saying is, Hey, if you actually want to use a large language model, there's a specific way to actually ask it questions in an intelligent way where you're gonna get back an intelligent answer and how to gauge that intelligent answer based on its usefulness.
+
+696
+01:27:50.470 --> 01:27:58.869
+Danny Park: So that's what's going to separate the companies that are going to be using these tools to be competitive versus the companies that use these tools to become obsolete.
+
+697
+01:28:00.700 --> 01:28:10.239
+Danny Park: So when we think about our own capabilities as human beings. Now we see the pure limitation of these AI things, and how this AI
+
+698
+01:28:10.280 --> 01:28:19.799
+Danny Park: will never replace human wisdom. So everyone in this. in in in the Mba program should say, Okay, what do I need to focus my time on
+
+699
+01:28:21.560 --> 01:28:22.770
+Danny Park: right? Is it
+
+700
+01:28:23.010 --> 01:28:26.700
+Danny Park: data analytic? Is it math? Because I could actually get math
+
+701
+01:28:28.150 --> 01:28:32.100
+Danny Park: right? Because math is what machines can do really? Well, so if I
+
+702
+01:28:32.180 --> 01:28:36.740
+Danny Park: bridge or hedge my bet on becoming a very, very strong statistician.
+
+703
+01:28:39.510 --> 01:28:46.179
+Danny Park: is that my best decision? Remember, predictive. Now, we're going to prediction. Is that my best predict
+
+704
+01:28:46.250 --> 01:28:56.770
+Danny Park: my best decision versus maybe I should look into becoming a domain expert. So I'm going to focus one on one industry or one sub sector. And I want to learn everything about that place.
+
+705
+01:28:58.170 --> 01:29:02.559
+Danny Park: So I could be the subject matter expert that provides the wisdom to
+
+706
+01:29:02.600 --> 01:29:04.709
+Danny Park: the data, analytics and engineers.
+
+707
+01:29:06.690 --> 01:29:08.800
+Danny Park: Maybe that's a better predictive.
+
+708
+01:29:09.010 --> 01:29:20.270
+Danny Park: a a decision that at higher rate of or chance probability of me becoming successful, having a longer career than the other. Now, I'm not saying both. I'm not saying one or the other.
+
+709
+01:29:20.320 --> 01:29:39.629
+Danny Park: These are the types of questions that we have to think about. Because we are again, where where humans are prediction, we're predictive machines. Every decision that we make is based on prediction. If it's not, then we're just making a decision on a whim. And those decisions end up going wrong. So you guys all you know, you notice like, Oh, my! Made a mistake. Yeah. If they actually think about the mistake that you made.
+
+710
+01:29:39.640 --> 01:29:42.560
+Danny Park: you come to realize that you didn't bring in the
+
+711
+01:29:42.630 --> 01:29:44.610
+Danny Park: learning model behind it.
+
+712
+01:29:45.700 --> 01:29:58.119
+Danny Park: right? Either use your feelings or you guessed, or whatever you didn't go through the rigor of the actual human into like the thoughts that we have to come together and bring all the data points together to think about it, to ponder and then
+
+713
+01:29:58.200 --> 01:30:00.060
+Danny Park: make the best decision possible.
+
+714
+01:30:00.820 --> 01:30:09.419
+Danny Park: So I'll end with that. That is business analytics is finding or understanding what is the right data set that we need today.
+
+715
+01:30:09.520 --> 01:30:10.260
+Danny Park: What
+
+716
+01:30:11.020 --> 01:30:17.579
+Danny Park: who we need to talk to to and help us understand that data set so we could get to the best answer possible.
+
+717
+01:30:17.960 --> 01:30:21.490
+Danny Park: Not just a answer or not. Just a good answer.
+
+718
+01:30:21.520 --> 01:30:30.359
+Danny Park: It's about the best answer, because that best answer is, what's going to either provide us the highest probability of success or the lowest probability of success?
+
+719
+01:30:33.860 --> 01:30:39.890
+Danny Park: Any other questions. Sorry we went a little over. So I wanna I don't wanna hold anyone on any longer. But any other
+
+720
+01:30:40.090 --> 01:30:41.930
+Danny Park: questions comments.
+
+721
+01:30:41.970 --> 01:30:49.229
+Danny Park: Hope this was like very helpful, or or at least interesting. Anyone have any comments on that? Was it helpful? Yes or no? Or
+
+722
+01:30:50.290 --> 01:30:54.089
+Mustafa Afif: Professor? Are these topics gonna be on on the exam.
+
+723
+01:30:55.110 --> 01:30:58.760
+Danny Park: yeah, the the the machine learning parts and the AI stuff.
+
+724
+01:30:59.440 --> 01:31:00.909
+Mustafa Afif: Okay, thank you.
+
+725
+01:31:01.590 --> 01:31:04.090
+Leonard (Wess): It's very interesting and thought provoking.
+
+726
+01:31:05.060 --> 01:31:12.869
+Danny Park: Yeah, yeah, hope I, that's that's really good feedback. And and and and II hope to continue to to
+
+727
+01:31:13.090 --> 01:31:22.249
+Danny Park: provide thought provoking content. Because that's what. Again, that's what business analyst really is. It's it's about provoking that thought and getting everyone to understand
+
+728
+01:31:22.510 --> 01:31:27.100
+Danny Park: that we have to bring wisdom into the in that analytics that we do.
+
+729
+01:31:27.170 --> 01:31:30.369
+Danny Park: but awesome. Everyone sorry for going over.
+
+730
+01:31:30.670 --> 01:31:42.730
+Eugenia Salgado: Have a great week. Have a great weekend, and I will talk to everyone next week. Thanks everybody.
+
+731
+01:31:42.850 --> 01:31:43.760
+Mohammed Hafeez: Professor.
+
